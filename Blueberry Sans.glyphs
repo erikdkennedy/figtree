@@ -2,7 +2,7 @@
 .appVersion = "3058";
 .formatVersion = 3;
 DisplayStrings = (
-"(hoy there)"
+"Blueberry Sans"
 );
 axes = (
 {
@@ -10953,11 +10953,11 @@ name = Regular;
 },
 {
 axesValues = (
-500
+550
 );
 instanceInterpolations = {
-"747A0BA5-337F-45E8-9896-B2CAF0968805" = 0.33333;
-m01 = 0.66667;
+"747A0BA5-337F-45E8-9896-B2CAF0968805" = 0.41667;
+m01 = 0.58333;
 };
 name = Medium;
 weightClass = 500;
@@ -10983,7 +10983,6 @@ instanceInterpolations = {
 "747A0BA5-337F-45E8-9896-B2CAF0968805" = 0.83333;
 m01 = 0.16667;
 };
-isBold = 1;
 linkStyle = Medium;
 name = "Extra Bold";
 weightClass = 800;
