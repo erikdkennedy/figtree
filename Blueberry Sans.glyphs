@@ -2990,7 +2990,7 @@ unicode = 90;
 glyphname = a;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
-lastChange = "2021-06-02 20:07:44 +0000";
+lastChange = "2021-06-03 22:53:41 +0000";
 layers = (
 {
 layerId = m01;
