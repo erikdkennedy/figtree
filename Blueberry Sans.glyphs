@@ -1,8 +1,9 @@
 {
-.appVersion = "3058";
+.appVersion = "3087";
 .formatVersion = 3;
 DisplayStrings = (
-"Blueberry Sans"
+"Blueberry Sans",
+"ÀÀÀÀÈÈÈÈÌÌÌÌÒÒÒÒÙÙÙÙààààèèèèòòòòùùùù"
 );
 axes = (
 {
@@ -205,15 +206,17 @@ unicode = 196;
 },
 {
 glyphname = Agrave;
-lastChange = "2021-06-02 19:23:48 +0000";
+lastChange = "2021-06-16 10:42:43 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 ref = A;
 },
 {
+alignment = -1;
 pos = (70,141);
 ref = grave;
 }
@@ -224,9 +227,11 @@ width = 662;
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
 shapes = (
 {
+alignment = -1;
 ref = A;
 },
 {
+alignment = -1;
 pos = (101,148);
 ref = grave;
 }
@@ -879,15 +884,17 @@ unicode = 203;
 },
 {
 glyphname = Egrave;
-lastChange = "2021-06-02 19:22:53 +0000";
+lastChange = "2021-06-16 10:42:43 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 ref = E;
 },
 {
+alignment = -1;
 pos = (41,141);
 ref = grave;
 }
@@ -898,9 +905,11 @@ width = 553;
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
 shapes = (
 {
+alignment = -1;
 ref = E;
 },
 {
+alignment = -1;
 pos = (15,147);
 ref = grave;
 }
@@ -1243,15 +1252,17 @@ unicode = 207;
 },
 {
 glyphname = Igrave;
-lastChange = "2021-06-02 19:24:02 +0000";
+lastChange = "2021-06-16 10:42:43 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 ref = I;
 },
 {
+alignment = -1;
 pos = (-123,137);
 ref = grave;
 }
@@ -1262,9 +1273,11 @@ width = 264;
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
 shapes = (
 {
+alignment = -1;
 ref = I;
 },
 {
+alignment = -1;
 pos = (-122,150);
 ref = grave;
 }
@@ -1817,15 +1830,17 @@ unicode = 214;
 },
 {
 glyphname = Ograve;
-lastChange = "2021-06-02 19:24:18 +0000";
+lastChange = "2021-06-16 10:42:43 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 ref = O;
 },
 {
+alignment = -1;
 pos = (138,140);
 ref = grave;
 }
@@ -1836,9 +1851,11 @@ width = 772;
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
 shapes = (
 {
+alignment = -1;
 ref = O;
 },
 {
+alignment = -1;
 pos = (128,170);
 ref = grave;
 }
@@ -2542,15 +2559,17 @@ unicode = 220;
 },
 {
 glyphname = Ugrave;
-lastChange = "2021-06-02 19:59:51 +0000";
+lastChange = "2021-06-16 10:42:43 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 ref = U;
 },
 {
+alignment = -1;
 pos = (79,138);
 ref = grave;
 }
@@ -2561,9 +2580,11 @@ width = 669;
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
 shapes = (
 {
+alignment = -1;
 ref = U;
 },
 {
+alignment = -1;
 pos = (40,139);
 ref = grave;
 }
@@ -3157,15 +3178,17 @@ unicode = 228;
 },
 {
 glyphname = agrave;
-lastChange = "2021-06-01 15:01:22 +0000";
+lastChange = "2021-06-16 10:42:43 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 ref = a;
 },
 {
+alignment = -1;
 ref = grave;
 }
 );
@@ -3175,9 +3198,11 @@ width = 511;
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
 shapes = (
 {
+alignment = -1;
 ref = a;
 },
 {
+alignment = -1;
 ref = grave;
 }
 );
@@ -3733,15 +3758,17 @@ unicode = 235;
 },
 {
 glyphname = egrave;
-lastChange = "2021-06-01 15:01:22 +0000";
+lastChange = "2021-06-16 10:42:43 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 ref = e;
 },
 {
+alignment = -1;
 ref = grave;
 }
 );
@@ -3751,9 +3778,11 @@ width = 548;
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
 shapes = (
 {
+alignment = -1;
 ref = e;
 },
 {
+alignment = -1;
 ref = grave;
 }
 );
@@ -4756,15 +4785,17 @@ unicode = 246;
 },
 {
 glyphname = ograve;
-lastChange = "2021-05-30 14:49:18 +0000";
+lastChange = "2021-06-16 10:42:43 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 ref = o;
 },
 {
+alignment = -1;
 ref = grave;
 }
 );
@@ -4774,9 +4805,11 @@ width = 579;
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
 shapes = (
 {
+alignment = -1;
 ref = o;
 },
 {
+alignment = -1;
 ref = grave;
 }
 );
@@ -5377,15 +5410,17 @@ unicode = 252;
 },
 {
 glyphname = ugrave;
-lastChange = "2021-06-01 15:01:22 +0000";
+lastChange = "2021-06-16 10:42:43 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
+alignment = -1;
 ref = u;
 },
 {
+alignment = -1;
 ref = grave;
 }
 );
@@ -5395,9 +5430,11 @@ width = 554;
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
 shapes = (
 {
+alignment = -1;
 ref = u;
 },
 {
+alignment = -1;
 ref = grave;
 }
 );
