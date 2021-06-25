@@ -2,7 +2,7 @@
 .appVersion = "3088";
 .formatVersion = 3;
 DisplayStrings = (
-flitter
+kicker
 );
 axes = (
 {
@@ -4745,7 +4745,7 @@ unicode = 106;
 {
 glyphname = k;
 kernRight = "indented-right-lowercase";
-lastChange = "2021-06-02 15:11:37 +0000";
+lastChange = "2021-06-25 17:59:51 +0000";
 layers = (
 {
 layerId = m01;
@@ -4782,6 +4782,7 @@ width = 478;
 },
 {
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+name = Black;
 shapes = (
 {
 closed = 1;
