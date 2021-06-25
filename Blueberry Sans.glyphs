@@ -2,7 +2,7 @@
 .appVersion = "3088";
 .formatVersion = 3;
 DisplayStrings = (
-flipfone
+flitter
 );
 axes = (
 {
@@ -12320,7 +12320,7 @@ nV = "180";
 nd = "160";
 oH = "170";
 oV = "180";
-tH = "150";
+tH = "140";
 };
 m01 = {
 HH = "58";
