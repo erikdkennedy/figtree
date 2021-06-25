@@ -1,5 +1,6 @@
 {
 .appVersion = "3088";
+.storedFileType = com.schriftgestaltung.glyphs;
 .formatVersion = 3;
 DisplayStrings = (
 ""
@@ -7903,7 +7904,7 @@ unicode = 56;
 },
 {
 glyphname = nine;
-lastChange = "2021-06-16 13:06:48 +0000";
+lastChange = "2021-06-25 16:18:13 +0000";
 layers = (
 {
 layerId = m01;
@@ -7963,52 +7964,9 @@ width = 560;
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
 shapes = (
 {
-closed = 1;
-nodes = (
-(118,716,o),
-(30,611,o),
-(30,482,cs),
-(30,347,o),
-(125,258,o),
-(257,258,cs),
-(317,258,o),
-(378,276,o),
-(408,341,c),
-(383,363,l),
-(383,190,o),
-(334,144,o),
-(232,144,cs),
-(212,144,o),
-(176,145,o),
-(144,177,c),
-(52,48,l),
-(105,5,o),
-(176,-14,o),
-(246,-14,cs),
-(478,-14,o),
-(549,197,o),
-(549,377,cs),
-(549,588,o),
-(452,716,o),
-(277,716,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(362,434,o),
-(326,399,o),
-(280,399,cs),
-(236,399,o),
-(200,434,o),
-(200,482,cs),
-(200,528,o),
-(236,564,o),
-(280,564,cs),
-(326,564,o),
-(362,528,o),
-(362,482,cs)
-);
+angle = 180;
+pos = (594,699);
+ref = six;
 }
 );
 width = 594;
@@ -8041,6 +7999,7 @@ width = 560;
 }
 );
 unicode = 57;
+changeCount = 4;
 },
 {
 glyphname = onesuperior;
@@ -10271,7 +10230,7 @@ width = 631;
 {
 background = {
 backgroundImage = {
-imagePath = "../../../Desktop/Screen Shot 2021-05-24 at 9.37.48 AM.png";
+imagePath = "/Users/Desktop/Screen Shot 2021-05-24 at 9.37.48 AM.png";
 pos = (13,-37);
 scale = (4.9751,4.9751);
 };
