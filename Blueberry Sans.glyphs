@@ -2,7 +2,7 @@
 .appVersion = "3088";
 .formatVersion = 3;
 DisplayStrings = (
-kicker
+"We win!"
 );
 axes = (
 {
@@ -5845,7 +5845,7 @@ unicode = 118;
 glyphname = w;
 kernLeft = "undercut-left-lowercase";
 kernRight = "undercut-right-lowercase";
-lastChange = "2021-06-02 19:44:19 +0000";
+lastChange = "2021-06-25 18:04:41 +0000";
 layers = (
 {
 layerId = m01;
@@ -5904,8 +5904,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(366,0,l),
-(522,500,l),
+(356,0,l),
+(504,500,l),
 (353,500,l),
 (201,0,l)
 );
@@ -5913,23 +5913,23 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(688,0,l),
-(537,500,l),
-(368,500,l),
-(523,0,l)
+(681,0,l),
+(530,500,l),
+(379,500,l),
+(526,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(709,0,l),
-(880,500,l),
-(696,500,l),
-(544,0,l)
+(702,0,l),
+(873,500,l),
+(689,500,l),
+(527,0,l)
 );
 }
 );
-width = 890;
+width = 883;
 }
 );
 unicode = 119;
