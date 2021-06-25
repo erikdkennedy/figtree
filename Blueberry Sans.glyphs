@@ -1,6 +1,9 @@
 {
 .appVersion = "3088";
 .formatVersion = 3;
+DisplayStrings = (
+kvwxyzs
+);
 axes = (
 {
 name = Weight;
@@ -47,7 +50,6 @@ GSOffsetMakeStroke = 1;
 GSOffsetPosition = 1;
 GSOffsetVertical = 32;
 };
-visible = 1;
 },
 {
 axesValues = (
@@ -83,7 +85,6 @@ GSOffsetMakeStroke = 1;
 GSOffsetPosition = 0;
 GSOffsetVertical = 55;
 };
-visible = 1;
 }
 );
 glyphs = (
@@ -5858,7 +5859,7 @@ unicode = 119;
 glyphname = x;
 kernLeft = "indented-left-lowercase";
 kernRight = "indented-right-lowercase";
-lastChange = "2021-06-02 20:08:30 +0000";
+lastChange = "2021-06-25 05:49:03 +0000";
 layers = (
 {
 annotations = (
@@ -5901,10 +5902,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(232,233,l),
+(232,213,l),
 (369,0,l),
 (582,0,l),
-(380,268,l),
+(377,284,l),
 (235,500,l),
 (23,500,l)
 );
@@ -5913,10 +5914,10 @@ nodes = (
 closed = 1;
 nodes = (
 (358,500,l),
-(214,268,l),
+(216,284,l),
 (10,0,l),
 (224,0,l),
-(363,233,l),
+(363,213,l),
 (570,500,l)
 );
 }
