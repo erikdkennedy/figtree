@@ -2,8 +2,7 @@
 .appVersion = "3088";
 .formatVersion = 3;
 DisplayStrings = (
-"Jewelry
-HAJJ"
+NEIGHNORNOOD
 );
 axes = (
 {
@@ -1616,7 +1615,7 @@ unicode = 77;
 },
 {
 glyphname = N;
-lastChange = "2021-05-12 00:51:11 +0000";
+lastChange = "2021-06-25 18:46:13 +0000";
 layers = (
 {
 layerId = m01;
@@ -1624,6 +1623,7 @@ shapes = (
 {
 closed = 1;
 nodes = (
+(164,655,l),
 (164,700,l),
 (100,700,l),
 (100,0,l),
@@ -1657,7 +1657,8 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(260,700,l),
+(260,529,l),
+(265,700,l),
 (70,700,l),
 (70,0,l),
 (260,-1,l)
@@ -1675,9 +1676,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(657,102,l),
-(260,700,l),
-(112,598,l),
+(657,96,l),
+(265,700,l),
+(112,608,l),
 (508,0,l)
 );
 }
