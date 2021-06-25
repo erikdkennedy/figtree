@@ -2,7 +2,7 @@
 .appVersion = "3088";
 .formatVersion = 3;
 DisplayStrings = (
-"BROCK PARTY"
+"RABAT Arrow"
 );
 axes = (
 {
@@ -90,7 +90,7 @@ GSOffsetVertical = 55;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2021-06-18 08:08:52 +0000";
+lastChange = "2021-06-25 18:33:55 +0000";
 layers = (
 {
 anchors = (
@@ -143,15 +143,15 @@ width = 662;
 anchors = (
 {
 name = bottom;
-pos = (385,0);
+pos = (365,0);
 },
 {
 name = ogonek;
-pos = (692,10);
+pos = (672,10);
 },
 {
 name = top;
-pos = (385,700);
+pos = (365,700);
 }
 );
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
@@ -160,31 +160,31 @@ shapes = (
 closed = 1;
 nodes = (
 (190,0,l),
-(476,700,l),
-(293,700,l),
+(446,700,l),
+(273,700,l),
 (5,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(476,700,l),
-(293,700,l),
-(579,0,l),
-(764,0,l)
+(456,700,l),
+(283,700,l),
+(539,0,l),
+(724,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(141,118,l),
-(625,118,l),
-(625,276,l),
-(141,276,l)
+(123,120,l),
+(607,120,l),
+(607,278,l),
+(123,278,l)
 );
 }
 );
-width = 769;
+width = 729;
 }
 );
 unicode = 65;
@@ -2158,7 +2158,7 @@ unicode = 81;
 },
 {
 glyphname = R;
-lastChange = "2021-06-25 18:27:58 +0000";
+lastChange = "2021-06-25 18:30:09 +0000";
 layers = (
 {
 layerId = m01;
@@ -2247,7 +2247,7 @@ closed = 1;
 nodes = (
 (673,0,l),
 (425,379,l),
-(274,285,l),
+(295,275,l),
 (461,0,l)
 );
 }
