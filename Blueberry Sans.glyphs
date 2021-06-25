@@ -2,7 +2,7 @@
 .appVersion = "3088";
 .formatVersion = 3;
 DisplayStrings = (
-"1690"
+"10 Things To Do"
 );
 axes = (
 {
@@ -6623,7 +6623,7 @@ unicode = 48;
 },
 {
 glyphname = one;
-lastChange = "2021-06-16 12:45:03 +0000";
+lastChange = "2021-06-25 18:14:39 +0000";
 layers = (
 {
 layerId = m01;
@@ -6634,6 +6634,7 @@ nodes = (
 (272,0,l),
 (274,700,l),
 (210,700,l),
+(210,666,l),
 (208,0,l)
 );
 },
@@ -6655,23 +6656,24 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(363,0,l),
-(363,700,l),
-(183,700,l),
-(183,0,l)
+(343,0,l),
+(343,700,l),
+(187,700,l),
+(168,601,l),
+(168,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(94,462,l),
-(257,558,l),
-(183,700,l),
-(10,604,l)
+(83,467,l),
+(251,575,l),
+(187,700,l),
+(5,591,l)
 );
 }
 );
-width = 433;
+width = 403;
 }
 );
 unicode = 49;
@@ -8091,6 +8093,7 @@ unicode = 57;
 },
 {
 glyphname = onesuperior;
+lastChange = "2021-06-25 18:14:46 +0000";
 layers = (
 {
 layerId = m01;
@@ -8108,7 +8111,7 @@ shapes = (
 ref = one;
 }
 );
-width = 433;
+width = 403;
 }
 );
 metricLeft = one;
