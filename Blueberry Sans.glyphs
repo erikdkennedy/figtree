@@ -2,7 +2,7 @@
 .appVersion = "3089";
 .formatVersion = 3;
 DisplayStrings = (
-Jeea
+Illinois
 );
 axes = (
 {
@@ -1200,7 +1200,7 @@ unicode = 72;
 },
 {
 glyphname = I;
-lastChange = "2021-05-06 04:33:41 +0000";
+lastChange = "2021-06-27 07:01:33 +0000";
 layers = (
 {
 layerId = m01;
@@ -4796,7 +4796,7 @@ unicode = 107;
 },
 {
 glyphname = l;
-lastChange = "2021-04-25 21:43:45 +0000";
+lastChange = "2021-06-27 07:00:24 +0000";
 layers = (
 {
 layerId = m01;
@@ -4805,8 +4805,8 @@ shapes = (
 closed = 1;
 nodes = (
 (135,0,l),
-(137,716,l),
-(77,716,l),
+(137,742,l),
+(77,742,l),
 (75,0,l)
 );
 }
@@ -4819,14 +4819,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(229,0,l),
-(229,716,l),
-(55,716,l),
+(219,0,l),
+(219,742,l),
+(55,742,l),
 (55,0,l)
 );
 }
 );
-width = 284;
+width = 274;
 }
 );
 unicode = 108;
