@@ -2,7 +2,8 @@
 .appVersion = "3089";
 .formatVersion = 3;
 DisplayStrings = (
-Illinois
+"Wimbledon
+wimbledon"
 );
 axes = (
 {
@@ -2673,7 +2674,7 @@ unicode = 86;
 },
 {
 glyphname = W;
-lastChange = "2021-06-02 07:18:45 +0000";
+lastChange = "2021-06-27 07:09:06 +0000";
 layers = (
 {
 background = {
@@ -2773,9 +2774,9 @@ nodes = (
 closed = 1;
 nodes = (
 (396,0,l),
-(592,700,l),
+(572,700,l),
 (408,700,l),
-(221,0,l)
+(231,0,l)
 );
 },
 {
@@ -2783,7 +2784,7 @@ closed = 1;
 nodes = (
 (779,0,l),
 (592,700,l),
-(408,700,l),
+(428,700,l),
 (604,0,l)
 );
 },
