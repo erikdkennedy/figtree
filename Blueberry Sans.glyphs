@@ -2,8 +2,7 @@
 .appVersion = "3089";
 .formatVersion = 3;
 DisplayStrings = (
-"Wimbledon
-wimbledon"
+Wimbledon
 );
 axes = (
 {
@@ -3793,7 +3792,7 @@ unicode = 240;
 glyphname = e;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
-lastChange = "2021-06-27 06:56:30 +0000";
+lastChange = "2021-06-27 22:17:47 +0000";
 layers = (
 {
 background = {
@@ -3933,12 +3932,12 @@ nodes = (
 (35,94,o),
 (143,-16,o),
 (296,-16,cs),
-(399,-16,o),
-(500,33,o),
-(544,121,c),
-(404,191,l),
-(385,155,o),
-(365,132,o),
+(403,-16,o),
+(508,33,o),
+(554,120,c),
+(414,190,l),
+(393,155,o),
+(366,132,o),
 (317,132,cs),
 (250,132,o),
 (202,177,o),
@@ -3961,7 +3960,7 @@ nodes = (
 );
 }
 );
-width = 598;
+width = 593;
 },
 {
 associatedMasterId = m01;
@@ -4056,7 +4055,7 @@ width = 581;
 }
 );
 metricLeft = o;
-metricRight = "=o-5";
+metricRight = "=o-10";
 unicode = 101;
 },
 {
