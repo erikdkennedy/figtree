@@ -5020,7 +5020,7 @@ unicode = 241;
 glyphname = o;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
-lastChange = "2021-06-27 06:54:27 +0000";
+lastChange = "2021-06-27 07:05:14 +0000";
 layers = (
 {
 anchors = (
@@ -5085,6 +5085,28 @@ nodes = (
 width = 579;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (301,0);
+},
+{
+name = center;
+pos = (301,250);
+},
+{
+name = ogonek;
+pos = (541,10);
+},
+{
+name = top;
+pos = (301,500);
+},
+{
+name = topright;
+pos = (581,500);
+}
+);
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
 shapes = (
 {
