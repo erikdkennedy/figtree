@@ -2,7 +2,7 @@
 .appVersion = "3089";
 .formatVersion = 3;
 DisplayStrings = (
-"/a.002 lls/a.002 ints"
+"erik@learnui.design"
 );
 axes = (
 {
@@ -50,7 +50,6 @@ GSOffsetMakeStroke = 1;
 GSOffsetPosition = 1;
 GSOffsetVertical = 32;
 };
-visible = 1;
 },
 {
 axesValues = (
@@ -3032,7 +3031,7 @@ unicode = 90;
 glyphname = a;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
-lastChange = "2021-06-25 18:08:45 +0000";
+lastChange = "2021-06-27 06:30:39 +0000";
 layers = (
 {
 guides = (
@@ -3343,7 +3342,6 @@ nodes = (
 );
 }
 );
-visible = 1;
 width = 548;
 }
 );
@@ -10167,7 +10165,7 @@ unicode = 39;
 },
 {
 glyphname = at;
-lastChange = "2021-05-24 15:05:19 +0000";
+lastChange = "2021-06-27 06:32:50 +0000";
 layers = (
 {
 layerId = m01;
@@ -10252,8 +10250,8 @@ nodes = (
 (712,100,c),
 (646,100,l),
 (646,28,o),
-(690,-20,o),
-(753,-15,c)
+(682,-16,o),
+(753,-15,cs)
 );
 },
 {
@@ -10356,18 +10354,18 @@ nodes = (
 (819,91,o),
 (770,91,cs),
 (745,91,o),
-(727,103,o),
-(727,120,c),
+(727,96,o),
+(727,130,c),
 (597,120,l),
 (597,41,o),
 (669,-15,o),
-(756,-15,c)
+(756,-15,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(727,120,l),
+(727,130,l),
 (727,479,l),
 (587,479,l),
 (597,120,l)
