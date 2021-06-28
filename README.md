@@ -6,4 +6,4 @@ A simple and friendly geometric sans serif font.
 
 ![](images/latin@2x.png)
 
-![](images/characters@2x.png)
+![](images/text@2x.png)
