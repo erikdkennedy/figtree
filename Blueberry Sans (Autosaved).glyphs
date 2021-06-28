@@ -1,5 +1,6 @@
 {
 .appVersion = "3089";
+.storedFileType = com.schriftgestaltung.glyphs;
 .formatVersion = 3;
 DisplayStrings = (
 553322SSeessJJc
@@ -515,7 +516,7 @@ unicode = 66;
 },
 {
 glyphname = C;
-lastChange = "2021-06-02 07:12:31 +0000";
+lastChange = "2021-06-28 04:05:19 +0000";
 layers = (
 {
 layerId = m01;
@@ -533,9 +534,9 @@ nodes = (
 (50,136,o),
 (190,-16,o),
 (389,-16,cs),
-(508,-16,o),
-(629,61,o),
-(681,170,c),
+(507,-16,o),
+(627,59,o),
+(679,166,c),
 (626,199,l),
 (584,106,o),
 (486,40,o),
@@ -546,9 +547,9 @@ nodes = (
 (114,530,o),
 (227,658,o),
 (386,658,cs),
-(480,658,o),
-(577,600,o),
-(620,517,c)
+(481,658,o),
+(579,598,o),
+(622,513,c)
 );
 }
 );
@@ -633,6 +634,7 @@ width = 739;
 metricLeft = O;
 metricRight = "=O-10";
 unicode = 67;
+changeCount = 45;
 },
 {
 glyphname = Ccedilla;
@@ -3485,7 +3487,7 @@ unicode = 98;
 glyphname = c;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
-lastChange = "2021-06-28 04:01:20 +0000";
+lastChange = "2021-06-28 04:03:10 +0000";
 layers = (
 {
 background = {
@@ -3647,6 +3649,7 @@ width = 580;
 metricLeft = o;
 metricRight = "=e-5";
 unicode = 99;
+changeCount = 2;
 },
 {
 glyphname = ccedilla;
@@ -10526,7 +10529,7 @@ width = 631;
 {
 background = {
 backgroundImage = {
-imagePath = "../../../Desktop/Screen Shot 2021-05-24 at 9.37.48 AM.png";
+imagePath = "/Users/Desktop/Screen Shot 2021-05-24 at 9.37.48 AM.png";
 pos = (13,-37);
 scale = (4.9751,4.9751);
 };
