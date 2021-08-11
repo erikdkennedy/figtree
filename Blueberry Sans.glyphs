@@ -2,7 +2,7 @@
 .appVersion = "3095";
 .formatVersion = 3;
 DisplayStrings = (
-"8&→"
+"Magnus & Sons"
 );
 axes = (
 {
@@ -1550,7 +1550,7 @@ unicode = 76;
 },
 {
 glyphname = M;
-lastChange = "2021-08-02 04:26:04 +0000";
+lastChange = "2021-08-11 05:54:02 +0000";
 layers = (
 {
 layerId = m01;
@@ -1569,7 +1569,7 @@ closed = 1;
 nodes = (
 (451,275,l),
 (164,700,l),
-(239,681,l),
+(139,681,l),
 (116,663,l),
 (420,211,l)
 );
