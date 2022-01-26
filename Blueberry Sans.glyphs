@@ -5270,43 +5270,6 @@ metricRight = l;
 unicode = 100;
 },
 {
-glyphname = eth;
-lastChange = "2022-01-26 06:18:20 +0000";
-layers = (
-{
-anchors = (
-{
-name = bottom;
-pos = (290,0);
-},
-{
-name = center;
-pos = (290,250);
-},
-{
-name = ogonek;
-pos = (521,10);
-},
-{
-name = top;
-pos = (290,500);
-},
-{
-name = topright;
-pos = (559,500);
-}
-);
-layerId = m01;
-width = 600;
-},
-{
-layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
-width = 600;
-}
-);
-unicode = 240;
-},
-{
 glyphname = e;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
