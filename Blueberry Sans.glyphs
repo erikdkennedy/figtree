@@ -15224,22 +15224,22 @@ name = Regular;
 },
 {
 axesValues = (
-550
+540
 );
 instanceInterpolations = {
-"747A0BA5-337F-45E8-9896-B2CAF0968805" = 0.41667;
-m01 = 0.58333;
+"747A0BA5-337F-45E8-9896-B2CAF0968805" = 0.4;
+m01 = 0.6;
 };
 name = Medium;
 weightClass = 500;
 },
 {
 axesValues = (
-700
+660
 );
 instanceInterpolations = {
-"747A0BA5-337F-45E8-9896-B2CAF0968805" = 0.66667;
-m01 = 0.33333;
+"747A0BA5-337F-45E8-9896-B2CAF0968805" = 0.6;
+m01 = 0.4;
 };
 isBold = 1;
 linkStyle = Regular;
