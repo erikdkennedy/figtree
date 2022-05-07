@@ -2,8 +2,8 @@
 .appVersion = "3114";
 .formatVersion = 3;
 DisplayStrings = (
-"sans serif 
-hasta visa liso"
+"visa sieve vassal 
+save stove vishnu"
 );
 axes = (
 {
@@ -53,6 +53,7 @@ GSOffsetHorizontal = 25;
 GSOffsetMakeStroke = 1;
 GSOffsetVertical = 23;
 };
+visible = 1;
 },
 {
 axesValues = (
@@ -91,6 +92,7 @@ GSOffsetMakeStroke = 1;
 GSOffsetPosition = 0.36;
 GSOffsetVertical = 55;
 };
+visible = 1;
 }
 );
 glyphs = (
@@ -8936,7 +8938,7 @@ unicode = 249;
 glyphname = v;
 kernLeft = "undercut-left-lowercase";
 kernRight = "undercut-right-lowercase";
-lastChange = "2022-01-26 20:22:45 +0000";
+lastChange = "2022-05-07 06:33:46 +0000";
 layers = (
 {
 layerId = m01;
@@ -8968,23 +8970,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(409,0,l),
-(620,500,l),
-(434,500,l),
-(234,0,l)
+(399,0,l),
+(600,500,l),
+(414,500,l),
+(228,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(396,0,l),
+(382,0,l),
 (196,500,l),
 (10,500,l),
-(221,0,l)
+(211,0,l)
 );
 }
 );
-width = 630;
+width = 610;
 }
 );
 unicode = 118;
