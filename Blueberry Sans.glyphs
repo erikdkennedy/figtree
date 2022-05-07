@@ -1,5 +1,5 @@
 {
-.appVersion = "3110";
+.appVersion = "3114";
 .formatVersion = 3;
 DisplayStrings = (
 "Amy Arnold Always
@@ -28,7 +28,8 @@ Went Whence Water Why
 Xylophone Xhosa
 Yes Yves Yup
 Zip Zag Zloty
-"
+",
+T
 );
 axes = (
 {
@@ -3801,7 +3802,7 @@ unicode = 7838;
 glyphname = T;
 kernLeft = undercut_left_uppercase;
 kernRight = undercut_right_uppercase;
-lastChange = "2022-01-26 20:57:36 +0000";
+lastChange = "2022-05-07 05:19:17 +0000";
 layers = (
 {
 layerId = m01;
@@ -3833,23 +3834,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(408,0,l),
-(408,642,l),
-(223,642,l),
-(223,0,l)
+(400,0,l),
+(400,642,l),
+(215,642,l),
+(215,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(615,530,l),
-(615,700,l),
-(15,700,l),
-(15,530,l)
+(597,530,l),
+(597,700,l),
+(17,700,l),
+(17,530,l)
 );
 }
 );
-width = 630;
+width = 614;
 }
 );
 unicode = 84;
@@ -16547,6 +16548,9 @@ Y = {
 "@MMK_L_A" = {
 "@MMK_R_undercut-left-lowercase" = -70;
 };
+"@MMK_L_A_form" = {
+"@MMK_R_undercut-left-lowercase" = -80;
+};
 "@MMK_L_indented-right-lowercase" = {
 "@MMK_R_round-left-lowercase" = -40;
 i = 0;
@@ -16652,9 +16656,6 @@ s = -2;
 };
 z = {
 o = -1;
-};
-"@MMK_L_A_form" = {
-"@MMK_R_undercut-left-lowercase" = -80;
 };
 };
 };
