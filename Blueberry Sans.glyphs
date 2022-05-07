@@ -2,34 +2,13 @@
 .appVersion = "3114";
 .formatVersion = 3;
 DisplayStrings = (
-"Amy Arnold Always
-Ben Brittany Bland Bold Banger
-Crazy Cloud Cthulu
-Drum Dharma Dolt
-Erik Elf Eames
-Frank Flunk Falafel
-Grunge Glug Game
-Hotel Hloty Hammer
-Ink Idris Illinois
-June Jeep Jhunk
-Kilo Karnataka Khufu
-Lima Loony Lhock
-Minnow Mallory Myth
-Nope Niner Nyquil
-Oaxaca Oink Ohh!
-Pink Prude Pants Pheasant
-Quick Qatar
-Rink Ran Rhythm Ryder
-Sun Simple Syntax 
-Trust Tile That
-Unwell Ulrich Uygher
-Vex Vixen Vain
-Went Whence Water Why
-Xylophone Xhosa
-Yes Yves Yup
-Zip Zag Zloty
-",
-T
+"“Today’s Tasks” Ax’s Riv’s Rye’s
+“Sean’s Stuff”
+“Ordinario’s sill”
+“TRAPPED!?”
+“Appear!”
+“He said ‘Hey’” but SASS’S
+“Only want ‘OPEC’” and"
 );
 axes = (
 {
@@ -8230,7 +8209,7 @@ unicode = 114;
 {
 glyphname = s;
 kernLeft = short_lower_case;
-lastChange = "2022-01-26 20:06:07 +0000";
+lastChange = "2022-05-07 05:53:51 +0000";
 layers = (
 {
 guides = (
@@ -13490,7 +13469,7 @@ unicode = 8222;
 },
 {
 glyphname = quotedblleft;
-lastChange = "2021-06-28 05:14:38 +0000";
+lastChange = "2022-05-07 05:44:00 +0000";
 layers = (
 {
 layerId = m01;
@@ -13513,30 +13492,30 @@ layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
 shapes = (
 {
 angle = 180;
-pos = (266,591);
+pos = (264,591);
 ref = comma;
 },
 {
 angle = 180;
-pos = (505,591);
+pos = (503,591);
 ref = comma;
 }
 );
-width = 495;
+width = 493;
 }
 );
 unicode = 8220;
 },
 {
 glyphname = quotedblright;
-lastChange = "2021-06-28 05:14:57 +0000";
+lastChange = "2022-05-07 05:44:05 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
 angle = 180;
-pos = (297,1284);
+pos = (297,1197);
 ref = quotedblleft;
 }
 );
@@ -13547,11 +13526,11 @@ layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
 shapes = (
 {
 angle = 180;
-pos = (495,1117);
+pos = (493,1145);
 ref = quotedblleft;
 }
 );
-width = 495;
+width = 493;
 }
 );
 metricLeft = "=|quotedblleft";
@@ -13560,7 +13539,7 @@ unicode = 8221;
 },
 {
 glyphname = quoteleft;
-lastChange = "2021-06-28 05:14:46 +0000";
+lastChange = "2022-05-07 05:44:27 +0000";
 layers = (
 {
 layerId = m01;
@@ -13578,11 +13557,11 @@ layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
 shapes = (
 {
 angle = 180;
-pos = (266,591);
+pos = (264,587);
 ref = comma;
 }
 );
-width = 256;
+width = 254;
 }
 );
 metricLeft = quotedblleft;
@@ -13591,7 +13570,7 @@ unicode = 8216;
 },
 {
 glyphname = quoteright;
-lastChange = "2021-06-28 05:15:04 +0000";
+lastChange = "2022-05-07 05:53:37 +0000";
 layers = (
 {
 layerId = m01;
@@ -13607,11 +13586,11 @@ width = 166;
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
 shapes = (
 {
-pos = (-10,545);
+pos = (-10,554);
 ref = comma;
 }
 );
-width = 256;
+width = 254;
 }
 );
 metricLeft = quotedblright;
@@ -16496,6 +16475,7 @@ m01 = {
 };
 "@MMK_L_undercut-right-lowercase" = {
 "@MMK_R_round-left-lowercase" = -10;
+quoteright = 30;
 };
 A = {
 "@MMK_R_round-left-lowercase" = -5;
@@ -16543,6 +16523,10 @@ Y = {
 "@MMK_R_round-left-lowercase" = -50;
 "@MMK_R_short_lower_case" = -20;
 };
+quoteright = {
+"@MMK_R_short_lower_case" = 0;
+s = -60;
+};
 };
 "747A0BA5-337F-45E8-9896-B2CAF0968805" = {
 "@MMK_L_A" = {
@@ -16564,6 +16548,7 @@ parenright = -20;
 };
 "@MMK_L_undercut-right-lowercase" = {
 "@MMK_R_round-left-lowercase" = -20;
+quoteright = 10;
 };
 A = {
 "@MMK_R_round-left-lowercase" = -15;
@@ -16656,6 +16641,9 @@ s = -2;
 };
 z = {
 o = -1;
+};
+quoteright = {
+s = -100;
 };
 };
 };
