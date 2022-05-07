@@ -2,8 +2,9 @@
 .appVersion = "3114";
 .formatVersion = 3;
 DisplayStrings = (
-"thread lemonade
-bleak exercise"
+"xylophone fyres!
+yes yves canyon 
+yup pinyin"
 );
 axes = (
 {
@@ -53,7 +54,6 @@ GSOffsetHorizontal = 25;
 GSOffsetMakeStroke = 1;
 GSOffsetVertical = 23;
 };
-visible = 1;
 },
 {
 axesValues = (
@@ -9264,7 +9264,7 @@ unicode = 120;
 glyphname = y;
 kernLeft = "undercut-left-lowercase";
 kernRight = "undercut-right-lowercase";
-lastChange = "2022-01-26 20:43:30 +0000";
+lastChange = "2022-05-07 06:21:55 +0000";
 layers = (
 {
 anchors = (
@@ -9323,18 +9323,18 @@ shapes = (
 closed = 1;
 nodes = (
 (322,-212,o),
-(356,-130,o),
-(403,-18,cs),
+(360,-130,o),
+(407,-18,cs),
 (622,500,l),
 (422,500,l),
 (287,130,l),
-(207,-11,ls),
-(198,-27,o),
-(195,-37,o),
-(174,-37,cs),
-(161,-37,o),
-(146,-31,o),
-(134,-21,c),
+(227,-10,ls),
+(216,-36,o),
+(195,-45,o),
+(174,-45,cs),
+(159,-45,o),
+(141,-37,o),
+(127,-25,c),
 (60,-170,l),
 (90,-190,o),
 (149,-212,o),
@@ -9345,10 +9345,10 @@ nodes = (
 closed = 1;
 nodes = (
 (410,0,l),
-(335,130,l),
+(349,130,l),
 (200,500,l),
 (0,500,l),
-(211,0,l)
+(240,0,l)
 );
 }
 );
