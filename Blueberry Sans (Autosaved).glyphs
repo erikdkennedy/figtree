@@ -5383,6 +5383,7 @@ width = 546;
 }
 );
 unicode = 227;
+changeCount = 1;
 },
 {
 glyphname = ae;
@@ -7674,6 +7675,7 @@ width = 583;
 }
 );
 unicode = 243;
+changeCount = 1;
 },
 {
 glyphname = ocircumflex;
@@ -13993,7 +13995,7 @@ width = 642;
 {
 background = {
 backgroundImage = {
-imagePath = "../../../Desktop/Screen Shot 2021-05-24 at 9.37.48 AM.png";
+imagePath = "/Users/Desktop/Screen Shot 2021-05-24 at 9.37.48 AM.png";
 pos = (20,-37);
 scale = (4.9751,4.9751);
 };
