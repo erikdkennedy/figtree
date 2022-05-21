@@ -1,9 +1,9 @@
 {
-.appVersion = "3114";
+.appVersion = "3127";
 .formatVersion = 3;
 DisplayStrings = (
-"A16Z May 166th 2026 6.25 BTC $60,000 6:46 PM
-"
+"H1N1 0101010
+24213  14th May"
 );
 axes = (
 {
@@ -87,10 +87,10 @@ pos = -200;
 );
 name = Black;
 userData = {
-GSOffsetHorizontal = 36;
+GSOffsetHorizontal = 80;
 GSOffsetMakeStroke = 1;
 GSOffsetPosition = 1;
-GSOffsetVertical = 35;
+GSOffsetVertical = 90;
 };
 visible = 1;
 }
@@ -5383,7 +5383,6 @@ width = 546;
 }
 );
 unicode = 227;
-changeCount = 1;
 },
 {
 glyphname = ae;
@@ -7675,7 +7674,6 @@ width = 583;
 }
 );
 unicode = 243;
-changeCount = 1;
 },
 {
 glyphname = ocircumflex;
@@ -10499,7 +10497,7 @@ unicode = 48;
 },
 {
 glyphname = one;
-lastChange = "2022-01-22 18:06:20 +0000";
+lastChange = "2022-05-21 06:30:42 +0000";
 layers = (
 {
 layerId = m01;
@@ -10507,24 +10505,28 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(272,0,l),
-(274,700,l),
-(210,700,l),
-(210,666,l),
-(208,0,l)
+(288,0,l),
+(290,700,l),
+(230,700,l),
+(226,666,l),
+(224,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(240,652,l),
-(210,700,l),
-(45,594,l),
-(77,543,l)
+(133,536,o),
+(204,589,o),
+(269,653,c),
+(230,700,l),
+(182,645,o),
+(103,594,o),
+(65,594,c),
+(65,536,l)
 );
 }
 );
-width = 374;
+width = 410;
 },
 {
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
@@ -10542,16 +10544,21 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(258,575,l),
-(194,700,l),
-(5,587,l),
-(83,463,l)
+(144,429,o),
+(234,500,o),
+(312,591,c),
+(194,702,l),
+(153,657,o),
+(92,603,o),
+(35,609,c),
+(35,441,l)
 );
 }
 );
-width = 410;
+width = 430;
 }
 );
+metricRight = "=I+20";
 unicode = 49;
 },
 {
@@ -11203,7 +11210,7 @@ unicode = 53;
 },
 {
 glyphname = six;
-lastChange = "2022-05-11 06:01:52 +0000";
+lastChange = "2022-05-11 17:42:18 +0000";
 layers = (
 {
 background = {
@@ -11287,18 +11294,18 @@ nodes = (
 (256,457,o),
 (197,412,o),
 (166,346,c),
-(194,327,l),
-(194,487,o),
-(242,551,o),
+(203,327,l),
+(203,487,o),
+(257,551,o),
 (330,551,cs),
 (363,551,o),
 (413,541,o),
 (454,514,c),
-(539,651,l),
-(482,690,o),
-(409,712,o),
+(541,650,l),
+(483,690,o),
+(410,712,o),
 (332,712,cs),
-(90,712,o),
+(100,712,o),
 (30,498,o),
 (30,305,cs),
 (30,124,o),
@@ -11810,7 +11817,7 @@ unicode = 190;
 },
 {
 glyphname = onesuperior;
-lastChange = "2021-08-01 15:57:53 +0000";
+lastChange = "2022-05-21 06:30:59 +0000";
 layers = (
 {
 layerId = m01;
@@ -11819,7 +11826,7 @@ shapes = (
 ref = one;
 }
 );
-width = 374;
+width = 410;
 },
 {
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
@@ -11834,6 +11841,7 @@ width = 410;
 metricLeft = one;
 metricRight = one;
 unicode = 185;
+changeCount = 1;
 },
 {
 glyphname = twosuperior;
