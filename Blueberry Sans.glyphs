@@ -2,8 +2,7 @@
 .appVersion = "3127";
 .formatVersion = 3;
 DisplayStrings = (
-"H1N1 0101010
-24213  14th May"
+"/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf"
 );
 axes = (
 {
@@ -13,6 +12,106 @@ tag = wght;
 );
 date = "2021-04-02 20:56:08 +0000";
 familyName = "Blueberry Sans";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn NLD;
+";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature tnum;
+feature locl;
+feature sups;
+feature frac;
+feature ordn;
+feature pnum;
+";
+tag = aalt;
+},
+{
+automatic = 1;
+code = "lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb circumflexcomb dieresiscomb dotaccentcomb gravecomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [cedillacomb];
+	sub [i j]' @CombiningTopAccents by [idotless jdotless];
+	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+} ccmp_Other_1;
+";
+tag = ccmp;
+},
+{
+automatic = 1;
+code = "lookup locl_latn_0 {
+	script latn;
+	language NLD;
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_0;
+";
+tag = locl;
+},
+{
+automatic = 1;
+code = "sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+";
+tag = sups;
+},
+{
+automatic = 1;
+code = "sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+";
+tag = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+";
+tag = ordn;
+},
+{
+automatic = 1;
+code = "sub zero.tf by zero;
+sub one.tf by one;
+sub two.tf by two;
+sub three.tf by three;
+sub four.tf by four;
+sub five.tf by five;
+sub six.tf by six;
+sub seven.tf by seven;
+sub eight.tf by eight;
+sub nine.tf by nine;
+";
+tag = pnum;
+},
+{
+automatic = 1;
+code = "sub zero by zero.tf;
+sub one by one.tf;
+sub two by two.tf;
+sub three by three.tf;
+sub four by four.tf;
+sub five by five.tf;
+sub six by six.tf;
+sub seven by seven.tf;
+sub eight by eight.tf;
+sub nine by nine.tf;
+";
+tag = tnum;
+}
+);
 fontMaster = (
 {
 axesValues = (
@@ -5353,7 +5452,7 @@ unicode = 229;
 {
 glyphname = atilde;
 kernLeft = "round-left-lowercase";
-lastChange = "2022-05-11 06:04:05 +0000";
+lastChange = "2022-05-21 22:36:22 +0000";
 layers = (
 {
 layerId = m01;
@@ -7644,7 +7743,7 @@ unicode = 111;
 glyphname = oacute;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
-lastChange = "2022-05-11 06:04:05 +0000";
+lastChange = "2022-05-21 22:36:22 +0000";
 layers = (
 {
 layerId = m01;
@@ -10563,7 +10662,7 @@ unicode = 49;
 },
 {
 glyphname = two;
-lastChange = "2021-08-02 05:25:57 +0000";
+lastChange = "2022-05-21 22:26:25 +0000";
 layers = (
 {
 layerId = m01;
@@ -11760,6 +11859,305 @@ width = 560;
 unicode = 57;
 },
 {
+glyphname = zero.tf;
+lastChange = "2022-05-21 22:31:52 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (-9,0);
+ref = zero;
+}
+);
+width = 620;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+alignment = -1;
+pos = (-8,0);
+ref = zero;
+}
+);
+width = 640;
+}
+);
+},
+{
+glyphname = one.tf;
+lastChange = "2022-05-21 22:52:39 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (85,0);
+ref = one;
+},
+{
+closed = 1;
+nodes = (
+(150,0,l),
+(529,0,l),
+(529,57,l),
+(150,57,l)
+);
+}
+);
+width = 620;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+alignment = -1;
+pos = (96,0);
+ref = one;
+},
+{
+closed = 1;
+nodes = (
+(131,0,l),
+(586,0,l),
+(586,162,l),
+(131,162,l)
+);
+}
+);
+width = 640;
+}
+);
+},
+{
+glyphname = two.tf;
+lastChange = "2022-05-21 22:36:13 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (42,0);
+ref = two;
+}
+);
+width = 620;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+alignment = -1;
+pos = (26,0);
+ref = two;
+}
+);
+width = 640;
+}
+);
+},
+{
+glyphname = three.tf;
+lastChange = "2022-05-21 22:53:38 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (41,0);
+ref = three;
+}
+);
+width = 620;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+alignment = -1;
+pos = (36,0);
+ref = three;
+}
+);
+width = 640;
+}
+);
+},
+{
+glyphname = four.tf;
+lastChange = "2022-05-21 22:55:15 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = four;
+}
+);
+width = 620;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = four;
+scale = (0.9835,1);
+}
+);
+width = 640;
+}
+);
+},
+{
+glyphname = five.tf;
+lastChange = "2022-05-21 22:55:49 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (24,0);
+ref = five;
+}
+);
+width = 620;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+alignment = -1;
+pos = (26,0);
+ref = five;
+}
+);
+width = 640;
+}
+);
+},
+{
+glyphname = six.tf;
+lastChange = "2022-05-21 22:56:09 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (30,0);
+ref = six;
+}
+);
+width = 620;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+alignment = -1;
+pos = (23,0);
+ref = six;
+}
+);
+width = 640;
+}
+);
+},
+{
+glyphname = seven.tf;
+lastChange = "2022-05-21 22:56:33 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (45,0);
+ref = seven;
+}
+);
+width = 620;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+alignment = -1;
+pos = (34,0);
+ref = seven;
+}
+);
+width = 640;
+}
+);
+},
+{
+glyphname = eight.tf;
+lastChange = "2022-05-21 22:56:46 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (2,0);
+ref = eight;
+}
+);
+width = 620;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+alignment = -1;
+pos = (15,0);
+ref = eight;
+}
+);
+width = 640;
+}
+);
+},
+{
+glyphname = nine.tf;
+lastChange = "2022-05-21 22:57:00 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (30,0);
+ref = nine;
+}
+);
+width = 620;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+alignment = -1;
+pos = (24,0);
+ref = nine;
+}
+);
+width = 640;
+}
+);
+},
+{
 glyphname = fraction;
 layers = (
 {
@@ -11817,7 +12215,7 @@ unicode = 190;
 },
 {
 glyphname = onesuperior;
-lastChange = "2022-05-21 06:30:59 +0000";
+lastChange = "2022-05-21 06:34:40 +0000";
 layers = (
 {
 layerId = m01;
@@ -11835,7 +12233,7 @@ shapes = (
 ref = one;
 }
 );
-width = 410;
+width = 430;
 }
 );
 metricLeft = one;
