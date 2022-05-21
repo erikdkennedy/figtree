@@ -2,7 +2,10 @@
 .appVersion = "3127";
 .formatVersion = 3;
 DisplayStrings = (
-"/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf"
+"yves vying
+MOWER MOVES
+Savor Convocation
+Vying Vex Voldemort View Vlad Vroom!"
 );
 axes = (
 {
@@ -4231,7 +4234,7 @@ unicode = 217;
 glyphname = V;
 kernLeft = undercut_left_uppercase;
 kernRight = undercut_right_uppercase;
-lastChange = "2022-01-26 21:04:35 +0000";
+lastChange = "2022-05-21 23:45:34 +0000";
 layers = (
 {
 layerId = m01;
@@ -4290,7 +4293,7 @@ unicode = 86;
 glyphname = W;
 kernLeft = undercut_left_uppercase;
 kernRight = undercut_right_uppercase;
-lastChange = "2022-01-26 21:04:35 +0000";
+lastChange = "2022-05-21 23:45:49 +0000";
 layers = (
 {
 anchors = (
@@ -6043,7 +6046,7 @@ unicode = 240;
 glyphname = e;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
-lastChange = "2022-05-07 06:12:38 +0000";
+lastChange = "2022-05-21 23:46:26 +0000";
 layers = (
 {
 anchors = (
@@ -7540,7 +7543,7 @@ unicode = 241;
 glyphname = o;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
-lastChange = "2022-01-26 20:03:26 +0000";
+lastChange = "2022-05-21 23:38:23 +0000";
 layers = (
 {
 anchors = (
@@ -9037,7 +9040,7 @@ unicode = 249;
 glyphname = v;
 kernLeft = "undercut-left-lowercase";
 kernRight = "undercut-right-lowercase";
-lastChange = "2022-05-07 06:33:46 +0000";
+lastChange = "2022-05-21 23:34:37 +0000";
 layers = (
 {
 layerId = m01;
@@ -9069,23 +9072,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(399,0,l),
-(600,500,l),
-(414,500,l),
-(228,0,l)
+(384,0,l),
+(585,500,l),
+(399,500,l),
+(223,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(382,0,l),
-(196,500,l),
-(10,500,l),
-(211,0,l)
+(367,0,l),
+(191,500,l),
+(5,500,l),
+(206,0,l)
 );
 }
 );
-width = 610;
+width = 590;
 }
 );
 unicode = 118;
@@ -9411,7 +9414,7 @@ unicode = 120;
 glyphname = y;
 kernLeft = "undercut-left-lowercase";
 kernRight = "undercut-right-lowercase";
-lastChange = "2022-05-07 06:21:55 +0000";
+lastChange = "2022-05-21 23:34:51 +0000";
 layers = (
 {
 anchors = (
@@ -17574,9 +17577,15 @@ m01 = {
 "@MMK_R_indented-left-lowercase" = -5;
 "@MMK_R_undercut-left-lowercase" = -10;
 };
+"@MMK_L_round_right_uppercase" = {
+"@MMK_R_undercut_left_uppercase" = -5;
+};
 "@MMK_L_undercut-right-lowercase" = {
 "@MMK_R_round-left-lowercase" = -10;
 quoteright = 30;
+};
+"@MMK_L_undercut_right_uppercase" = {
+"@MMK_R_round-left-lowercase" = -40;
 };
 A = {
 "@MMK_R_round-left-lowercase" = -5;
@@ -17646,6 +17655,9 @@ parenright = -10;
 "@MMK_R_short_lower_case" = 0;
 "@MMK_R_undercut-left-lowercase" = -30;
 parenright = -20;
+};
+"@MMK_L_round_right_uppercase" = {
+"@MMK_R_undercut_left_uppercase" = -30;
 };
 "@MMK_L_undercut-right-lowercase" = {
 "@MMK_R_round-left-lowercase" = -20;
