@@ -2,9 +2,8 @@
 .appVersion = "3127";
 .formatVersion = 3;
 DisplayStrings = (
-"Dose seasonal Sanskrit
-Assisi 31st First sesh mesh
-Moves of the Day Eames hashish"
+"trite trilobite
+tertiary atticus"
 );
 axes = (
 {
@@ -155,6 +154,7 @@ GSOffsetMakeStroke = 1;
 GSOffsetPosition = 1;
 GSOffsetVertical = 26;
 };
+visible = 1;
 },
 {
 axesValues = (
@@ -8816,7 +8816,7 @@ unicode = 223;
 },
 {
 glyphname = t;
-lastChange = "2022-01-26 20:13:01 +0000";
+lastChange = "2022-05-22 15:46:46 +0000";
 layers = (
 {
 layerId = m01;
@@ -8860,16 +8860,16 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(329,-12,o),
-(387,8,o),
-(420,29,c),
-(361,158,l),
-(349,150,o),
-(326,140,o),
-(313,140,cs),
-(286,140,o),
-(275,157,o),
-(275,205,cs),
+(325,-12,o),
+(379,13,o),
+(410,40,c),
+(349,170,l),
+(340,163,o),
+(321,155,o),
+(310,155,cs),
+(285,155,o),
+(275,169,o),
+(275,207,cs),
 (275,656,l),
 (95,656,l),
 (95,158,ls),
@@ -8881,10 +8881,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(378,360,l),
+(378,350,l),
 (378,500,l),
 (20,500,l),
-(20,360,l)
+(20,350,l)
 );
 }
 );
@@ -10473,6 +10473,84 @@ width = 614;
 );
 metricLeft = o;
 metricRight = l;
+},
+{
+glyphname = t.001;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(291,-12,o),
+(312,-8,o),
+(348,13,c),
+(323,65,l),
+(293,45,o),
+(282,43,o),
+(266,43,cs),
+(211,43,o),
+(179,74,o),
+(179,128,cs),
+(179,656,l),
+(119,656,l),
+(119,128,ls),
+(119,39,o),
+(174,-12,o),
+(266,-12,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(338,445,l),
+(338,500,l),
+(30,500,l),
+(30,445,l)
+);
+}
+);
+width = 377;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+closed = 1;
+nodes = (
+(329,-12,o),
+(387,8,o),
+(420,29,c),
+(361,158,l),
+(349,150,o),
+(326,140,o),
+(313,140,cs),
+(286,140,o),
+(275,157,o),
+(275,205,cs),
+(275,656,l),
+(95,656,l),
+(95,158,ls),
+(95,48,o),
+(154,-12,o),
+(278,-12,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(378,360,l),
+(378,500,l),
+(20,500,l),
+(20,360,l)
+);
+}
+);
+width = 425;
+}
+);
+metricLeft = f;
 },
 {
 glyphname = ordfeminine;
