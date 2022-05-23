@@ -5766,6 +5766,7 @@ width = 550;
 }
 );
 unicode = 231;
+changeCount = 1;
 },
 {
 glyphname = d;
@@ -15076,7 +15077,7 @@ width = 642;
 {
 background = {
 backgroundImage = {
-imagePath = "../../../Desktop/Screen Shot 2021-05-24 at 9.37.48 AM.png";
+imagePath = "/Users/Desktop/Screen Shot 2021-05-24 at 9.37.48 AM.png";
 pos = (20,-37);
 scale = (4.9751,4.9751);
 };
