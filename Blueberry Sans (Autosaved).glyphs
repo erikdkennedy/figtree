@@ -14625,7 +14625,7 @@ width = 642;
 {
 background = {
 backgroundImage = {
-imagePath = "../../../Desktop/Screen Shot 2021-05-24 at 9.37.48 AM.png";
+imagePath = "/Users/Desktop/Screen Shot 2021-05-24 at 9.37.48 AM.png";
 pos = (20,-37);
 scale = (4.9751,4.9751);
 };
@@ -16514,7 +16514,7 @@ unicode = 177;
 },
 {
 glyphname = logicalnot;
-lastChange = "2022-05-30 04:46:14 +0000";
+lastChange = "2022-05-30 04:47:13 +0000";
 layers = (
 {
 layerId = m01;
@@ -16566,6 +16566,7 @@ width = 460;
 }
 );
 unicode = 172;
+changeCount = 3;
 },
 {
 glyphname = asciitilde;
