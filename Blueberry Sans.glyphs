@@ -2,8 +2,10 @@
 .appVersion = "3129";
 .formatVersion = 3;
 DisplayStrings = (
-"‹Specify›
+"‹Specify› Home › Posts › My Summer
 Il dit «Bonjour!»
+H‹H‹H‹H›H›H›H
+O‹O‹O‹O›O›O›O
 H«H«H«H
 H»H»H»H
 O«O«O«O
@@ -14099,7 +14101,7 @@ unicode = 8217;
 },
 {
 glyphname = guillemetleft;
-lastChange = "2022-05-29 19:51:35 +0000";
+lastChange = "2022-05-29 20:46:55 +0000";
 layers = (
 {
 guides = (
@@ -14121,14 +14123,23 @@ width = 520;
 },
 {
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
-width = 600;
+shapes = (
+{
+pos = (273,0);
+ref = guilsinglleft;
+},
+{
+ref = guilsinglleft;
+}
+);
+width = 706;
 }
 );
 unicode = 171;
 },
 {
 glyphname = guillemetright;
-lastChange = "2022-05-29 19:51:43 +0000";
+lastChange = "2022-05-29 20:47:11 +0000";
 layers = (
 {
 layerId = m01;
@@ -14143,7 +14154,14 @@ width = 520;
 },
 {
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
-width = 600;
+shapes = (
+{
+pos = (706,0);
+ref = guillemetleft;
+scale = (-1,1);
+}
+);
+width = 706;
 }
 );
 metricLeft = "=|guillemetleft";
@@ -14152,12 +14170,12 @@ unicode = 187;
 },
 {
 glyphname = guilsinglleft;
-lastChange = "2022-05-29 16:28:21 +0000";
+lastChange = "2022-05-29 20:47:39 +0000";
 layers = (
 {
 guides = (
 {
-pos = (30,298);
+pos = (20,298);
 }
 );
 layerId = m01;
@@ -14165,49 +14183,76 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(136,298,l),
-(293,500,l),
-(217,500,l),
-(60,298,l)
+(126,298,l),
+(283,500,l),
+(207,500,l),
+(50,298,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(217,96,l),
-(293,96,l),
-(136,298,l),
-(60,298,l)
+(207,96,l),
+(283,96,l),
+(126,298,l),
+(50,298,l)
 );
 }
 );
-width = 353;
+width = 343;
 },
 {
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(255,298,l),
+(388,500,l),
+(187,500,l),
+(45,298,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(187,96,l),
+(388,96,l),
+(255,298,l),
+(45,298,l)
+);
+}
+);
+width = 438;
 }
 );
 unicode = 8249;
 },
 {
 glyphname = guilsinglright;
-lastChange = "2022-05-29 16:28:34 +0000";
+lastChange = "2022-05-29 20:47:50 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (353,0);
+pos = (343,0);
 ref = guilsinglleft;
 scale = (-1,1);
 }
 );
-width = 353;
+width = 343;
 },
 {
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
-width = 600;
+shapes = (
+{
+pos = (438,0);
+ref = guilsinglleft;
+scale = (-1,1);
+}
+);
+width = 438;
 }
 );
 metricLeft = "=|guilsinglleft";
