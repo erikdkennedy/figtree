@@ -5367,6 +5367,39 @@ width = 700;
 unicode = 362;
 },
 {
+glyphname = Uring;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = U;
+},
+{
+pos = (217,170);
+ref = ringcomb;
+}
+);
+width = 709;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+ref = U;
+},
+{
+pos = (172,200);
+ref = ringcomb;
+}
+);
+width = 700;
+}
+);
+unicode = 366;
+changeCount = 1;
+},
+{
 glyphname = V;
 kernLeft = undercut_left_uppercase;
 kernRight = undercut_right_uppercase;
