@@ -2,8 +2,9 @@
 .appVersion = "3130";
 .formatVersion = 3;
 DisplayStrings = (
-"đ
-doviđenja sviđaš prevođenje Anđela gđe"
+"Ħħ
+Ħelu Ħalib
+wieħed għuda ferħ għasfur"
 );
 axes = (
 {
@@ -1375,7 +1376,7 @@ unicode = 68;
 {
 glyphname = Eth;
 kernRight = round_right_uppercase;
-lastChange = "2022-01-26 20:24:55 +0000";
+lastChange = "2022-06-16 06:31:32 +0000";
 layers = (
 {
 layerId = m01;
@@ -1949,7 +1950,7 @@ unicode = 70;
 {
 glyphname = G;
 kernLeft = round_left_uppercase;
-lastChange = "2022-06-12 05:16:15 +0000";
+lastChange = "2022-06-16 06:21:18 +0000";
 layers = (
 {
 anchors = (
@@ -2241,6 +2242,49 @@ width = 748;
 metricLeft = I;
 metricRight = I;
 unicode = 72;
+},
+{
+glyphname = Hbar;
+lastChange = "2022-06-16 06:32:04 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = H;
+},
+{
+closed = 1;
+nodes = (
+(747,500,l),
+(747,558,l),
+(5,558,l),
+(5,500,l)
+);
+}
+);
+width = 752;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+ref = H;
+},
+{
+closed = 1;
+nodes = (
+(743,504,l),
+(743,631,l),
+(5,631,l),
+(5,504,l)
+);
+}
+);
+width = 748;
+}
+);
+unicode = 294;
 },
 {
 glyphname = I;
@@ -8030,7 +8074,7 @@ unicode = 273;
 glyphname = e;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
-lastChange = "2022-06-13 22:36:43 +0000";
+lastChange = "2022-06-16 06:34:46 +0000";
 layers = (
 {
 anchors = (
@@ -8929,6 +8973,49 @@ width = 580;
 metricLeft = l;
 metricRight = n;
 unicode = 104;
+},
+{
+glyphname = hbar;
+lastChange = "2022-06-16 06:35:06 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = h;
+},
+{
+closed = 1;
+nodes = (
+(308,571,l),
+(308,626,l),
+(0,626,l),
+(0,571,l)
+);
+}
+);
+width = 554;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+ref = h;
+},
+{
+closed = 1;
+nodes = (
+(354,545,l),
+(354,650,l),
+(0,650,l),
+(0,545,l)
+);
+}
+);
+width = 580;
+}
+);
+unicode = 295;
 },
 {
 glyphname = i;
@@ -23164,20 +23251,6 @@ width = 550;
 }
 );
 unicode = 177;
-},
-{
-glyphname = approxequal;
-layers = (
-{
-layerId = m01;
-width = 600;
-},
-{
-layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
-width = 600;
-}
-);
-unicode = 8776;
 },
 {
 glyphname = logicalnot;
