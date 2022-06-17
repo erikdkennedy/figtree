@@ -2,11 +2,7 @@
 .appVersion = "3130";
 .formatVersion = 3;
 DisplayStrings = (
-"H↑H→H↓H←H
-O↑O→O↓O←O
-
-scroll down ↓
-see above ↑"
+"32µm"
 );
 axes = (
 {
@@ -23877,7 +23873,7 @@ unicode = 94;
 },
 {
 glyphname = micro;
-lastChange = "2022-05-30 05:06:07 +0000";
+lastChange = "2022-06-17 15:46:57 +0000";
 layers = (
 {
 layerId = m01;
@@ -23886,6 +23882,8 @@ shapes = (
 closed = 1;
 nodes = (
 (120,-200,l),
+(120,72,l),
+(120,74,l),
 (120,500,l),
 (60,500,l),
 (60,-200,l)
@@ -23929,7 +23927,9 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(220,-200,l),
+(200,-200,l),
+(200,99,l),
+(220,99,l),
 (220,500,l),
 (40,500,l),
 (40,-200,l)
