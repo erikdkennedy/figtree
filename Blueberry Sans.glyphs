@@ -2,8 +2,7 @@
 .appVersion = "3130";
 .formatVersion = 3;
 DisplayStrings = (
-"Mulțumesc
-"
+"and then I"
 );
 axes = (
 {
@@ -10787,7 +10786,7 @@ unicode = 111;
 glyphname = oacute;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
-lastChange = "2022-06-16 07:05:27 +0000";
+lastChange = "2022-06-18 17:46:49 +0000";
 layers = (
 {
 layerId = m01;
@@ -18865,11 +18864,11 @@ width = 600;
 },
 {
 glyphname = space;
-lastChange = "2022-06-11 05:37:14 +0000";
+lastChange = "2022-06-18 17:46:36 +0000";
 layers = (
 {
 layerId = m01;
-width = 394;
+width = 250;
 },
 {
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
