@@ -18879,11 +18879,11 @@ unicode = 32;
 },
 {
 glyphname = nbspace;
-lastChange = "2022-06-04 19:38:59 +0000";
+lastChange = "2022-06-18 17:47:06 +0000";
 layers = (
 {
 layerId = m01;
-width = 394;
+width = 250;
 },
 {
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
