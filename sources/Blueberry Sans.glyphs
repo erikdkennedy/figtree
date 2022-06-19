@@ -1,9 +1,6 @@
 {
 .appVersion = "3130";
 .formatVersion = 3;
-DisplayStrings = (
-"and then I"
-);
 axes = (
 {
 name = Weight;
@@ -10786,7 +10783,7 @@ unicode = 111;
 glyphname = oacute;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
-lastChange = "2022-06-18 17:46:49 +0000";
+lastChange = "2022-06-19 05:54:08 +0000";
 layers = (
 {
 layerId = m01;
