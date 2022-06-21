@@ -1,6 +1,4 @@
 sources:
   - Figtree.glyphs
-# axisOrder:
-#  - wght
-buildOTF: false
+buildVariable: false
 familyName: Figtree
