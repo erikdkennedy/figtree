@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threesuperior" format="2">
+  <advance width="355"/>
+  <unicode hex="00B3"/>
+  <outline>
+    <component base="three.numr" yOffset="100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>three.numr</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>three.numr</string>
+    </dict>
+  </lib>
+</glyph>

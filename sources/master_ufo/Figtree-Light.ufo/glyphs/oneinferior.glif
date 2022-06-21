@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oneinferior" format="2">
+  <advance width="282"/>
+  <unicode hex="2081"/>
+  <outline>
+    <component base="one.dnom" yOffset="-100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>one.dnom</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>one.dnom</string>
+    </dict>
+  </lib>
+</glyph>

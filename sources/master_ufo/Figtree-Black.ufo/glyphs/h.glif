@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="h" format="2">
+  <advance width="580"/>
+  <unicode hex="0068"/>
+  <outline>
+    <contour>
+      <point x="47" y="0" type="line"/>
+      <point x="227" y="0" type="line"/>
+      <point x="225" y="700" type="line"/>
+      <point x="45" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="0" type="line"/>
+      <point x="540" y="0" type="line"/>
+      <point x="540" y="286" type="line"/>
+      <point x="360" y="256" type="line"/>
+    </contour>
+    <component base="arch" xOffset="185"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n</string>
+    </dict>
+  </lib>
+</glyph>
