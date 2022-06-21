@@ -1,6 +1,10 @@
 {
-.appVersion = "3130";
+.appVersion = "3132";
 .formatVersion = 3;
+DisplayStrings = (
+"Figtree
+An open source, geometric sans serif font"
+);
 axes = (
 {
 name = Weight;
@@ -8,7 +12,7 @@ tag = wght;
 }
 );
 date = "2021-04-02 20:56:08 +0000";
-familyName = "Blueberry Sans";
+familyName = Figtree;
 featurePrefixes = (
 {
 automatic = 1;
