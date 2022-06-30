@@ -1,13 +1,39 @@
 {
-.appVersion = "3132";
+.appVersion = "3133";
 .formatVersion = 3;
-DisplayStrings = (
-$
-);
 axes = (
 {
 name = Weight;
 tag = wght;
+}
+);
+customParameters = (
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Line Breaks";
+value = 1;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = "Axis Mappings";
+value = {
+wght = {
+300 = 300;
+400 = 400;
+500 = 540;
+600 = 610;
+700 = 660;
+800 = 800;
+900 = 900;
+};
+};
 }
 );
 date = "2021-04-02 20:56:08 +0000";
@@ -26754,6 +26780,17 @@ weightClass = 500;
 },
 {
 axesValues = (
+610
+);
+instanceInterpolations = {
+"747A0BA5-337F-45E8-9896-B2CAF0968805" = 0.51667;
+m01 = 0.48333;
+};
+name = SemiBold;
+weightClass = 600;
+},
+{
+axesValues = (
 660
 );
 instanceInterpolations = {
@@ -26774,7 +26811,7 @@ instanceInterpolations = {
 m01 = 0.16667;
 };
 linkStyle = Medium;
-name = "Extra Bold";
+name = ExtraBold;
 weightClass = 800;
 },
 {
@@ -27069,6 +27106,56 @@ type = descender;
 },
 {
 type = "italic angle";
+}
+);
+properties = (
+{
+key = designerURL;
+value = "https://erikdkennedy.com/";
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+key = manufacturerURL;
+value = "https://erikdkennedy.com/";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2022, The Figtree Project Authors (https://github.com/erikdkennedy/figtree)";
+}
+);
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Erik Kennedy";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Erik Kennedy";
+}
+);
 }
 );
 unitsPerEm = 1000;
