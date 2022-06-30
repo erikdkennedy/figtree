@@ -266,6 +266,40 @@ fontMaster = (
 axesValues = (
 300
 );
+customParameters = (
+{
+name = typoAscender;
+value = 950;
+},
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 979;
+},
+{
+name = winDescent;
+value = 220;
+},
+{
+name = hheaAscender;
+value = 950;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = hheaLineGap;
+value = 0;
+}
+);
 iconName = Light;
 id = m01;
 metricValues = (
@@ -306,6 +340,40 @@ visible = 1;
 {
 axesValues = (
 900
+);
+customParameters = (
+{
+name = typoAscender;
+value = 950;
+},
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 979;
+},
+{
+name = winDescent;
+value = 220;
+},
+{
+name = hheaAscender;
+value = 950;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = hheaLineGap;
+value = 0;
+}
 );
 iconName = Bold;
 id = "747A0BA5-337F-45E8-9896-B2CAF0968805";
@@ -627,7 +695,7 @@ unicode = 196;
 glyphname = Agrave;
 kernLeft = A;
 kernRight = A;
-lastChange = "2022-06-30 09:32:29 +0000";
+lastChange = "2022-06-30 09:36:42 +0000";
 layers = (
 {
 layerId = m01;
