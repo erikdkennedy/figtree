@@ -30,11 +30,10 @@ value = {
 wght = {
 300 = 300;
 400 = 400;
-500 = 500;
-510 = 550;
-600 = 610;
+500 = 472;
+600 = 558;
 700 = 660;
-800 = 800;
+800 = 780;
 900 = 900;
 };
 };
@@ -27174,22 +27173,22 @@ name = Regular;
 },
 {
 axesValues = (
-500
+472
 );
 instanceInterpolations = {
-"747A0BA5-337F-45E8-9896-B2CAF0968805" = 0.33333;
-m01 = 0.66667;
+"747A0BA5-337F-45E8-9896-B2CAF0968805" = 0.28667;
+m01 = 0.71333;
 };
 name = Medium;
 weightClass = 500;
 },
 {
 axesValues = (
-610
+558
 );
 instanceInterpolations = {
-"747A0BA5-337F-45E8-9896-B2CAF0968805" = 0.51667;
-m01 = 0.48333;
+"747A0BA5-337F-45E8-9896-B2CAF0968805" = 0.43;
+m01 = 0.57;
 };
 name = SemiBold;
 weightClass = 600;
@@ -27208,11 +27207,11 @@ weightClass = 700;
 },
 {
 axesValues = (
-800
+780
 );
 instanceInterpolations = {
-"747A0BA5-337F-45E8-9896-B2CAF0968805" = 0.83333;
-m01 = 0.16667;
+"747A0BA5-337F-45E8-9896-B2CAF0968805" = 0.8;
+m01 = 0.2;
 };
 name = ExtraBold;
 weightClass = 800;
