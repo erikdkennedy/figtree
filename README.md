@@ -1,3 +1,9 @@
 A simple and friendly geometric sans serif font.
 
-![](documentation/sample.png)
+![](documentation/figtree-banner.png)
+
+![](documentation/figtree-letterforms.png)
+
+![](documentation/figtree-vibes.png)
+
+![](documentation/figtree-features.png)
