@@ -10,7 +10,7 @@ DisplayStrings = (
 "ГГЛ",
 "ȷjЛ",
 "Л",
-"/El-cy.ss01"
+""
 );
 axes = (
 {
@@ -91,6 +91,7 @@ feature pnum;
 feature tnum;
 feature case;
 feature ss01;
+feature cv01;
 ";
 tag = aalt;
 },
@@ -291,6 +292,12 @@ value = "Single-storey a";
 }
 );
 tag = ss01;
+},
+{
+automatic = 1;
+code = "sub El-cy by El-cy.cv01;
+";
+tag = cv01;
 }
 );
 fontMaster = (
@@ -15972,8 +15979,8 @@ width = 600;
 unicode = 1071;
 },
 {
-glyphname = "El-cy.ss01";
-lastChange = "2022-08-29 08:26:34 +0000";
+glyphname = "El-cy.cv01";
+lastChange = "2022-08-29 08:49:42 +0000";
 layers = (
 {
 layerId = m01;
