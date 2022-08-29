@@ -2,7 +2,8 @@
 .appVersion = "3133";
 .formatVersion = 3;
 DisplayStrings = (
-"/.notdef"
+"ÂĈÊĜĤÎĴÔŜÛŴŶâĉêĝĥîĵôŝûŵŷ
+ÂĈÊĜĤÎĴÔŜÛŴŶâĉêĝĥîĵôŝûŵŷ"
 );
 axes = (
 {
@@ -1467,6 +1468,39 @@ width = 729;
 unicode = 199;
 },
 {
+glyphname = Ccircumflex;
+lastChange = "2022-08-29 06:30:42 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = C;
+},
+{
+pos = (223,170);
+ref = circumflexcomb;
+}
+);
+width = 719;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+ref = C;
+},
+{
+pos = (155,200);
+ref = circumflexcomb;
+}
+);
+width = 729;
+}
+);
+unicode = 264;
+},
+{
 glyphname = Cdotaccent;
 kernLeft = round_left_uppercase;
 lastChange = "2022-06-30 09:32:29 +0000";
@@ -2363,6 +2397,40 @@ width = 727;
 unicode = 286;
 },
 {
+glyphname = Gcircumflex;
+lastChange = "2022-08-29 06:30:42 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = G;
+},
+{
+alignment = -1;
+pos = (226,171);
+ref = circumflexcomb;
+}
+);
+width = 767;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+ref = G;
+},
+{
+pos = (165,200);
+ref = circumflexcomb;
+}
+);
+width = 727;
+}
+);
+unicode = 284;
+},
+{
 glyphname = Gcommaaccent;
 kernLeft = round_left_uppercase;
 lastChange = "2022-06-30 09:32:29 +0000";
@@ -2547,6 +2615,39 @@ width = 748;
 }
 );
 unicode = 294;
+},
+{
+glyphname = Hcircumflex;
+lastChange = "2022-08-29 06:30:42 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = H;
+},
+{
+pos = (214,170);
+ref = circumflexcomb;
+}
+);
+width = 752;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+ref = H;
+},
+{
+pos = (152,201);
+ref = circumflexcomb;
+}
+);
+width = 748;
+}
+);
+unicode = 292;
 },
 {
 glyphname = I;
@@ -3116,6 +3217,40 @@ ref = acutecomb;
 width = 587;
 }
 );
+},
+{
+glyphname = Jcircumflex;
+lastChange = "2022-08-29 06:30:42 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = J;
+},
+{
+pos = (215,170);
+ref = circumflexcomb;
+}
+);
+width = 500;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+ref = J;
+},
+{
+alignment = -1;
+pos = (202,203);
+ref = circumflexcomb;
+}
+);
+width = 587;
+}
+);
+unicode = 308;
 },
 {
 glyphname = K;
@@ -4094,7 +4229,7 @@ unicode = 211;
 glyphname = Ocircumflex;
 kernLeft = round_left_uppercase;
 kernRight = round_right_uppercase;
-lastChange = "2022-06-30 09:32:29 +0000";
+lastChange = "2022-08-29 06:13:03 +0000";
 layers = (
 {
 layerId = m01;
@@ -5351,6 +5486,44 @@ width = 600;
 unicode = 350;
 },
 {
+glyphname = Scircumflex;
+lastChange = "2022-08-29 06:30:50 +0000";
+layers = (
+{
+guides = (
+{
+pos = (324,882);
+}
+);
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (157,170);
+ref = circumflexcomb;
+}
+);
+width = 617;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (77,200);
+ref = circumflexcomb;
+}
+);
+width = 600;
+}
+);
+unicode = 348;
+},
+{
 glyphname = Scommaaccent;
 kernLeft = round_left_uppercase;
 lastChange = "2022-06-30 09:33:37 +0000";
@@ -5971,9 +6144,14 @@ unicode = 364;
 glyphname = Ucircumflex;
 kernLeft = round_left_uppercase;
 kernRight = round_right_uppercase;
-lastChange = "2022-06-30 09:32:29 +0000";
+lastChange = "2022-08-29 05:17:44 +0000";
 layers = (
 {
+guides = (
+{
+pos = (253,766);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -5987,6 +6165,11 @@ ref = circumflexcomb;
 width = 709;
 },
 {
+guides = (
+{
+pos = (226,766);
+}
+);
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
 shapes = (
 {
@@ -8149,6 +8332,39 @@ width = 550;
 unicode = 231;
 },
 {
+glyphname = ccircumflex;
+lastChange = "2022-08-29 06:30:42 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (126,0);
+ref = circumflexcomb;
+}
+);
+width = 539;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+ref = c;
+},
+{
+pos = (72,0);
+ref = circumflexcomb;
+}
+);
+width = 550;
+}
+);
+unicode = 265;
+},
+{
 glyphname = cdotaccent;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
@@ -9271,6 +9487,39 @@ width = 609;
 unicode = 287;
 },
 {
+glyphname = gcircumflex;
+lastChange = "2022-08-29 06:30:42 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (108,0);
+ref = circumflexcomb;
+}
+);
+width = 567;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+ref = g;
+},
+{
+pos = (77,0);
+ref = circumflexcomb;
+}
+);
+width = 609;
+}
+);
+unicode = 285;
+},
+{
 glyphname = gcommaaccent;
 kernLeft = "round-left-lowercase";
 lastChange = "2022-06-30 09:32:29 +0000";
@@ -9447,6 +9696,39 @@ width = 580;
 }
 );
 unicode = 295;
+},
+{
+glyphname = hcircumflex;
+lastChange = "2022-08-29 06:30:42 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = h;
+},
+{
+pos = (-55,170);
+ref = circumflexcomb;
+}
+);
+width = 554;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+ref = h;
+},
+{
+pos = (-101,200);
+ref = circumflexcomb;
+}
+);
+width = 580;
+}
+);
+unicode = 293;
 },
 {
 glyphname = i;
@@ -10084,6 +10366,39 @@ ref = acutecomb;
 width = 298;
 }
 );
+},
+{
+glyphname = jcircumflex;
+lastChange = "2022-08-29 06:30:42 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-13,0);
+ref = circumflexcomb;
+}
+);
+width = 250;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (-65,0);
+ref = circumflexcomb;
+}
+);
+width = 298;
+}
+);
+unicode = 309;
 },
 {
 glyphname = k;
@@ -12188,6 +12503,39 @@ width = 487;
 unicode = 351;
 },
 {
+glyphname = scircumflex;
+lastChange = "2022-08-29 06:30:42 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = s;
+},
+{
+pos = (85,0);
+ref = circumflexcomb;
+}
+);
+width = 466;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+ref = s;
+},
+{
+pos = (19,0);
+ref = circumflexcomb;
+}
+);
+width = 487;
+}
+);
+unicode = 349;
+},
+{
 glyphname = scommaaccent;
 kernLeft = short_lower_case;
 lastChange = "2022-06-30 09:32:29 +0000";
@@ -13281,7 +13629,7 @@ unicode = 7811;
 glyphname = wcircumflex;
 kernLeft = "undercut-left-lowercase";
 kernRight = "undercut-right-lowercase";
-lastChange = "2022-06-30 09:32:29 +0000";
+lastChange = "2022-08-29 06:32:11 +0000";
 layers = (
 {
 layerId = m01;
