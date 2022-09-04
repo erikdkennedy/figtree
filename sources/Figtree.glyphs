@@ -2,9 +2,13 @@
 .appVersion = "3134";
 .formatVersion = 3;
 DisplayStrings = (
-"∕+−×÷=≠><≥≤±
-/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf 
-/one.tf/zero.tf +/seven.tf/zero.tf >/zero.tf/five.tf ±/three.tf/zero.tf −/four.tf/zero.tf >/one.tf/six.tf ×/one.tf/four.tf =/eight.tf/zero.tf ÷/zero.tf/two.tf"
+"CLICK HERE ↓
+Click here ↓
+
+SCROLL UP ↑
+Scroll Up ↑ 
+
+"
 );
 axes = (
 {
@@ -25234,15 +25238,37 @@ unicode = 37;
 },
 {
 glyphname = upArrow;
-lastChange = "2022-06-30 09:32:29 +0000";
+lastChange = "2022-09-04 15:31:46 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-angle = 90;
-pos = (641,-49);
-ref = rightArrow;
+closed = 1;
+nodes = (
+(344,712,l),
+(90,404,l),
+(134,370,l),
+(372,652,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(372,652,l),
+(315,652,l),
+(315,0,l),
+(372,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(344,712,l),
+(315,652,l),
+(553,370,l),
+(597,404,l)
+);
 }
 );
 width = 687;
@@ -25251,9 +25277,31 @@ width = 687;
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
 shapes = (
 {
-angle = 90;
-pos = (682,-60);
-ref = rightArrow;
+closed = 1;
+nodes = (
+(385,712,l),
+(90,443,l),
+(196,335,l),
+(465,576,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(459,619,l),
+(309,619,l),
+(309,0,l),
+(459,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(385,712,l),
+(301,577,l),
+(567,331,l),
+(674,437,l)
+);
 }
 );
 width = 758;
@@ -25336,15 +25384,15 @@ unicode = 8594;
 },
 {
 glyphname = downArrow;
-lastChange = "2022-06-30 09:32:29 +0000";
+lastChange = "2022-09-04 15:32:40 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-angle = -90;
-pos = (46,701);
-ref = rightArrow;
+pos = (0,700);
+ref = upArrow;
+scale = (1,-1);
 }
 );
 width = 687;
@@ -25353,9 +25401,9 @@ width = 687;
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
 shapes = (
 {
-angle = -90;
-pos = (82,691);
-ref = rightArrow;
+pos = (0,700);
+ref = upArrow;
+scale = (1,-1);
 }
 );
 width = 758;
