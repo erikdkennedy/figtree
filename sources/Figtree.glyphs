@@ -2,7 +2,40 @@
 .appVersion = "3134";
 .formatVersion = 3;
 DisplayStrings = (
-"æða færre Sæbø ærverdig vært lærd Brænne væske trædd Vollebæk"
+"ahmn → vwxy
+
+strava have
+straw bylaws clawed
+fax axe saxophone axiom betaxed
+stray yay hay yaya
+
+shvitz bushveld
+archway athwart thwack
+hxh hoh
+giphy hype hyena ghyll
+
+mvpc humvee triumvirate
+dimwit gumwood tramway
+mxm
+mommy grimy myopic stymy
+
+anvil nonviolence canvas
+unwise pinwork runway onward
+jinx minx pharynxes
+ninny nymph adenyl
+
+bx cx px
+sex examine lexis hexyl
+sox outfoxed epoxy
+
+exalt fixate Texas
+boxcar excise coxcombs
+mixdown sexdecillion
+pixel oxeye taxes carapaxes
+foxglove fluxgate
+axololt buxom mixology
+exquisite
+"
 );
 axes = (
 {
@@ -7187,7 +7220,8 @@ unicode = 379;
 {
 glyphname = a;
 kernLeft = "round-left-lowercase";
-lastChange = "2022-07-14 08:55:08 +0000";
+kernRight = "arch-right-lowercase";
+lastChange = "2022-09-04 04:33:29 +0000";
 layers = (
 {
 anchors = (
@@ -7535,7 +7569,8 @@ unicode = 97;
 {
 glyphname = aacute;
 kernLeft = "round-left-lowercase";
-lastChange = "2022-06-30 09:32:29 +0000";
+kernRight = "arch-right-lowercase";
+lastChange = "2022-09-04 04:37:03 +0000";
 layers = (
 {
 layerId = m01;
@@ -7569,7 +7604,8 @@ unicode = 225;
 {
 glyphname = abreve;
 kernLeft = "round-left-lowercase";
-lastChange = "2022-06-30 09:32:29 +0000";
+kernRight = "arch-right-lowercase";
+lastChange = "2022-09-04 04:37:03 +0000";
 layers = (
 {
 layerId = m01;
@@ -7603,7 +7639,8 @@ unicode = 259;
 {
 glyphname = acaron;
 kernLeft = "round-left-lowercase";
-lastChange = "2022-06-30 09:32:29 +0000";
+kernRight = "arch-right-lowercase";
+lastChange = "2022-09-04 04:37:03 +0000";
 layers = (
 {
 layerId = m01;
@@ -7637,7 +7674,8 @@ unicode = 462;
 {
 glyphname = acircumflex;
 kernLeft = "round-left-lowercase";
-lastChange = "2022-06-30 09:32:29 +0000";
+kernRight = "arch-right-lowercase";
+lastChange = "2022-09-04 04:37:03 +0000";
 layers = (
 {
 layerId = m01;
@@ -7671,7 +7709,8 @@ unicode = 226;
 {
 glyphname = adieresis;
 kernLeft = tall_left_lowercase;
-lastChange = "2022-06-30 09:32:29 +0000";
+kernRight = "arch-right-lowercase";
+lastChange = "2022-09-04 04:37:03 +0000";
 layers = (
 {
 layerId = m01;
@@ -7705,7 +7744,8 @@ unicode = 228;
 {
 glyphname = agrave;
 kernLeft = "round-left-lowercase";
-lastChange = "2022-06-30 09:32:29 +0000";
+kernRight = "arch-right-lowercase";
+lastChange = "2022-09-04 04:37:03 +0000";
 layers = (
 {
 layerId = m01;
@@ -7739,7 +7779,8 @@ unicode = 224;
 {
 glyphname = amacron;
 kernLeft = "round-left-lowercase";
-lastChange = "2022-06-30 09:32:29 +0000";
+kernRight = "arch-right-lowercase";
+lastChange = "2022-09-04 04:37:03 +0000";
 layers = (
 {
 layerId = m01;
@@ -7773,7 +7814,8 @@ unicode = 257;
 {
 glyphname = aogonek;
 kernLeft = "round-left-lowercase";
-lastChange = "2022-06-30 09:32:29 +0000";
+kernRight = "arch-right-lowercase";
+lastChange = "2022-09-04 04:37:03 +0000";
 layers = (
 {
 background = {
@@ -7838,7 +7880,8 @@ unicode = 261;
 {
 glyphname = aring;
 kernLeft = "round-left-lowercase";
-lastChange = "2022-06-30 09:32:29 +0000";
+kernRight = "arch-right-lowercase";
+lastChange = "2022-09-04 04:37:03 +0000";
 layers = (
 {
 layerId = m01;
@@ -7872,7 +7915,8 @@ unicode = 229;
 {
 glyphname = atilde;
 kernLeft = "round-left-lowercase";
-lastChange = "2022-06-30 09:32:29 +0000";
+kernRight = "arch-right-lowercase";
+lastChange = "2022-09-04 04:37:03 +0000";
 layers = (
 {
 layerId = m01;
@@ -7906,7 +7950,8 @@ unicode = 227;
 {
 glyphname = ae;
 kernLeft = "round-left-lowercase";
-lastChange = "2022-09-04 04:18:19 +0000";
+kernRight = "round-right-lowercase";
+lastChange = "2022-09-04 04:37:29 +0000";
 layers = (
 {
 layerId = m01;
@@ -8262,7 +8307,8 @@ unicode = 263;
 {
 glyphname = ccaron;
 kernLeft = "round-left-lowercase";
-lastChange = "2022-06-30 09:32:29 +0000";
+kernRight = "round-right-lowercase";
+lastChange = "2022-09-04 04:37:50 +0000";
 layers = (
 {
 layerId = m01;
@@ -8330,7 +8376,9 @@ unicode = 231;
 },
 {
 glyphname = ccircumflex;
-lastChange = "2022-08-29 06:30:42 +0000";
+kernLeft = "round-left-lowercase";
+kernRight = "round-right-lowercase";
+lastChange = "2022-09-04 04:38:08 +0000";
 layers = (
 {
 layerId = m01;
@@ -8625,8 +8673,9 @@ unicode = 240;
 },
 {
 glyphname = dcaron;
+kernLeft = "round-left-lowercase";
 kernRight = alt_caron;
-lastChange = "2022-06-30 09:32:29 +0000";
+lastChange = "2022-09-04 04:38:24 +0000";
 layers = (
 {
 layerId = m01;
@@ -8705,7 +8754,7 @@ unicode = 273;
 glyphname = e;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
-lastChange = "2022-07-01 13:17:59 +0000";
+lastChange = "2022-09-04 05:00:05 +0000";
 layers = (
 {
 anchors = (
@@ -9587,7 +9636,8 @@ unicode = 289;
 {
 glyphname = h;
 kernLeft = tall_left_lowercase;
-lastChange = "2022-06-30 09:59:21 +0000";
+kernRight = "arch-right-lowercase";
+lastChange = "2022-09-04 04:33:33 +0000";
 layers = (
 {
 layerId = m01;
@@ -10737,7 +10787,8 @@ unicode = 322;
 {
 glyphname = m;
 kernLeft = short_lower_case;
-lastChange = "2022-06-30 09:59:21 +0000";
+kernRight = "arch-right-lowercase";
+lastChange = "2022-09-04 04:33:36 +0000";
 layers = (
 {
 layerId = m01;
@@ -10831,7 +10882,8 @@ unicode = 109;
 {
 glyphname = n;
 kernLeft = short_lower_case;
-lastChange = "2022-06-30 09:59:21 +0000";
+kernRight = "arch-right-lowercase";
+lastChange = "2022-09-04 04:33:40 +0000";
 layers = (
 {
 anchors = (
@@ -13429,7 +13481,7 @@ unicode = 367;
 glyphname = v;
 kernLeft = "undercut-left-lowercase";
 kernRight = "undercut-right-lowercase";
-lastChange = "2022-06-30 09:59:21 +0000";
+lastChange = "2022-09-04 04:53:25 +0000";
 layers = (
 {
 layerId = m01;
@@ -13486,7 +13538,7 @@ unicode = 118;
 glyphname = w;
 kernLeft = "undercut-left-lowercase";
 kernRight = "undercut-right-lowercase";
-lastChange = "2022-06-30 13:42:55 +0000";
+lastChange = "2022-09-04 05:09:57 +0000";
 layers = (
 {
 anchors = (
@@ -13729,9 +13781,9 @@ unicode = 7809;
 },
 {
 glyphname = x;
-kernLeft = "undercut-left-lowercase";
-kernRight = "undercut-right-lowercase";
-lastChange = "2022-06-30 09:59:21 +0000";
+kernLeft = x;
+kernRight = x;
+lastChange = "2022-09-04 05:11:53 +0000";
 layers = (
 {
 annotations = (
@@ -13746,27 +13798,27 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(79,0,l),
-(238,233,l),
-(425,500,l),
-(353,500,l),
-(209,288,l),
-(5,0,l)
+(84,0,l),
+(243,233,l),
+(430,500,l),
+(358,500,l),
+(214,288,l),
+(10,0,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(437,0,l),
-(235,288,l),
-(90,500,l),
-(18,500,l),
-(207,233,l),
-(364,0,l)
+(442,0,l),
+(240,288,l),
+(95,500,l),
+(23,500,l),
+(212,233,l),
+(369,0,l)
 );
 }
 );
-width = 442;
+width = 452;
 },
 {
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
@@ -13803,7 +13855,7 @@ unicode = 120;
 glyphname = y;
 kernLeft = "undercut-left-lowercase";
 kernRight = "undercut-right-lowercase";
-lastChange = "2022-06-30 09:59:21 +0000";
+lastChange = "2022-09-04 05:09:13 +0000";
 layers = (
 {
 anchors = (
@@ -27577,6 +27629,10 @@ m01 = {
 "@MMK_L_alt_caron" = {
 "@MMK_R_tall_punctuation" = 70;
 };
+"@MMK_L_arch-right-lowercase" = {
+"@MMK_R_undercut-left-lowercase" = -5;
+"@MMK_R_x" = 0;
+};
 "@MMK_L_indented-right-lowercase" = {
 "@MMK_R_round-left-lowercase" = -5;
 };
@@ -27687,6 +27743,9 @@ tcaron = {
 "@MMK_L_alt_caron" = {
 "@MMK_R_tall_punctuation" = 120;
 };
+"@MMK_L_arch-right-lowercase" = {
+"@MMK_R_undercut-left-lowercase" = -20;
+};
 "@MMK_L_indented-right-lowercase" = {
 "@MMK_R_round-left-lowercase" = -40;
 i = 0;
@@ -27699,6 +27758,7 @@ j = 65;
 "@MMK_R_indented-left-lowercase" = -40;
 "@MMK_R_short_lower_case" = 0;
 "@MMK_R_undercut-left-lowercase" = -30;
+"@MMK_R_x" = -30;
 parenright = -20;
 };
 "@MMK_L_round_right_uppercase" = {
@@ -27707,6 +27767,9 @@ parenright = -20;
 "@MMK_L_undercut-right-lowercase" = {
 "@MMK_R_round-left-lowercase" = -20;
 quoteright = 10;
+};
+"@MMK_L_x" = {
+"@MMK_R_round-left-lowercase" = -30;
 };
 A = {
 "@MMK_R_round-left-lowercase" = -15;
@@ -27785,6 +27848,9 @@ Y = {
 "@MMK_R_short_lower_case" = -70;
 "@MMK_R_undercut-left-lowercase" = -60;
 z = -80;
+};
+a = {
+"@MMK_R_undercut-left-lowercase" = 0;
 };
 a.ss02 = {
 "@MMK_R_undercut-left-lowercase" = -30;
