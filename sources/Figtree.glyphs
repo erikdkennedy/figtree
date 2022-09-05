@@ -2,13 +2,23 @@
 .appVersion = "3134";
 .formatVersion = 3;
 DisplayStrings = (
-"CLICK HERE ↓
-Click here ↓
+"strava have
+straw bylaws clawed
+fax axe saxophone axiom betaxed
+stray yay hay yaya
 
-SCROLL UP ↑
-Scroll Up ↑ 
+shvitz bushveld
+archway athwart thwack
+giphy hype hyena ghyll
 
-"
+humvee triumvirate
+dimwit gumwood tramway
+mommy grimy myopic stymy
+
+anvil nonviolence canvas
+unwise pinwork runway onward
+jinx minx pharynxes
+ninny nymph adenyl"
 );
 axes = (
 {
@@ -13454,7 +13464,7 @@ unicode = 367;
 glyphname = v;
 kernLeft = "undercut-left-lowercase";
 kernRight = "undercut-right-lowercase";
-lastChange = "2022-09-04 04:53:25 +0000";
+lastChange = "2022-09-05 14:01:15 +0000";
 layers = (
 {
 layerId = m01;
@@ -13828,7 +13838,7 @@ unicode = 120;
 glyphname = y;
 kernLeft = "undercut-left-lowercase";
 kernRight = "undercut-right-lowercase";
-lastChange = "2022-09-04 05:09:13 +0000";
+lastChange = "2022-09-05 14:02:16 +0000";
 layers = (
 {
 anchors = (
@@ -27871,9 +27881,6 @@ Y = {
 "@MMK_R_short_lower_case" = -70;
 "@MMK_R_undercut-left-lowercase" = -60;
 z = -80;
-};
-a = {
-"@MMK_R_undercut-left-lowercase" = 0;
 };
 a.ss02 = {
 "@MMK_R_undercut-left-lowercase" = -30;
