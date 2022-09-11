@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="494"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="153" y="-200" type="line"/>
+      <point x="335" y="-200" type="line"/>
+      <point x="290" y="71" type="line"/>
+      <point x="315" y="250" type="line"/>
+      <point x="290" y="429" type="line"/>
+      <point x="325" y="700" type="line"/>
+      <point x="163" y="700" type="line"/>
+      <point x="198" y="429" type="line"/>
+      <point x="173" y="250" type="line"/>
+      <point x="198" y="71" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="-7" type="line"/>
+      <point x="250" y="23" type="line"/>
+      <point x="464" y="-7" type="line"/>
+      <point x="464" y="149" type="line"/>
+      <point x="250" y="119" type="line"/>
+      <point x="35" y="149" type="line"/>
+    </contour>
+    <contour>
+      <point x="29" y="351" type="line"/>
+      <point x="244" y="381" type="line"/>
+      <point x="458" y="351" type="line"/>
+      <point x="458" y="507" type="line"/>
+      <point x="244" y="477" type="line"/>
+      <point x="29" y="507" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>asterisk</string>
+    </dict>
+  </lib>
+</glyph>

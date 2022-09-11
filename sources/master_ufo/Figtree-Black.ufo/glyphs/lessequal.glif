@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lessequal" format="2">
+  <advance width="640"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="119" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="520" y="120" type="line"/>
+      <point x="119" y="120" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="572" type="line"/>
+      <point x="119" y="420" type="line"/>
+      <point x="119" y="298" type="line"/>
+      <point x="520" y="431" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="415" type="line"/>
+      <point x="119" y="294" type="line"/>
+      <point x="520" y="144" type="line"/>
+      <point x="520" y="285" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=less</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=less</string>
+    </dict>
+  </lib>
+</glyph>

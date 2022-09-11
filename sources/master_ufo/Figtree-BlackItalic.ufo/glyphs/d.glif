@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d" format="2">
+  <advance width="620"/>
+  <unicode hex="0064"/>
+  <outline>
+    <contour>
+      <point x="362" y="0" type="line"/>
+      <point x="533" y="0" type="line"/>
+      <point x="650" y="700" type="line"/>
+      <point x="470" y="700" type="line"/>
+      <point x="369" y="93" type="line"/>
+    </contour>
+    <component base="Bowl" xOffset="25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="a" format="2">
+  <advance width="600"/>
+  <unicode hex="0061"/>
+  <outline>
+    <contour>
+      <point x="408" y="0" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="549" y="500" type="line"/>
+      <point x="489" y="500" type="line"/>
+      <point x="421" y="93" type="line"/>
+    </contour>
+    <component base="Bowl"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

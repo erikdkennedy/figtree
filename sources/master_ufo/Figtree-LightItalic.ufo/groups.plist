@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>public.kern1.round_right_uppercase</key>
+    <array>
+      <string>D</string>
+      <string>U</string>
+    </array>
+    <key>public.kern1.undercut_right_uppercase</key>
+    <array>
+      <string>T</string>
+      <string>V</string>
+      <string>W</string>
+      <string>Y</string>
+    </array>
+    <key>public.kern2.round_left_uppercase</key>
+    <array>
+      <string>C</string>
+      <string>G</string>
+      <string>J</string>
+      <string>Q</string>
+      <string>S</string>
+      <string>U</string>
+    </array>
+    <key>public.kern2.tall_punctuation</key>
+    <array>
+      <string>exclam</string>
+      <string>question</string>
+      <string>asterisk</string>
+      <string>parenright</string>
+      <string>braceright</string>
+      <string>bracketright</string>
+      <string>quotedblleft</string>
+      <string>quotedblright</string>
+      <string>quotedbl</string>
+      <string>quotesingle</string>
+    </array>
+    <key>public.kern2.undercut_left_uppercase</key>
+    <array>
+      <string>T</string>
+      <string>V</string>
+      <string>W</string>
+      <string>Y</string>
+    </array>
+  </dict>
+</plist>
