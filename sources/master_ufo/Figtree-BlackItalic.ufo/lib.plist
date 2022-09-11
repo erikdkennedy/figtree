@@ -2,6 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>GSOffsetHorizontal</key>
+    <integer>37</integer>
+    <key>GSOffsetMakeStroke</key>
+    <integer>1</integer>
+    <key>GSOffsetPosition</key>
+    <integer>1</integer>
+    <key>GSOffsetVertical</key>
+    <integer>36</integer>
     <key>com.github.googlei18n.ufo2ft.filters</key>
     <array>
       <dict>
@@ -13,6 +21,14 @@
         <true/>
       </dict>
     </array>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.copyright</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>C</string>
+      </dict>
+    </dict>
     <key>com.schriftgestaltung.appVersion</key>
     <string>3134</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Axis Mappings</key>
@@ -135,7 +151,9 @@
       <string>seven</string>
       <string>eight</string>
       <string>nine</string>
+      <string>.notdef</string>
       <string>space</string>
+      <string>nbspace</string>
       <string>period</string>
       <string>comma</string>
       <string>colon</string>
@@ -174,14 +192,23 @@
       <string>quotesingle</string>
       <string>at</string>
       <string>ampersand</string>
+      <string>paragraph</string>
+      <string>section</string>
+      <string>copyright</string>
+      <string>registered</string>
+      <string>trademark</string>
       <string>degree</string>
       <string>bar</string>
       <string>brokenbar</string>
+      <string>cent</string>
       <string>euro</string>
       <string>sterling</string>
       <string>yen</string>
       <string>dollar</string>
       <string>plus</string>
+      <string>minus</string>
+      <string>multiply</string>
+      <string>divide</string>
       <string>equal</string>
       <string>greater</string>
       <string>less</string>
@@ -192,6 +219,8 @@
       <string>rightArrow</string>
       <string>downArrow</string>
       <string>leftArrow</string>
+      <string>gravecomb</string>
+      <string>grave</string>
       <string>Bowl</string>
       <string>arch</string>
     </array>
@@ -207,6 +236,8 @@
       <string>guillemotright</string>
       <key>leftArrow</key>
       <string>arrowleft</string>
+      <key>nbspace</key>
+      <string>uni00A0</string>
       <key>rightArrow</key>
       <string>arrowright</string>
       <key>softhyphen</key>

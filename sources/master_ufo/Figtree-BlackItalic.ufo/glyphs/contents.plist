@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>.notdef</key>
+    <string>_notdef.glif</string>
     <key>A</key>
     <string>A_.glif</string>
     <key>B</key>
@@ -90,14 +92,20 @@
     <string>bullet.glif</string>
     <key>c</key>
     <string>c.glif</string>
+    <key>cent</key>
+    <string>cent.glif</string>
     <key>colon</key>
     <string>colon.glif</string>
     <key>comma</key>
     <string>comma.glif</string>
+    <key>copyright</key>
+    <string>copyright.glif</string>
     <key>d</key>
     <string>d.glif</string>
     <key>degree</key>
     <string>degree.glif</string>
+    <key>divide</key>
+    <string>divide.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
     <key>downArrow</key>
@@ -126,6 +134,10 @@
     <string>four.glif</string>
     <key>g</key>
     <string>g.glif</string>
+    <key>grave</key>
+    <string>grave.glif</string>
+    <key>gravecomb</key>
+    <string>gravecomb.glif</string>
     <key>greater</key>
     <string>greater.glif</string>
     <key>guillemetleft</key>
@@ -154,8 +166,14 @@
     <string>less.glif</string>
     <key>m</key>
     <string>m.glif</string>
+    <key>minus</key>
+    <string>minus.glif</string>
+    <key>multiply</key>
+    <string>multiply.glif</string>
     <key>n</key>
     <string>n.glif</string>
+    <key>nbspace</key>
+    <string>nbspace.glif</string>
     <key>nine</key>
     <string>nine.glif</string>
     <key>numbersign</key>
@@ -166,6 +184,8 @@
     <string>one.glif</string>
     <key>p</key>
     <string>p.glif</string>
+    <key>paragraph</key>
+    <string>paragraph.glif</string>
     <key>parenleft</key>
     <string>parenleft.glif</string>
     <key>parenright</key>
@@ -200,10 +220,14 @@
     <string>quotesingle.glif</string>
     <key>r</key>
     <string>r.glif</string>
+    <key>registered</key>
+    <string>registered.glif</string>
     <key>rightArrow</key>
     <string>rightA_rrow.glif</string>
     <key>s</key>
     <string>s.glif</string>
+    <key>section</key>
+    <string>section.glif</string>
     <key>semicolon</key>
     <string>semicolon.glif</string>
     <key>seven</key>
@@ -222,6 +246,8 @@
     <string>t.glif</string>
     <key>three</key>
     <string>three.glif</string>
+    <key>trademark</key>
+    <string>trademark.glif</string>
     <key>two</key>
     <string>two.glif</string>
     <key>u</key>

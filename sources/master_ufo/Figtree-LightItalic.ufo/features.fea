@@ -1,8 +1,8 @@
 table GDEF {
   # automatic
   GlyphClassDef
-    [A C D E G I J K L N O R S T U W Y Z], # Base
+    [A C D E G I J K L N O R S T U W Y Z copyright], # Base
     , # Liga
-    , # Mark
+    [gravecomb], # Mark
     ;
 } GDEF;
