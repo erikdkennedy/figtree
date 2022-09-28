@@ -2,6 +2,8 @@
 <glyph name="d" format="2">
   <advance width="620"/>
   <unicode hex="0064"/>
+  <anchor x="560" y="700" name="top"/>
+  <anchor x="650" y="700" name="top_caron"/>
   <outline>
     <contour>
       <point x="362" y="0" type="line"/>

@@ -5,4 +5,12 @@
   <outline>
     <component base="six" xScale="-1.0" yScale="-1.0" xOffset="626" yOffset="699"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|6</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|6</string>
+    </dict>
+  </lib>
 </glyph>

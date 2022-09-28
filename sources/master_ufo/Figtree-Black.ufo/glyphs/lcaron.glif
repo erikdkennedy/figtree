@@ -2,6 +2,7 @@
 <glyph name="lcaron" format="2">
   <advance width="270"/>
   <unicode hex="013E"/>
+  <anchor x="135" y="0" name="bottom"/>
   <anchor x="135" y="700" name="top"/>
   <anchor x="227" y="700" name="top_caron"/>
   <outline>

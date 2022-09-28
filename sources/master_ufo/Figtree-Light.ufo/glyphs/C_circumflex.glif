@@ -2,7 +2,7 @@
 <glyph name="Ccircumflex" format="2">
   <advance width="719"/>
   <unicode hex="0108"/>
-  <anchor x="389" y="-12" name="bottom"/>
+  <anchor x="389" y="0" name="bottom"/>
   <anchor x="386" y="670" name="top"/>
   <outline>
     <component base="C"/>

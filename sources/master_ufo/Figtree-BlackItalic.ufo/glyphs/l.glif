@@ -2,6 +2,9 @@
 <glyph name="l" format="2">
   <advance width="270"/>
   <unicode hex="006C"/>
+  <anchor x="93" y="0" name="bottom"/>
+  <anchor x="205" y="670" name="top"/>
+  <anchor x="302" y="700" name="top_caron"/>
   <outline>
     <contour>
       <point x="3" y="0" type="line"/>

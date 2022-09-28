@@ -2,6 +2,8 @@
 <glyph name="u" format="2">
   <advance width="579"/>
   <unicode hex="0075"/>
+  <anchor x="492" y="0" name="ogonek"/>
+  <anchor x="329" y="500" name="top"/>
   <outline>
     <contour>
       <point x="322" y="0" type="line"/>
