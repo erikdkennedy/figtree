@@ -100,6 +100,7 @@
       <string>Aogonek</string>
       <string>Aring</string>
       <string>Atilde</string>
+      <string>AE</string>
       <string>B</string>
       <string>C</string>
       <string>Cacute</string>
@@ -107,7 +108,9 @@
       <string>Ccedilla</string>
       <string>Cdotaccent</string>
       <string>D</string>
+      <string>Eth</string>
       <string>Dcaron</string>
+      <string>Dcroat</string>
       <string>E</string>
       <string>Eacute</string>
       <string>Ecaron</string>
@@ -123,7 +126,9 @@
       <string>Gcommaaccent</string>
       <string>Gdotaccent</string>
       <string>H</string>
+      <string>Hbar</string>
       <string>I</string>
+      <string>IJ</string>
       <string>Iacute</string>
       <string>Icircumflex</string>
       <string>Idieresis</string>
@@ -138,12 +143,14 @@
       <string>Lacute</string>
       <string>Lcaron</string>
       <string>Lcommaaccent</string>
+      <string>Lslash</string>
       <string>M</string>
       <string>N</string>
       <string>Nacute</string>
       <string>Ncaron</string>
       <string>Ncommaaccent</string>
       <string>Ntilde</string>
+      <string>Eng</string>
       <string>O</string>
       <string>Oacute</string>
       <string>Ocircumflex</string>
@@ -151,8 +158,11 @@
       <string>Ograve</string>
       <string>Ohungarumlaut</string>
       <string>Omacron</string>
+      <string>Oslash</string>
       <string>Otilde</string>
+      <string>OE</string>
       <string>P</string>
+      <string>Thorn</string>
       <string>Q</string>
       <string>R</string>
       <string>Racute</string>
@@ -163,6 +173,7 @@
       <string>Scaron</string>
       <string>Scedilla</string>
       <string>Scommaaccent</string>
+      <string>Germandbls</string>
       <string>T</string>
       <string>Tcaron</string>
       <string>Tcommaaccent</string>
@@ -203,6 +214,7 @@
       <string>aogonek</string>
       <string>aring</string>
       <string>atilde</string>
+      <string>ae</string>
       <string>b</string>
       <string>c</string>
       <string>cacute</string>
@@ -414,6 +426,8 @@
       <string>uni01CD</string>
       <key>Gcommaaccent</key>
       <string>uni0122</string>
+      <key>Germandbls</key>
+      <string>uni1E9E</string>
       <key>Kcommaaccent</key>
       <string>uni0136</string>
       <key>Lcommaaccent</key>

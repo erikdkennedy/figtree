@@ -34,6 +34,7 @@
     </array>
     <key>public.kern1.round-right-lowercase</key>
     <array>
+      <string>ae</string>
       <string>b</string>
       <string>c</string>
       <string>ccaron</string>
@@ -42,8 +43,11 @@
     <key>public.kern1.round_right_uppercase</key>
     <array>
       <string>D</string>
+      <string>Eth</string>
       <string>Dcaron</string>
+      <string>Dcroat</string>
       <string>O</string>
+      <string>Oslash</string>
       <string>U</string>
       <string>Uogonek</string>
     </array>
@@ -70,12 +74,14 @@
       <string>A</string>
       <string>Acaron</string>
       <string>Aogonek</string>
+      <string>AE</string>
     </array>
     <key>public.kern2.round-left-lowercase</key>
     <array>
       <string>a</string>
       <string>acaron</string>
       <string>aogonek</string>
+      <string>ae</string>
       <string>c</string>
       <string>ccaron</string>
       <string>d</string>
@@ -93,6 +99,8 @@
       <string>G</string>
       <string>J</string>
       <string>O</string>
+      <string>Oslash</string>
+      <string>OE</string>
       <string>Q</string>
       <string>S</string>
       <string>Scaron</string>
