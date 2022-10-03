@@ -10,7 +10,8 @@ DisplayStrings = (
 "е",
 "Д",
 "Б",
-E
+E,
+"гджзийклмнптфчцшщьыъэюя"
 );
 axes = (
 {
@@ -17203,31 +17204,242 @@ source = B;
 },
 {
 glyphname = "ge-cy";
+lastChange = "2022-10-03 10:17:16 +0000";
 layers = (
 {
-layerId = m01;
-width = 600;
+anchors = (
+{
+name = bottom;
+pos = (198,0);
 },
 {
+name = ogonek;
+pos = (363,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(127,0,l),
+(127,442,l),
+(360,442,l),
+(360,497,l),
+(66,497,l),
+(66,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 71;
+weight = -12;
+width = 71;
+};
+};
+width = 421;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (208,0);
+},
+{
+name = ogonek;
+pos = (404,0);
+}
+);
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(205,0,l),
+(205,333,l),
+(385,333,l),
+(385,497,l),
+(27,497,l),
+(27,0,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 71;
+weight = -31;
+width = 71;
+};
+};
+width = 413;
 }
 );
 unicode = 1075;
+userData = {
+RMXScaler = {
+source = "Ge-cy";
+};
+};
 },
 {
 glyphname = "de-cy";
+lastChange = "2022-10-03 10:19:03 +0000";
 layers = (
 {
-layerId = m01;
-width = 600;
+anchors = (
+{
+name = bottom;
+pos = (259,0);
 },
 {
+name = ogonek;
+pos = (94,0);
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(463,497,l),
+(168,497,l),
+(168,440,l),
+(400,440,l),
+(400,-3,l),
+(463,-3,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(121,0,l),
+(217,132,o),
+(215,291,o),
+(215,497,c),
+(155,497,l),
+(155,312,o),
+(172,153,o),
+(56,0,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(7,-53,l),
+(533,-53,l),
+(533,0,l),
+(7,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(472,-144,l),
+(533,-144,l),
+(533,-44,l),
+(472,-44,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(7,-144,l),
+(69,-144,l),
+(69,-44,l),
+(7,-44,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 71;
+width = 71;
+};
+};
+width = 598;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (395,0);
+},
+{
+name = ogonek;
+pos = (199,0);
+}
+);
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(601,497,l),
+(288,497,l),
+(288,332,l),
+(421,332,l),
+(421,-22,l),
+(601,-22,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(257,0,l),
+(324,34,o),
+(364,311,o),
+(364,497,c),
+(189,497,l),
+(189,300,o),
+(163,20,o),
+(66,1,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(4,-128,l),
+(666,-130,l),
+(666,0,l),
+(4,1,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(498,-163,l),
+(666,-163,l),
+(666,-63,l),
+(498,-63,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(6,-163,l),
+(174,-163,l),
+(174,-63,l),
+(6,-63,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 71;
+weight = -24;
+width = 71;
+};
+};
+width = 693;
 }
 );
 unicode = 1076;
+userData = {
+RMXScaler = {
+source = "De-cy";
+};
+};
 },
 {
 glyphname = "ie-cy";
@@ -17280,17 +17492,120 @@ unicode = 1105;
 },
 {
 glyphname = "zhe-cy";
+lastChange = "2022-10-03 10:20:02 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(687,0,l),
+(466,248,l),
+(688,497,l),
+(611,497,l),
+(391,248,l),
+(610,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(378,0,l),
+(378,497,l),
+(317,497,l),
+(317,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(304,248,l),
+(84,497,l),
+(7,497,l),
+(229,248,l),
+(8,0,l),
+(85,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(439,217,l),
+(439,277,l),
+(257,277,l),
+(257,217,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 71;
+width = 71;
+};
+};
+width = 695;
 },
 {
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(894,0,l),
+(717,247,l),
+(893,497,l),
+(672,497,l),
+(503,249,l),
+(672,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(540,0,l),
+(540,497,l),
+(360,497,l),
+(360,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(397,249,l),
+(229,497,l),
+(7,497,l),
+(184,247,l),
+(7,0,l),
+(229,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(643,167,l),
+(643,330,l),
+(248,330,l),
+(248,167,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 71;
+weight = -31;
+width = 71;
+};
+};
+width = 901;
 }
 );
 unicode = 1078;
+userData = {
+RMXScaler = {
+source = "Zhe-cy";
+};
+};
 },
 {
 glyphname = "ze-cy";
