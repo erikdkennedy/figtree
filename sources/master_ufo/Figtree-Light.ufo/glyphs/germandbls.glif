@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="germandbls" format="2">
-  <advance width="550"/>
+  <advance width="555"/>
   <unicode hex="00DF"/>
   <outline>
     <contour>
@@ -55,7 +55,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>l</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>b</string>
+      <string>B</string>
     </dict>
   </lib>
 </glyph>

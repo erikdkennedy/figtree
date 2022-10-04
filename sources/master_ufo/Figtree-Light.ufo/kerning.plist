@@ -168,6 +168,11 @@
       <key>public.kern2.round-left-lowercase</key>
       <integer>-40</integer>
     </dict>
+    <key>quotedblbase</key>
+    <dict>
+      <key>public.kern2.A</key>
+      <integer>40</integer>
+    </dict>
     <key>quoteright</key>
     <dict>
       <key>public.kern2.short_lower_case</key>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven" format="2">
-  <advance width="574"/>
+  <advance width="573"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
       <point x="60" y="0" type="line"/>
       <point x="269" y="0" type="line"/>
-      <point x="598" y="570" type="line"/>
+      <point x="597" y="570" type="line"/>
       <point x="382" y="530" type="line"/>
     </contour>
     <contour>

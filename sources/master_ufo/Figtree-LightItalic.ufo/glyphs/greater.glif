@@ -6,14 +6,14 @@
     <contour>
       <point x="126" y="107" type="line"/>
       <point x="484" y="266" type="line"/>
-      <point x="494" y="332" type="line"/>
-      <point x="136" y="169" type="line"/>
+      <point x="494" y="330" type="line"/>
+      <point x="138" y="174" type="line"/>
     </contour>
     <contour>
-      <point x="484" y="266" type="line"/>
-      <point x="494" y="332" type="line"/>
-      <point x="190" y="489" type="line"/>
-      <point x="180" y="426" type="line"/>
+      <point x="484" y="268" type="line"/>
+      <point x="494" y="330" type="line"/>
+      <point x="190" y="487" type="line"/>
+      <point x="180" y="429" type="line"/>
     </contour>
   </outline>
 </glyph>

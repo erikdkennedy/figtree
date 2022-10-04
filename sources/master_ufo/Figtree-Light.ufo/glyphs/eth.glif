@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eth" format="2">
-  <advance width="600"/>
+  <advance width="589"/>
   <unicode hex="00F0"/>
   <outline>
     <contour>
@@ -36,17 +36,25 @@
       <point x="474" y="250" type="curve"/>
       <point x="534" y="250" type="line"/>
       <point x="534" y="516"/>
-      <point x="400" y="689"/>
+      <point x="420" y="684"/>
       <point x="170" y="737" type="curve"/>
       <point x="157" y="678" type="line"/>
-      <point x="361" y="637"/>
+      <point x="381" y="631"/>
       <point x="474" y="489"/>
     </contour>
     <contour>
-      <point x="342" y="540" type="line"/>
-      <point x="515" y="636" type="line"/>
-      <point x="492" y="680" type="line"/>
-      <point x="318" y="584" type="line"/>
+      <point x="290" y="535" type="line"/>
+      <point x="465" y="645" type="line"/>
+      <point x="440" y="687" type="line"/>
+      <point x="263" y="578" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=o+10</string>
+    </dict>
+  </lib>
 </glyph>

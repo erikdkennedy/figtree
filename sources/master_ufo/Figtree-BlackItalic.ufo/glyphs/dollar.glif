@@ -48,6 +48,12 @@
     <contour>
       <point x="150" y="-103" type="line"/>
       <point x="294" y="-103" type="line"/>
+      <point x="327" y="94" type="line"/>
+      <point x="183" y="94" type="line"/>
+    </contour>
+    <contour>
+      <point x="265" y="583" type="line"/>
+      <point x="409" y="583" type="line"/>
       <point x="442" y="780" type="line"/>
       <point x="298" y="780" type="line"/>
     </contour>

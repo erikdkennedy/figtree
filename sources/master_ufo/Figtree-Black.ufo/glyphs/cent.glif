@@ -2,7 +2,7 @@
 <glyph name="cent" format="2">
   <advance width="545"/>
   <unicode hex="00A2"/>
-  <anchor x="302" y="98" name="bottom"/>
+  <anchor x="302" y="109" name="bottom"/>
   <anchor x="300" y="610" name="top"/>
   <outline>
     <contour>

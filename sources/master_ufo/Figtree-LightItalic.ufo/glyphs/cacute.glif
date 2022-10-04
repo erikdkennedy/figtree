@@ -2,6 +2,7 @@
 <glyph name="cacute" format="2">
   <advance width="540"/>
   <unicode hex="0107"/>
+  <anchor x="251" y="0" name="bottom"/>
   <anchor x="329" y="500" name="top"/>
   <outline>
     <component base="c"/>

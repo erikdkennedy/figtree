@@ -29,8 +29,104 @@
         <string>C</string>
       </dict>
     </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.eight.numr</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>eight</string>
+      </dict>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.five.numr</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>five</string>
+      </dict>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.four.numr</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>four</string>
+      </dict>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.nine.numr</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>nine</string>
+      </dict>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.one.numr</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>one</string>
+      </dict>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.ordfeminine</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>a</string>
+      </dict>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.ordmasculine</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>o</string>
+      </dict>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.seven.numr</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>seven</string>
+      </dict>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.six.numr</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>six</string>
+      </dict>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.three.numr</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>three</string>
+      </dict>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.two.numr</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>two</string>
+      </dict>
+    </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.zero.numr</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>zero</string>
+      </dict>
+    </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3135</string>
+    <string>3139</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Axis Mappings</key>
     <dict>
       <key>wght</key>
@@ -106,6 +202,7 @@
       <string>Cacute</string>
       <string>Ccaron</string>
       <string>Ccedilla</string>
+      <string>Ccircumflex</string>
       <string>Cdotaccent</string>
       <string>D</string>
       <string>Eth</string>
@@ -123,10 +220,12 @@
       <string>F</string>
       <string>G</string>
       <string>Gbreve</string>
+      <string>Gcircumflex</string>
       <string>Gcommaaccent</string>
       <string>Gdotaccent</string>
       <string>H</string>
       <string>Hbar</string>
+      <string>Hcircumflex</string>
       <string>I</string>
       <string>IJ</string>
       <string>Iacute</string>
@@ -137,6 +236,8 @@
       <string>Imacron</string>
       <string>Iogonek</string>
       <string>J</string>
+      <string>Jacute</string>
+      <string>Jcircumflex</string>
       <string>K</string>
       <string>Kcommaaccent</string>
       <string>L</string>
@@ -172,6 +273,7 @@
       <string>Sacute</string>
       <string>Scaron</string>
       <string>Scedilla</string>
+      <string>Scircumflex</string>
       <string>Scommaaccent</string>
       <string>Germandbls</string>
       <string>T</string>
@@ -220,9 +322,12 @@
       <string>cacute</string>
       <string>ccaron</string>
       <string>ccedilla</string>
+      <string>ccircumflex</string>
       <string>cdotaccent</string>
       <string>d</string>
+      <string>eth</string>
       <string>dcaron</string>
+      <string>dcroat</string>
       <string>e</string>
       <string>eacute</string>
       <string>ecaron</string>
@@ -235,9 +340,12 @@
       <string>f</string>
       <string>g</string>
       <string>gbreve</string>
+      <string>gcircumflex</string>
       <string>gcommaaccent</string>
       <string>gdotaccent</string>
       <string>h</string>
+      <string>hbar</string>
+      <string>hcircumflex</string>
       <string>i</string>
       <string>idotless</string>
       <string>iacute</string>
@@ -245,22 +353,27 @@
       <string>idieresis</string>
       <string>idotaccent</string>
       <string>igrave</string>
+      <string>ij</string>
       <string>imacron</string>
       <string>iogonek</string>
       <string>j</string>
       <string>jdotless</string>
+      <string>jacute</string>
+      <string>jcircumflex</string>
       <string>k</string>
       <string>kcommaaccent</string>
       <string>l</string>
       <string>lacute</string>
       <string>lcaron</string>
       <string>lcommaaccent</string>
+      <string>lslash</string>
       <string>m</string>
       <string>n</string>
       <string>nacute</string>
       <string>ncaron</string>
       <string>ncommaaccent</string>
       <string>ntilde</string>
+      <string>eng</string>
       <string>o</string>
       <string>oacute</string>
       <string>ocircumflex</string>
@@ -268,8 +381,11 @@
       <string>ograve</string>
       <string>ohungarumlaut</string>
       <string>omacron</string>
+      <string>oslash</string>
       <string>otilde</string>
+      <string>oe</string>
       <string>p</string>
+      <string>thorn</string>
       <string>q</string>
       <string>r</string>
       <string>racute</string>
@@ -279,7 +395,9 @@
       <string>sacute</string>
       <string>scaron</string>
       <string>scedilla</string>
+      <string>scircumflex</string>
       <string>scommaaccent</string>
+      <string>germandbls</string>
       <string>t</string>
       <string>tcaron</string>
       <string>tcommaaccent</string>
@@ -309,6 +427,8 @@
       <string>zacute</string>
       <string>zcaron</string>
       <string>zdotaccent</string>
+      <string>ordfeminine</string>
+      <string>ordmasculine</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>
@@ -319,6 +439,64 @@
       <string>seven</string>
       <string>eight</string>
       <string>nine</string>
+      <string>zero.tf</string>
+      <string>one.tf</string>
+      <string>two.tf</string>
+      <string>three.tf</string>
+      <string>four.tf</string>
+      <string>five.tf</string>
+      <string>six.tf</string>
+      <string>seven.tf</string>
+      <string>eight.tf</string>
+      <string>nine.tf</string>
+      <string>zero.dnom</string>
+      <string>one.dnom</string>
+      <string>two.dnom</string>
+      <string>three.dnom</string>
+      <string>four.dnom</string>
+      <string>five.dnom</string>
+      <string>six.dnom</string>
+      <string>seven.dnom</string>
+      <string>eight.dnom</string>
+      <string>nine.dnom</string>
+      <string>zero.numr</string>
+      <string>one.numr</string>
+      <string>two.numr</string>
+      <string>three.numr</string>
+      <string>four.numr</string>
+      <string>five.numr</string>
+      <string>six.numr</string>
+      <string>seven.numr</string>
+      <string>eight.numr</string>
+      <string>nine.numr</string>
+      <string>fraction</string>
+      <string>onehalf</string>
+      <string>onequarter</string>
+      <string>threequarters</string>
+      <string>oneeighth</string>
+      <string>threeeighths</string>
+      <string>fiveeighths</string>
+      <string>seveneighths</string>
+      <string>zeroinferior</string>
+      <string>oneinferior</string>
+      <string>twoinferior</string>
+      <string>threeinferior</string>
+      <string>fourinferior</string>
+      <string>fiveinferior</string>
+      <string>sixinferior</string>
+      <string>seveninferior</string>
+      <string>eightinferior</string>
+      <string>nineinferior</string>
+      <string>zerosuperior</string>
+      <string>onesuperior</string>
+      <string>twosuperior</string>
+      <string>threesuperior</string>
+      <string>foursuperior</string>
+      <string>fivesuperior</string>
+      <string>sixsuperior</string>
+      <string>sevensuperior</string>
+      <string>eightsuperior</string>
+      <string>ninesuperior</string>
       <string>.notdef</string>
       <string>space</string>
       <string>nbspace</string>
@@ -328,13 +506,17 @@
       <string>semicolon</string>
       <string>ellipsis</string>
       <string>exclam</string>
+      <string>exclamdown</string>
       <string>question</string>
+      <string>questiondown</string>
       <string>periodcentered</string>
       <string>bullet</string>
       <string>asterisk</string>
       <string>numbersign</string>
       <string>slash</string>
       <string>backslash</string>
+      <string>periodcentered.loclCAT</string>
+      <string>periodcentered.loclCAT.case</string>
       <string>hyphen</string>
       <string>softhyphen</string>
       <string>endash</string>
@@ -368,20 +550,30 @@
       <string>degree</string>
       <string>bar</string>
       <string>brokenbar</string>
+      <string>dagger</string>
+      <string>daggerdbl</string>
       <string>cent</string>
+      <string>currency</string>
+      <string>dollar</string>
       <string>euro</string>
       <string>sterling</string>
       <string>yen</string>
-      <string>dollar</string>
+      <string>divisionslash</string>
       <string>plus</string>
       <string>minus</string>
       <string>multiply</string>
       <string>divide</string>
       <string>equal</string>
+      <string>notequal</string>
       <string>greater</string>
       <string>less</string>
+      <string>greaterequal</string>
+      <string>lessequal</string>
+      <string>plusminus</string>
       <string>asciitilde</string>
+      <string>logicalnot</string>
       <string>asciicircum</string>
+      <string>micro</string>
       <string>percent</string>
       <string>upArrow</string>
       <string>rightArrow</string>
@@ -428,6 +620,8 @@
       <string>uni0122</string>
       <key>Germandbls</key>
       <string>uni1E9E</string>
+      <key>Jacute</key>
+      <string>uni004A0301</string>
       <key>Kcommaaccent</key>
       <string>uni0136</string>
       <key>Lcommaaccent</key>
@@ -458,12 +652,26 @@
       <string>uni0312</string>
       <key>dieresiscomb</key>
       <string>uni0308</string>
+      <key>divisionslash</key>
+      <string>uni2215</string>
       <key>dotaccentcomb</key>
       <string>uni0307</string>
       <key>downArrow</key>
       <string>arrowdown</string>
+      <key>eightinferior</key>
+      <string>uni2088</string>
+      <key>eightsuperior</key>
+      <string>uni2078</string>
       <key>euro</key>
       <string>Euro</string>
+      <key>fiveinferior</key>
+      <string>uni2085</string>
+      <key>fivesuperior</key>
+      <string>uni2075</string>
+      <key>fourinferior</key>
+      <string>uni2084</string>
+      <key>foursuperior</key>
+      <string>uni2074</string>
       <key>gcommaaccent</key>
       <string>uni0123</string>
       <key>guillemetleft</key>
@@ -476,6 +684,8 @@
       <string>i.loclTRK</string>
       <key>idotless</key>
       <string>dotlessi</string>
+      <key>jacute</key>
+      <string>uni006A0301</string>
       <key>jdotless</key>
       <string>uni0237</string>
       <key>kcommaaccent</key>
@@ -486,14 +696,24 @@
       <string>arrowleft</string>
       <key>macroncomb</key>
       <string>uni0304</string>
+      <key>micro</key>
+      <string>uni00B5</string>
       <key>nbspace</key>
       <string>uni00A0</string>
       <key>ncommaaccent</key>
       <string>uni0146</string>
+      <key>nineinferior</key>
+      <string>uni2089</string>
+      <key>ninesuperior</key>
+      <string>uni2079</string>
       <key>ogonekcomb</key>
       <string>uni0328</string>
       <key>ogonekcomb.alt</key>
       <string>uni0328.alt</string>
+      <key>oneinferior</key>
+      <string>uni2081</string>
+      <key>onesuperior</key>
+      <string>uni00B9</string>
       <key>rcommaaccent</key>
       <string>uni0157</string>
       <key>rightArrow</key>
@@ -502,18 +722,37 @@
       <string>uni030A</string>
       <key>scommaaccent</key>
       <string>uni0219</string>
+      <key>seveninferior</key>
+      <string>uni2087</string>
+      <key>sevensuperior</key>
+      <string>uni2077</string>
+      <key>sixinferior</key>
+      <string>uni2086</string>
+      <key>sixsuperior</key>
+      <string>uni2076</string>
       <key>softhyphen</key>
       <string>uni00AD</string>
       <key>tcommaaccent</key>
       <string>uni021B</string>
+      <key>threeinferior</key>
+      <string>uni2083</string>
+      <key>threesuperior</key>
+      <string>uni00B3</string>
+      <key>twoinferior</key>
+      <string>uni2082</string>
+      <key>twosuperior</key>
+      <string>uni00B2</string>
       <key>upArrow</key>
       <string>arrowup</string>
+      <key>zeroinferior</key>
+      <string>uni2080</string>
+      <key>zerosuperior</key>
+      <string>uni2070</string>
     </dict>
     <key>public.skipExportGlyphs</key>
     <array>
       <string>Bowl</string>
       <string>arch</string>
-      <string>dollar</string>
     </array>
   </dict>
 </plist>

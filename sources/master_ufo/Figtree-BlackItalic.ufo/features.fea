@@ -1,7 +1,49 @@
+feature locl {
+# automatic
+lookup locl_latn_0 {
+	script latn;
+	language AZE;
+	sub i by idotaccent;
+	language CRT;
+	sub i by idotaccent;
+	language KAZ;
+	sub i by idotaccent;
+	language TAT;
+	sub i by idotaccent;
+	language TRK;
+	sub i by idotaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language ROM;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+} locl_latn_1;
+
+lookup locl_latn_2 {
+	script latn;
+	language CAT;
+	sub l periodcentered' l by periodcentered.loclCAT;
+	sub L periodcentered' L by periodcentered.loclCAT.case;
+} locl_latn_2;
+
+lookup locl_latn_3 {
+	script latn;
+	language NLD;
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_3;
+
+} locl;
+
 table GDEF {
   # automatic
   GlyphClassDef
-    [A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde C Cacute Ccaron Ccedilla Cdotaccent D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek G Gbreve Gcommaaccent Gdotaccent I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scommaaccent T Tcaron Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring W Wacute Wcircumflex Wdieresis Wgrave Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent a aacute abreve acaron acircumflex adieresis agrave amacron aogonek aring atilde ae c cacute ccaron ccedilla cdotaccent d dcaron e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek g gbreve gcommaaccent gdotaccent i idotless iacute icircumflex idieresis idotaccent igrave imacron iogonek j jdotless k kcommaaccent l lacute lcaron lcommaaccent n nacute ncaron ncommaaccent ntilde o oacute ocircumflex odieresis ograve ohungarumlaut omacron otilde r racute rcaron rcommaaccent s sacute scaron scedilla scommaaccent t tcaron tcommaaccent u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring w wacute wcircumflex wdieresis wgrave y yacute ycircumflex ydieresis ygrave z zacute zcaron zdotaccent copyright cent], # Base
+    [A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek G Gbreve Gcircumflex Gcommaaccent Gdotaccent I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent T Tcaron Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring W Wacute Wcircumflex Wdieresis Wgrave Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent a aacute abreve acaron acircumflex adieresis agrave amacron aogonek aring atilde ae c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek g gbreve gcircumflex gcommaaccent gdotaccent h hbar hcircumflex i idotless iacute icircumflex idieresis idotaccent igrave ij imacron iogonek j jdotless jacute jcircumflex k kcommaaccent l lacute lcaron lcommaaccent lslash n nacute ncaron ncommaaccent ntilde eng o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent t tcaron tcommaaccent u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring w wacute wcircumflex wdieresis wgrave y yacute ycircumflex ydieresis ygrave z zacute zcaron zdotaccent ordfeminine ordmasculine copyright cent], # Base
     , # Liga
     [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb caroncomb.alt circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb commaturnedabovecomb commaaccentcomb cedillacomb ogonekcomb ogonekcomb.alt], # Mark
     ;

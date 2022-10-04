@@ -36,10 +36,15 @@
       <string>h</string>
       <string>m</string>
       <string>n</string>
+      <string>nacute</string>
+      <string>ncaron</string>
+      <string>ncommaaccent</string>
+      <string>ntilde</string>
     </array>
     <key>public.kern1.indented-right-lowercase</key>
     <array>
       <string>k</string>
+      <string>kcommaaccent</string>
     </array>
     <key>public.kern1.ogonek</key>
     <array>
@@ -212,13 +217,16 @@
       <string>Cacute</string>
       <string>Ccaron</string>
       <string>Ccedilla</string>
+      <string>Ccircumflex</string>
       <string>Cdotaccent</string>
       <string>G</string>
       <string>Gbreve</string>
+      <string>Gcircumflex</string>
       <string>Gcommaaccent</string>
       <string>Gdotaccent</string>
       <string>J</string>
       <string>Jacute</string>
+      <string>Jcircumflex</string>
       <string>O</string>
       <string>Oacute</string>
       <string>Ocircumflex</string>
@@ -234,6 +242,7 @@
       <string>Sacute</string>
       <string>Scaron</string>
       <string>Scedilla</string>
+      <string>Scircumflex</string>
       <string>Scommaaccent</string>
       <string>U</string>
       <string>Uacute</string>
@@ -264,6 +273,7 @@
       <string>sacute</string>
       <string>scaron</string>
       <string>scedilla</string>
+      <string>scircumflex</string>
       <string>scommaaccent</string>
       <string>u</string>
       <string>uacute</string>
@@ -273,6 +283,7 @@
       <string>ugrave</string>
       <string>uhungarumlaut</string>
       <string>umacron</string>
+      <string>uogonek</string>
       <string>uring</string>
       <string>z</string>
       <string>zacute</string>
@@ -293,7 +304,6 @@
       <string>idotaccent</string>
       <string>igrave</string>
       <string>imacron</string>
-      <string>iogonek</string>
       <string>k</string>
       <string>kcommaaccent</string>
       <string>l</string>

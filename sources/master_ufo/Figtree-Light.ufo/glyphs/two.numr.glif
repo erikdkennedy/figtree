@@ -51,6 +51,10 @@
         <key>width</key>
         <integer>60</integer>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=two*.7</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=two*.7</string>
     </dict>
   </lib>
 </glyph>
