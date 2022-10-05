@@ -11,7 +11,8 @@ c",
 "₴",
 "₴₽
 ₴₽
-a"
+a",
+"ʼ"
 );
 axes = (
 {
@@ -33551,11 +33552,16 @@ unicode = 731;
 },
 {
 glyphname = apostrophemod;
-lastChange = "2022-10-05 10:54:47 +0000";
+lastChange = "2022-10-05 12:19:47 +0000";
 layers = (
 {
 layerId = m01;
-width = 600;
+shapes = (
+{
+ref = quoteright;
+}
+);
+width = 166;
 },
 {
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
@@ -33567,6 +33573,8 @@ ref = quoteright;
 width = 254;
 }
 );
+metricLeft = quoteright;
+metricRight = quoteright;
 unicode = 700;
 },
 {
