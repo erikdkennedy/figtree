@@ -14,7 +14,10 @@ DisplayStrings = (
 "ч",
 "ʼ",
 "€",
-"₴"
+"₴",
+"Й",
+"й",
+"Ў"
 );
 axes = (
 {
@@ -16403,6 +16406,38 @@ metricRight = Y;
 unicode = 1059;
 },
 {
+glyphname = "Ushort-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "U-cy";
+},
+{
+pos = (-10,31);
+ref = "brevecomb-cy";
+}
+);
+width = 566;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+ref = "U-cy";
+},
+{
+pos = (15,30);
+ref = "brevecomb-cy";
+}
+);
+width = 632;
+}
+);
+unicode = 1038;
+},
+{
 glyphname = "Ef-cy";
 lastChange = "2022-10-04 11:55:06 +0000";
 layers = (
@@ -19485,6 +19520,38 @@ width = 622;
 }
 );
 unicode = 1091;
+},
+{
+glyphname = "ushort-cy";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = "u-cy";
+},
+{
+pos = (-49,-190);
+ref = "brevecomb-cy";
+}
+);
+width = 507;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+ref = "u-cy";
+},
+{
+pos = (10,-191);
+ref = "brevecomb-cy";
+}
+);
+width = 622;
+}
+);
+unicode = 1118;
 },
 {
 glyphname = "ef-cy";
@@ -31457,13 +31524,26 @@ unicode = 8592;
 },
 {
 glyphname = "brevecomb-cy";
+lastChange = "2022-10-05 11:12:10 +0000";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+pos = (139,190);
+ref = brevecomb;
+}
+);
 width = 600;
 },
 {
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+pos = (99,191);
+ref = brevecomb;
+}
+);
 width = 600;
 }
 );
