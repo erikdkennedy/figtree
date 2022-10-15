@@ -2,9 +2,7 @@
 .appVersion = "3139";
 .formatVersion = 3;
 DisplayStrings = (
-"„Die Berliner Post”
-
-“The Berlin Post”"
+Colors
 );
 axes = (
 {
@@ -440,7 +438,6 @@ GSOffsetMakeStroke = 1;
 GSOffsetPosition = 1;
 GSOffsetVertical = 51;
 };
-visible = 1;
 }
 );
 glyphs = (
@@ -11226,7 +11223,7 @@ unicode = 331;
 glyphname = o;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
-lastChange = "2022-09-05 14:40:44 +0000";
+lastChange = "2022-10-12 07:52:36 +0000";
 layers = (
 {
 anchors = (
@@ -11351,75 +11348,6 @@ nodes = (
 }
 );
 width = 583;
-},
-{
-anchors = (
-{
-name = bottom;
-pos = (297,0);
-},
-{
-name = center;
-pos = (297,250);
-},
-{
-name = ogonek;
-pos = (534,10);
-},
-{
-name = top;
-pos = (297,500);
-},
-{
-name = topright;
-pos = (574,500);
-}
-);
-associatedMasterId = m01;
-attr = {
-coordinates = (
-660
-);
-};
-layerId = "05821CA0-7B28-4E9D-A75F-FEDECD93B62A";
-name = "{660}";
-shapes = (
-{
-closed = 1;
-nodes = (
-(455,-12,o),
-(563,96,o),
-(563,250,cs),
-(563,404,o),
-(455,512,o),
-(300,512,cs),
-(147,512,o),
-(38,404,o),
-(38,250,cs),
-(38,96,o),
-(148,-12,o),
-(302,-12,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(231,117,o),
-(182,172,o),
-(182,250,cs),
-(182,328,o),
-(231,383,o),
-(300,383,cs),
-(370,383,o),
-(420,328,o),
-(420,250,cs),
-(420,172,o),
-(371,117,o),
-(302,117,cs)
-);
-}
-);
-width = 601;
 }
 );
 metricRight = "=|o";
