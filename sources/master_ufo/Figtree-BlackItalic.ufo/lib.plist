@@ -3,13 +3,13 @@
 <plist version="1.0">
   <dict>
     <key>GSOffsetHorizontal</key>
-    <integer>52</integer>
+    <integer>92</integer>
     <key>GSOffsetMakeStroke</key>
     <integer>1</integer>
     <key>GSOffsetPosition</key>
     <integer>1</integer>
     <key>GSOffsetVertical</key>
-    <integer>48</integer>
+    <integer>82</integer>
     <key>com.github.googlei18n.ufo2ft.filters</key>
     <array>
       <dict>

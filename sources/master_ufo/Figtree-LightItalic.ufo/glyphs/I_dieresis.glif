@@ -8,20 +8,6 @@
   <anchor x="97" y="700" name="topleft"/>
   <outline>
     <contour>
-      <point x="293" y="800" type="curve" smooth="yes"/>
-      <point x="315" y="800"/>
-      <point x="333" y="818"/>
-      <point x="333" y="840" type="curve" smooth="yes"/>
-      <point x="333" y="862"/>
-      <point x="315" y="880"/>
-      <point x="293" y="880" type="curve" smooth="yes"/>
-      <point x="271" y="880"/>
-      <point x="253" y="862"/>
-      <point x="253" y="840" type="curve" smooth="yes"/>
-      <point x="253" y="818"/>
-      <point x="271" y="800"/>
-    </contour>
-    <contour>
       <point x="171" y="800" type="curve" smooth="yes"/>
       <point x="193" y="800"/>
       <point x="211" y="818"/>
@@ -34,6 +20,20 @@
       <point x="131" y="840" type="curve" smooth="yes"/>
       <point x="131" y="818"/>
       <point x="149" y="800"/>
+    </contour>
+    <contour>
+      <point x="293" y="800" type="curve" smooth="yes"/>
+      <point x="315" y="800"/>
+      <point x="333" y="818"/>
+      <point x="333" y="840" type="curve" smooth="yes"/>
+      <point x="333" y="862"/>
+      <point x="315" y="880"/>
+      <point x="293" y="880" type="curve" smooth="yes"/>
+      <point x="271" y="880"/>
+      <point x="253" y="862"/>
+      <point x="253" y="840" type="curve" smooth="yes"/>
+      <point x="253" y="818"/>
+      <point x="271" y="800"/>
     </contour>
     <component base="I" xOffset="2"/>
   </outline>

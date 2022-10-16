@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="q" format="2">
-  <advance width="587"/>
+  <advance width="588"/>
   <unicode hex="0071"/>
   <outline>
     <contour>
-      <point x="372" y="-200" type="line"/>
-      <point x="432" y="-200" type="line"/>
-      <point x="549" y="500" type="line"/>
-      <point x="492" y="500" type="line"/>
-      <point x="473" y="407" type="line"/>
+      <point x="373" y="-200" type="line"/>
+      <point x="433" y="-200" type="line"/>
+      <point x="550" y="500" type="line"/>
+      <point x="493" y="500" type="line"/>
+      <point x="474" y="407" type="line"/>
     </contour>
-    <component base="Bowl"/>
+    <component base="Bowl" xOffset="1"/>
   </outline>
   <lib>
     <dict>

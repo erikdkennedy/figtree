@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oe" format="2">
-  <advance width="1008"/>
+  <advance width="1000"/>
   <unicode hex="0153"/>
-  <anchor x="691" y="0" name="bottom"/>
-  <anchor x="888" y="50" name="ogonek"/>
-  <anchor x="328" y="500" name="top_1"/>
-  <anchor x="776" y="500" name="top_2"/>
+  <anchor x="692" y="0" name="bottom"/>
+  <anchor x="903" y="50" name="ogonek"/>
+  <anchor x="335" y="500" name="top_1"/>
+  <anchor x="770" y="500" name="top_2"/>
   <outline>
     <component base="o"/>
     <component base="e" xOffset="432"/>

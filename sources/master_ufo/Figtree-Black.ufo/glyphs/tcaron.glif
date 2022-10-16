@@ -2,11 +2,11 @@
 <glyph name="tcaron" format="2">
   <advance width="454"/>
   <unicode hex="0165"/>
-  <anchor x="233" y="0" name="bottom"/>
-  <anchor x="213" y="250" name="center"/>
-  <anchor x="213" y="500" name="top"/>
-  <anchor x="275" y="700" name="top_caron"/>
-  <anchor x="405" y="800" name="topright"/>
+  <anchor x="223" y="0" name="bottom"/>
+  <anchor x="203" y="250" name="center"/>
+  <anchor x="203" y="500" name="top"/>
+  <anchor x="265" y="700" name="top_caron"/>
+  <anchor x="395" y="800" name="topright"/>
   <outline>
     <contour>
       <point x="290" y="581" type="line"/>

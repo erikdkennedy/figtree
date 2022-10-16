@@ -103,6 +103,11 @@
       <key>j</key>
       <integer>60</integer>
     </dict>
+    <key>f</key>
+    <dict>
+      <key>public.kern2.round-left-lowercase</key>
+      <integer>-20</integer>
+    </dict>
     <key>fraction</key>
     <dict>
       <key>five.dnom</key>

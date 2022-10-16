@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="d" format="2">
-  <advance width="582"/>
+  <advance width="583"/>
   <unicode hex="0064"/>
-  <anchor x="551" y="700" name="top"/>
-  <anchor x="582" y="700" name="top_caron"/>
+  <anchor x="552" y="700" name="top"/>
+  <anchor x="583" y="700" name="top_caron"/>
   <outline>
     <contour>
-      <point x="408" y="0" type="line"/>
-      <point x="465" y="0" type="line"/>
-      <point x="582" y="700" type="line"/>
-      <point x="522" y="700" type="line"/>
-      <point x="421" y="93" type="line"/>
+      <point x="409" y="0" type="line"/>
+      <point x="466" y="0" type="line"/>
+      <point x="583" y="700" type="line"/>
+      <point x="523" y="700" type="line"/>
+      <point x="422" y="93" type="line"/>
     </contour>
-    <component base="Bowl"/>
+    <component base="Bowl" xOffset="1"/>
   </outline>
   <lib>
     <dict>

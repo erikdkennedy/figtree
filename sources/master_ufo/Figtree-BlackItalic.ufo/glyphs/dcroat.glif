@@ -2,8 +2,8 @@
 <glyph name="dcroat" format="2">
   <advance width="604"/>
   <unicode hex="0111"/>
-  <anchor x="560" y="700" name="top"/>
-  <anchor x="650" y="700" name="top_caron"/>
+  <anchor x="546" y="700" name="top"/>
+  <anchor x="636" y="700" name="top_caron"/>
   <outline>
     <contour>
       <point x="309" y="545" type="line"/>

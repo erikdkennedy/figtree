@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b" format="2">
-  <advance width="621"/>
+  <advance width="606"/>
   <unicode hex="0062"/>
   <outline>
     <contour>
@@ -10,7 +10,7 @@
       <point x="300" y="700" type="line"/>
       <point x="120" y="700" type="line"/>
     </contour>
-    <component base="Bowl" xScale="-1.0" yScale="-1.0" xOffset="596" yOffset="500"/>
+    <component base="Bowl" xScale="-1.0" yScale="-1.0" xOffset="595" yOffset="500"/>
   </outline>
   <lib>
     <dict>

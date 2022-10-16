@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cent" format="2">
-  <advance width="559"/>
+  <advance width="557"/>
   <unicode hex="00A2"/>
-  <anchor x="281" y="109" name="bottom"/>
-  <anchor x="367" y="610" name="top"/>
+  <anchor x="271" y="109" name="bottom"/>
+  <anchor x="356" y="610" name="top"/>
   <outline>
     <contour>
       <point x="214" y="0" type="line"/>
