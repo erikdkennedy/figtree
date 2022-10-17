@@ -256,6 +256,11 @@
       <key>public.kern2.undercut_left_uppercase</key>
       <integer>-30</integer>
     </dict>
+    <key>public.kern1.t</key>
+    <dict>
+      <key>public.kern2.round-left-lowercase</key>
+      <integer>-15</integer>
+    </dict>
     <key>public.kern1.undercut-right-lowercase</key>
     <dict>
       <key>public.kern2.round-left-lowercase</key>

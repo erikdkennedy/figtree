@@ -103,6 +103,11 @@
       <key>j</key>
       <integer>60</integer>
     </dict>
+    <key>f</key>
+    <dict>
+      <key>public.kern2.round-left-lowercase</key>
+      <integer>0</integer>
+    </dict>
     <key>fraction</key>
     <dict>
       <key>five.dnom</key>
@@ -167,6 +172,11 @@
     <dict>
       <key>public.kern2.round-left-lowercase</key>
       <integer>-40</integer>
+    </dict>
+    <key>quotedblbase</key>
+    <dict>
+      <key>public.kern2.A</key>
+      <integer>40</integer>
     </dict>
     <key>quoteright</key>
     <dict>

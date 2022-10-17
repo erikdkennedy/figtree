@@ -158,6 +158,11 @@
       <key>j</key>
       <integer>60</integer>
     </dict>
+    <key>f</key>
+    <dict>
+      <key>public.kern2.round-left-lowercase</key>
+      <integer>-20</integer>
+    </dict>
     <key>fraction</key>
     <dict>
       <key>four.dnom</key>
@@ -209,6 +214,8 @@
     </dict>
     <key>public.kern1.arch-right-lowercase</key>
     <dict>
+      <key>public.kern2.tall_left_lowercase</key>
+      <integer>0</integer>
       <key>public.kern2.undercut-left-lowercase</key>
       <integer>-20</integer>
     </dict>
@@ -243,6 +250,11 @@
     <dict>
       <key>public.kern2.undercut_left_uppercase</key>
       <integer>-30</integer>
+    </dict>
+    <key>public.kern1.t</key>
+    <dict>
+      <key>public.kern2.round-left-lowercase</key>
+      <integer>-15</integer>
     </dict>
     <key>public.kern1.undercut-right-lowercase</key>
     <dict>

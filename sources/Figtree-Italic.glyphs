@@ -1,9 +1,6 @@
 {
 .appVersion = "3139";
 .formatVersion = 3;
-DisplayStrings = (
-A
-);
 axes = (
 {
 name = Weight;
@@ -10701,7 +10698,7 @@ unicode = 331;
 glyphname = o;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
-lastChange = "2022-10-15 06:00:59 +0000";
+lastChange = "2022-10-17 07:11:09 +0000";
 layers = (
 {
 anchors = (
@@ -12068,7 +12065,8 @@ unicode = 223;
 {
 glyphname = t;
 kernLeft = tall_left_lowercase;
-lastChange = "2022-10-15 06:00:59 +0000";
+kernRight = t;
+lastChange = "2022-10-17 07:13:34 +0000";
 layers = (
 {
 anchors = (
@@ -12169,7 +12167,8 @@ unicode = 116;
 {
 glyphname = tcaron;
 kernLeft = tall_left_lowercase;
-lastChange = "2022-09-25 05:19:40 +0000";
+kernRight = t;
+lastChange = "2022-10-17 07:13:39 +0000";
 layers = (
 {
 layerId = m01;
@@ -12204,7 +12203,8 @@ unicode = 357;
 {
 glyphname = tcommaaccent;
 kernLeft = tall_left_lowercase;
-lastChange = "2022-10-04 14:48:47 +0000";
+kernRight = t;
+lastChange = "2022-10-17 07:13:42 +0000";
 layers = (
 {
 layerId = m01;
@@ -26173,6 +26173,12 @@ fraction = -40;
 tcaron = {
 "@MMK_R_tall_left_lowercase" = 100;
 };
+f = {
+"@MMK_R_round-left-lowercase" = 0;
+};
+quotedblbase = {
+"@MMK_R_A" = 40;
+};
 };
 "AEB41AA6-A430-455D-A6E9-A3012AD74722" = {
 "@MMK_L_A" = {
@@ -26186,6 +26192,7 @@ tcaron = {
 };
 "@MMK_L_arch-right-lowercase" = {
 "@MMK_R_undercut-left-lowercase" = -20;
+"@MMK_R_tall_left_lowercase" = 0;
 };
 "@MMK_L_indented-right-lowercase" = {
 "@MMK_R_round-left-lowercase" = -40;
@@ -26204,6 +26211,9 @@ parenright = -20;
 };
 "@MMK_L_round_right_uppercase" = {
 "@MMK_R_undercut_left_uppercase" = -30;
+};
+"@MMK_L_t" = {
+"@MMK_R_round-left-lowercase" = -15;
 };
 "@MMK_L_undercut-right-lowercase" = {
 "@MMK_R_round-left-lowercase" = -20;
@@ -26298,6 +26308,9 @@ dcaron = {
 };
 eogonek = {
 j = 60;
+};
+f = {
+"@MMK_R_round-left-lowercase" = -20;
 };
 fraction = {
 four.dnom = -55;

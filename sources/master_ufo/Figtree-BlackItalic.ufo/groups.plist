@@ -93,6 +93,12 @@
       <string>Uogonek</string>
       <string>Uring</string>
     </array>
+    <key>public.kern1.t</key>
+    <array>
+      <string>t</string>
+      <string>tcaron</string>
+      <string>tcommaaccent</string>
+    </array>
     <key>public.kern1.undercut-right-lowercase</key>
     <array>
       <string>v</string>
