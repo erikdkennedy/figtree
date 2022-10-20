@@ -124,7 +124,7 @@
       </dict>
     </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3139</string>
+    <string>3140</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Axis Mappings</key>
     <dict>
       <key>wght</key>
@@ -426,6 +426,16 @@
       <string>zcaron</string>
       <string>zdotaccent</string>
       <string>a.ss01</string>
+      <string>aacute.ss01</string>
+      <string>abreve.ss01</string>
+      <string>acaron.ss01</string>
+      <string>acircumflex.ss01</string>
+      <string>adieresis.ss01</string>
+      <string>agrave.ss01</string>
+      <string>amacron.ss01</string>
+      <string>aogonek.ss01</string>
+      <string>aring.ss01</string>
+      <string>atilde.ss01</string>
       <string>a.ss02</string>
       <string>g.ss02</string>
       <string>t.ss02</string>
@@ -640,6 +650,8 @@
       <string>uni021A</string>
       <key>acaron</key>
       <string>uni01CE</string>
+      <key>acaron.ss01</key>
+      <string>uni01CE.ss01</string>
       <key>brevecomb</key>
       <string>uni0306</string>
       <key>caroncomb</key>

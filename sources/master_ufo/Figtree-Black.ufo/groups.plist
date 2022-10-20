@@ -40,6 +40,16 @@
       <string>ncaron</string>
       <string>ncommaaccent</string>
       <string>ntilde</string>
+      <string>aacute.ss01</string>
+      <string>abreve.ss01</string>
+      <string>acaron.ss01</string>
+      <string>acircumflex.ss01</string>
+      <string>adieresis.ss01</string>
+      <string>agrave.ss01</string>
+      <string>amacron.ss01</string>
+      <string>aogonek.ss01</string>
+      <string>aring.ss01</string>
+      <string>atilde.ss01</string>
     </array>
     <key>public.kern1.indented-right-lowercase</key>
     <array>
@@ -214,6 +224,15 @@
       <string>oe</string>
       <string>q</string>
       <string>a.ss01</string>
+      <string>aacute.ss01</string>
+      <string>abreve.ss01</string>
+      <string>acaron.ss01</string>
+      <string>acircumflex.ss01</string>
+      <string>agrave.ss01</string>
+      <string>amacron.ss01</string>
+      <string>aogonek.ss01</string>
+      <string>aring.ss01</string>
+      <string>atilde.ss01</string>
       <string>a.ss02</string>
       <string>g.ss02</string>
     </array>
@@ -320,6 +339,7 @@
       <string>t</string>
       <string>tcaron</string>
       <string>tcommaaccent</string>
+      <string>adieresis.ss01</string>
       <string>t.ss02</string>
     </array>
     <key>public.kern2.tall_punctuation</key>

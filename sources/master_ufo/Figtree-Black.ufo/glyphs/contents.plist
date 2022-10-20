@@ -258,32 +258,50 @@
     <string>a.ss02.glif</string>
     <key>aacute</key>
     <string>aacute.glif</string>
+    <key>aacute.ss01</key>
+    <string>aacute.ss01.glif</string>
     <key>abreve</key>
     <string>abreve.glif</string>
+    <key>abreve.ss01</key>
+    <string>abreve.ss01.glif</string>
     <key>acaron</key>
     <string>acaron.glif</string>
+    <key>acaron.ss01</key>
+    <string>acaron.ss01.glif</string>
     <key>acircumflex</key>
     <string>acircumflex.glif</string>
+    <key>acircumflex.ss01</key>
+    <string>acircumflex.ss01.glif</string>
     <key>acute</key>
     <string>acute.glif</string>
     <key>acutecomb</key>
     <string>acutecomb.glif</string>
     <key>adieresis</key>
     <string>adieresis.glif</string>
+    <key>adieresis.ss01</key>
+    <string>adieresis.ss01.glif</string>
     <key>ae</key>
     <string>ae.glif</string>
     <key>agrave</key>
     <string>agrave.glif</string>
+    <key>agrave.ss01</key>
+    <string>agrave.ss01.glif</string>
     <key>amacron</key>
     <string>amacron.glif</string>
+    <key>amacron.ss01</key>
+    <string>amacron.ss01.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
     <key>aogonek</key>
     <string>aogonek.glif</string>
+    <key>aogonek.ss01</key>
+    <string>aogonek.ss01.glif</string>
     <key>arch</key>
     <string>arch.glif</string>
     <key>aring</key>
     <string>aring.glif</string>
+    <key>aring.ss01</key>
+    <string>aring.ss01.glif</string>
     <key>asciicircum</key>
     <string>asciicircum.glif</string>
     <key>asciitilde</key>
@@ -294,6 +312,8 @@
     <string>at.glif</string>
     <key>atilde</key>
     <string>atilde.glif</string>
+    <key>atilde.ss01</key>
+    <string>atilde.ss01.glif</string>
     <key>b</key>
     <string>b.glif</string>
     <key>backslash</key>

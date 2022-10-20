@@ -1,6 +1,9 @@
 {
 .appVersion = "3140";
 .formatVersion = 3;
+DisplayStrings = (
+""
+);
 axes = (
 {
 name = Weight;
@@ -270,9 +273,7 @@ code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;
 tag = case;
 },
 {
-automatic = 1;
-code = "sub a by a.ss01;
-";
+code = "sub a by a;";
 labels = (
 {
 language = dflt;
