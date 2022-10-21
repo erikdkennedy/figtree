@@ -1,9 +1,6 @@
 {
-.appVersion = "3140";
+.appVersion = "3133";
 .formatVersion = 3;
-DisplayStrings = (
-handful
-);
 axes = (
 {
 name = Weight;
@@ -319,7 +316,7 @@ value = 979;
 },
 {
 name = winDescent;
-value = 220;
+value = 222;
 },
 {
 name = hheaAscender;
@@ -397,7 +394,7 @@ value = 979;
 },
 {
 name = winDescent;
-value = 220;
+value = 222;
 },
 {
 name = hheaAscender;
@@ -28307,6 +28304,6 @@ tH = "55";
 };
 };
 };
-versionMajor = 1;
+versionMajor = 2;
 versionMinor = 0;
 }
