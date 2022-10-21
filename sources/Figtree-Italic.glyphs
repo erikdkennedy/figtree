@@ -22057,6 +22057,7 @@ nodes = (
 );
 }
 );
+visible = 1;
 width = 567;
 },
 {
@@ -22135,6 +22136,7 @@ nodes = (
 );
 }
 );
+visible = 1;
 width = 547;
 }
 );
@@ -26176,7 +26178,7 @@ m01 = 0.83333;
 };
 isItalic = 1;
 linkStyle = Regular;
-name = "Regular Italic";
+name = Italic;
 },
 {
 axesValues = (
