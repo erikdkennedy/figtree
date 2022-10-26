@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="p" format="2">
+  <advance width="612"/>
+  <unicode hex="0070"/>
+  <outline>
+    <contour>
+      <point x="-25" y="-200" type="line"/>
+      <point x="155" y="-200" type="line"/>
+      <point x="256" y="408" type="line"/>
+      <point x="262" y="500" type="line"/>
+      <point x="92" y="500" type="line"/>
+    </contour>
+    <component base="Bowl" xScale="-1.0" yScale="-1.0" xOffset="601" yOffset="500"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=n+5</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

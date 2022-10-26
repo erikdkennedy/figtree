@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ae" format="2">
+  <advance width="872"/>
+  <unicode hex="00E6"/>
+  <anchor x="589" y="0" name="bottom"/>
+  <anchor x="791" y="50" name="ogonek"/>
+  <anchor x="601" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="337" y="160" type="line"/>
+      <point x="466" y="160" type="line"/>
+      <point x="466" y="281" type="line" smooth="yes"/>
+      <point x="466" y="419"/>
+      <point x="387" y="512"/>
+      <point x="252" y="512" type="curve" smooth="yes"/>
+      <point x="142" y="512"/>
+      <point x="68" y="460"/>
+      <point x="21" y="378" type="curve"/>
+      <point x="180" y="328" type="line"/>
+      <point x="201" y="356"/>
+      <point x="218" y="368"/>
+      <point x="248" y="368" type="curve" smooth="yes"/>
+      <point x="328" y="368"/>
+      <point x="328" y="315"/>
+      <point x="332" y="245" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="204" y="-12" type="curve" smooth="yes"/>
+      <point x="369" y="-12"/>
+      <point x="467" y="69"/>
+      <point x="467" y="214" type="curve"/>
+      <point x="327" y="195" type="line"/>
+      <point x="327" y="146"/>
+      <point x="296" y="114"/>
+      <point x="247" y="114" type="curve"/>
+      <point x="217" y="114"/>
+      <point x="200" y="125"/>
+      <point x="200" y="145" type="curve"/>
+      <point x="200" y="174"/>
+      <point x="226" y="191"/>
+      <point x="273" y="191" type="curve"/>
+      <point x="351" y="191" type="line"/>
+      <point x="351" y="294" type="line"/>
+      <point x="204" y="294" type="line" smooth="yes"/>
+      <point x="88" y="294"/>
+      <point x="20" y="245"/>
+      <point x="20" y="141" type="curve" smooth="yes"/>
+      <point x="20" y="42"/>
+      <point x="88" y="-12"/>
+    </contour>
+    <component base="e" xOffset="306"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>e</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleft" format="2">
+  <advance width="362"/>
+  <unicode hex="005B"/>
+  <outline>
+    <contour>
+      <point x="1" y="-100" type="line"/>
+      <point x="263" y="-100" type="line"/>
+      <point x="290" y="60" type="line"/>
+      <point x="178" y="60" type="line"/>
+      <point x="275" y="640" type="line"/>
+      <point x="387" y="640" type="line"/>
+      <point x="414" y="800" type="line"/>
+      <point x="152" y="800" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>I</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=I-20</string>
+    </dict>
+  </lib>
+</glyph>

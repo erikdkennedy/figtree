@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb" format="2">
+  <unicode hex="0312"/>
+  <anchor x="103" y="500" name="_top"/>
+  <outline>
+    <component base="comma" xScale="-1.0" yScale="-0.5755" xOffset="264.0" yOffset="648.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>246</integer>
+    </dict>
+  </lib>
+</glyph>

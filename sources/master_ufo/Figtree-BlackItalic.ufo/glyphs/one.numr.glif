@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.numr" format="2">
+  <advance width="283"/>
+  <outline>
+    <contour>
+      <point x="116" y="280" type="line"/>
+      <point x="232" y="280" type="line"/>
+      <point x="302" y="700" type="line"/>
+      <point x="198" y="700" type="line"/>
+      <point x="175" y="634" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="536" type="line"/>
+      <point x="146" y="527"/>
+      <point x="210" y="570"/>
+      <point x="268" y="626" type="curve"/>
+      <point x="198" y="700" type="line"/>
+      <point x="174" y="675"/>
+      <point x="129" y="642"/>
+      <point x="95" y="646" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>280</integer>
+        <key>weight</key>
+        <integer>-300</integer>
+        <key>width</key>
+        <integer>60</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=one*.7</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=one*.7</string>
+    </dict>
+  </lib>
+</glyph>
