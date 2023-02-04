@@ -1,9 +1,8 @@
 {
-.appVersion = "3140";
+.appVersion = "3149";
 .formatVersion = 3;
 DisplayStrings = (
-"₹500 ₹43
-₹71.89 ₹R"
+bdhkl
 );
 axes = (
 {
@@ -9357,7 +9356,7 @@ unicode = 289;
 glyphname = h;
 kernLeft = tall_left_lowercase;
 kernRight = "arch-right-lowercase";
-lastChange = "2022-10-15 06:00:59 +0000";
+lastChange = "2023-02-04 05:00:29 +0000";
 layers = (
 {
 anchors = (
@@ -9380,8 +9379,8 @@ shapes = (
 closed = 1;
 nodes = (
 (93,0,l),
-(213,716,l),
-(153,716,l),
+(210,700,l),
+(150,700,l),
 (33,0,l)
 );
 },

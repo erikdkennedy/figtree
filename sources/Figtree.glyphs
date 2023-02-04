@@ -1,9 +1,8 @@
 {
-.appVersion = "3140";
+.appVersion = "3149";
 .formatVersion = 3;
 DisplayStrings = (
-"₹500 ₹43
-₹71.89 ₹R"
+bdhkl
 );
 axes = (
 {
@@ -9692,7 +9691,7 @@ unicode = 289;
 glyphname = h;
 kernLeft = tall_left_lowercase;
 kernRight = "arch-right-lowercase";
-lastChange = "2022-10-04 13:48:48 +0000";
+lastChange = "2023-02-04 04:48:21 +0000";
 layers = (
 {
 anchors = (
@@ -9715,8 +9714,8 @@ shapes = (
 closed = 1;
 nodes = (
 (135,0,l),
-(135,716,l),
-(75,716,l),
+(135,700,l),
+(75,700,l),
 (75,0,l)
 );
 },
@@ -9779,7 +9778,7 @@ ref = arch;
 width = 580;
 }
 );
-metricLeft = "l (75)";
+metricLeft = "=l";
 metricRight = n;
 unicode = 104;
 },
