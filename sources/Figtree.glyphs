@@ -1,6 +1,9 @@
 {
 .appVersion = "3151";
 .formatVersion = 3;
+DisplayStrings = (
+"bdðďđfhħĥkķlĺľļłþß"
+);
 axes = (
 {
 name = Weight;
@@ -333,7 +336,7 @@ value = 0;
 );
 guides = (
 {
-pos = (-5,-210);
+pos = (75,700);
 }
 );
 iconName = Light;
@@ -417,6 +420,9 @@ value = 0;
 guides = (
 {
 pos = (329,-210);
+},
+{
+pos = (75,700);
 }
 );
 iconName = Bold;
@@ -7817,7 +7823,7 @@ unicode = 230;
 {
 glyphname = b;
 kernRight = "round-right-lowercase";
-lastChange = "2022-09-05 20:21:46 +0000";
+lastChange = "2023-02-22 15:02:18 +0000";
 layers = (
 {
 layerId = m01;
@@ -9418,7 +9424,7 @@ unicode = 289;
 glyphname = h;
 kernLeft = tall_left_lowercase;
 kernRight = "arch-right-lowercase";
-lastChange = "2023-02-22 13:44:09 +0000";
+lastChange = "2023-02-22 15:02:13 +0000";
 layers = (
 {
 anchors = (
@@ -9441,8 +9447,8 @@ shapes = (
 closed = 1;
 nodes = (
 (135,0,l),
-(135,716,l),
-(75,716,l),
+(135,700,l),
+(75,700,l),
 (75,0,l)
 );
 },
