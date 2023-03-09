@@ -1,8 +1,11 @@
 {
-.appVersion = "3151";
+.appVersion = "3177";
 .formatVersion = 3;
 DisplayStrings = (
-FDLB
+"parallel
+paral/periodcentered.loclCAT lel 
+PARALLEL
+PARAL/periodcentered.loclCAT.case LEL"
 );
 axes = (
 {
@@ -30,10 +33,10 @@ value = {
 wght = {
 300 = 300;
 400 = 400;
-500 = 472;
-600 = 558;
-700 = 660;
-800 = 780;
+472 = 500;
+558 = 600;
+660 = 700;
+780 = 800;
 900 = 900;
 };
 };
@@ -19745,27 +19748,29 @@ width = 166;
 },
 {
 glyphname = periodcentered.loclCAT.case;
-lastChange = "2022-10-02 06:10:08 +0000";
+lastChange = "2023-03-09 17:24:27 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-pos = (-145,30);
+alignment = -1;
+pos = (-168,30);
 ref = periodcentered;
 }
 );
-width = 47;
+width = 0;
 },
 {
 layerId = "AEB41AA6-A430-455D-A6E9-A3012AD74722";
 shapes = (
 {
-pos = (-204,40);
+alignment = -1;
+pos = (-229,40);
 ref = periodcentered;
 }
 );
-width = 40;
+width = 0;
 }
 );
 },
