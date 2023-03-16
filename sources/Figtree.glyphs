@@ -1,11 +1,6 @@
 {
 .appVersion = "3151";
 .formatVersion = 3;
-DisplayStrings = (
-"m
-cam salamander mama monolinear
-no mania nom-nom "
-);
 axes = (
 {
 name = Weight;
@@ -89,12 +84,15 @@ feature ss01;
 tag = aalt;
 },
 {
-automatic = 1;
 code = "lookup ccmp_Other_1 {
 	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	@CombiningNonTopAccents = [cedillacomb ogonekcomb];
 	sub [i j]' @CombiningTopAccents by [idotless jdotless];
 	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+    @SoftDotted = [i j];
+	@SoftDottedDotless = [idotless jdotless idotless jdotless];
+	sub iogonek' @CombiningTopAccents by idotless ogonekcomb;
+	sub iogonek' @CombiningNonTopAccents @CombiningTopAccents by idotless ogonekcomb;
 } ccmp_Other_1;
 ";
 tag = ccmp;
@@ -20772,25 +20770,15 @@ unicode = 45;
 },
 {
 glyphname = softhyphen;
-lastChange = "2022-09-05 20:43:01 +0000";
+lastChange = "2023-03-16 09:19:21 +0000";
 layers = (
 {
 layerId = m01;
-shapes = (
-{
-ref = hyphen;
-}
-);
-width = 420;
+width = 0;
 },
 {
 layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
-shapes = (
-{
-ref = hyphen;
-}
-);
-width = 400;
+width = 0;
 }
 );
 unicode = 173;

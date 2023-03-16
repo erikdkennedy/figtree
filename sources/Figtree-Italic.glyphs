@@ -2,7 +2,7 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-"5/five.tf/five.dnom/five.numr"
+"­"
 );
 axes = (
 {
@@ -25,14 +25,6 @@ name = "Use Typo Metrics";
 value = 1;
 },
 {
-name = "Enforce Compatibility Check";
-value = 0;
-},
-{
-name = "Variable Font Origin";
-value = m01;
-},
-{
 name = "Axis Mappings";
 value = {
 wght = {
@@ -45,6 +37,14 @@ wght = {
 900 = 900;
 };
 };
+},
+{
+name = "Enforce Compatibility Check";
+value = 0;
+},
+{
+name = "Variable Font Origin";
+value = m01;
 }
 );
 date = "2021-04-02 20:56:50 +0000";
@@ -87,12 +87,15 @@ feature ss01;
 tag = aalt;
 },
 {
-automatic = 1;
 code = "lookup ccmp_Other_1 {
 	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	@CombiningNonTopAccents = [cedillacomb ogonekcomb];
 	sub [i j]' @CombiningTopAccents by [idotless jdotless];
 	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+    @SoftDotted = [i j];
+	@SoftDottedDotless = [idotless jdotless idotless jdotless];
+	sub iogonek' @CombiningTopAccents by idotless ogonekcomb;
+	sub iogonek' @CombiningNonTopAccents @CombiningTopAccents by idotless ogonekcomb;
 } ccmp_Other_1;
 ";
 tag = ccmp;
@@ -8698,7 +8701,7 @@ unicode = 240;
 {
 glyphname = e;
 kernLeft = "round-left-lowercase";
-lastChange = "2023-03-10 09:09:15 +0000";
+lastChange = "2023-02-22 14:14:54 +0000";
 layers = (
 {
 anchors = (
@@ -15481,7 +15484,7 @@ unicode = 52;
 },
 {
 glyphname = five;
-lastChange = "2023-03-10 09:14:10 +0000";
+lastChange = "2022-10-15 06:00:59 +0000";
 layers = (
 {
 layerId = m01;
@@ -19893,25 +19896,15 @@ unicode = 45;
 },
 {
 glyphname = softhyphen;
-lastChange = "2022-09-06 15:49:41 +0000";
+lastChange = "2023-03-16 09:19:13 +0000";
 layers = (
 {
 layerId = m01;
-shapes = (
-{
-ref = hyphen;
-}
-);
-width = 420;
+width = 0;
 },
 {
 layerId = "AEB41AA6-A430-455D-A6E9-A3012AD74722";
-shapes = (
-{
-ref = hyphen;
-}
-);
-width = 400;
+width = 0;
 }
 );
 unicode = 173;
