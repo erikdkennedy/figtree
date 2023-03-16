@@ -1,10 +1,8 @@
 {
-.appVersion = "3177";
+.appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-"m
-cam salamander mama monolinear
-no mania nom-nom "
+"5/five.tf/five.dnom/five.numr"
 );
 axes = (
 {
@@ -27,26 +25,26 @@ name = "Use Typo Metrics";
 value = 1;
 },
 {
-name = "Axis Mappings";
-value = {
-wght = {
-300 = 300;
-400 = 400;
-472 = 500;
-558 = 600;
-660 = 700;
-780 = 800;
-900 = 900;
-};
-};
-},
-{
 name = "Enforce Compatibility Check";
 value = 0;
 },
 {
 name = "Variable Font Origin";
 value = m01;
+},
+{
+name = "Axis Mappings";
+value = {
+wght = {
+300 = 300;
+400 = 400;
+500 = 472;
+600 = 558;
+700 = 660;
+800 = 780;
+900 = 900;
+};
+};
 }
 );
 date = "2021-04-02 20:56:50 +0000";
@@ -8700,7 +8698,7 @@ unicode = 240;
 {
 glyphname = e;
 kernLeft = "round-left-lowercase";
-lastChange = "2023-02-22 14:14:54 +0000";
+lastChange = "2023-03-10 09:09:15 +0000";
 layers = (
 {
 anchors = (
@@ -15483,7 +15481,7 @@ unicode = 52;
 },
 {
 glyphname = five;
-lastChange = "2022-10-15 06:00:59 +0000";
+lastChange = "2023-03-10 09:14:10 +0000";
 layers = (
 {
 layerId = m01;
