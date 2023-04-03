@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordfeminine" format="2">
+  <advance width="380"/>
+  <unicode hex="00AA"/>
+  <anchor x="373" y="400" name="ogonek"/>
+  <anchor x="226" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="181" y="393" type="curve" smooth="yes"/>
+      <point x="294" y="393"/>
+      <point x="312" y="529"/>
+      <point x="312" y="607" type="curve" smooth="yes"/>
+      <point x="312" y="671"/>
+      <point x="286" y="707"/>
+      <point x="224" y="707" type="curve" smooth="yes"/>
+      <point x="112" y="707"/>
+      <point x="62" y="621"/>
+      <point x="62" y="507" type="curve" smooth="yes"/>
+      <point x="62" y="438"/>
+      <point x="116" y="393"/>
+    </contour>
+    <contour>
+      <point x="226" y="504" type="curve" smooth="yes"/>
+      <point x="204" y="504"/>
+      <point x="191" y="520"/>
+      <point x="191" y="542" type="curve" smooth="yes"/>
+      <point x="191" y="570"/>
+      <point x="213" y="596"/>
+      <point x="240" y="596" type="curve" smooth="yes"/>
+      <point x="263" y="596"/>
+      <point x="279" y="581"/>
+      <point x="279" y="559" type="curve" smooth="yes"/>
+      <point x="279" y="530"/>
+      <point x="256" y="504"/>
+    </contour>
+    <contour>
+      <point x="259" y="400" type="line"/>
+      <point x="373" y="400" type="line"/>
+      <point x="423" y="700" type="line"/>
+      <point x="304" y="700" type="line"/>
+      <point x="263" y="456" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>400</integer>
+        <key>weight</key>
+        <integer>-300</integer>
+        <key>width</key>
+        <integer>60</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=a*.7</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=a*.7</string>
+    </dict>
+  </lib>
+</glyph>

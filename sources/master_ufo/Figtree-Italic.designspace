@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="300" maximum="900" default="300">
+      <map input="300" output="300"/>
+      <map input="400" output="400"/>
+      <map input="500" output="472"/>
+      <map input="600" output="558"/>
+      <map input="700" output="660"/>
+      <map input="800" output="780"/>
+      <map input="900" output="900"/>
+    </axis>
+  </axes>
+  <rules>
+    <rule name="BRACKET.550.900">
+      <conditionset>
+        <condition name="Weight" minimum="550" maximum="900"/>
+      </conditionset>
+      <sub name="dollar" with="dollar.BRACKET.550"/>
+    </rule>
+  </rules>
+  <sources>
+    <source filename="Figtree-LightItalic.ufo" name="Figtree Light Italic" familyname="Figtree" stylename="Light Italic">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="Figtree-BlackItalic.ufo" name="Figtree Black Italic" familyname="Figtree" stylename="Black Italic">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Figtree Light Italic" familyname="Figtree" stylename="Light Italic" filename="../instance_ufo/Figtree-LightItalic.ufo" stylemapfamilyname="Figtree Light" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+      </location>
+    </instance>
+    <instance name="Figtree Italic" familyname="Figtree" stylename="Italic" filename="../instance_ufo/Figtree-Italic.ufo" stylemapfamilyname="Figtree" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </instance>
+    <instance name="Figtree Medium Italic" familyname="Figtree" stylename="Medium Italic" filename="../instance_ufo/Figtree-MediumItalic.ufo" stylemapfamilyname="Figtree Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="472"/>
+      </location>
+    </instance>
+    <instance name="Figtree SemiBold Italic" familyname="Figtree" stylename="SemiBold Italic" filename="../instance_ufo/Figtree-SemiBoldItalic.ufo" stylemapfamilyname="Figtree Semibold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="558"/>
+      </location>
+    </instance>
+    <instance name="Figtree Bold Italic" familyname="Figtree" stylename="Bold Italic" filename="../instance_ufo/Figtree-BoldItalic.ufo" stylemapfamilyname="Figtree" stylemapstylename="bold italic">
+      <location>
+        <dimension name="Weight" xvalue="660"/>
+      </location>
+    </instance>
+    <instance name="Figtree ExtraBold Italic" familyname="Figtree" stylename="ExtraBold Italic" filename="../instance_ufo/Figtree-ExtraBoldItalic.ufo" stylemapfamilyname="Figtree ExtraBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="780"/>
+      </location>
+    </instance>
+    <instance name="Figtree Black Italic" familyname="Figtree" stylename="Black Italic" filename="../instance_ufo/Figtree-BlackItalic.ufo" stylemapfamilyname="Figtree Black" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+      </location>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>AEB41AA6-A430-455D-A6E9-A3012AD74722</key>
+        <dict>
+          <key>HH</key>
+          <string>170</string>
+          <key>HV</key>
+          <string>185</string>
+          <key>OH</key>
+          <string>170</string>
+          <key>OV</key>
+          <string>190</string>
+          <key>nV</key>
+          <string>180</string>
+          <key>nd</key>
+          <string>160</string>
+          <key>oH</key>
+          <string>165</string>
+          <key>oV</key>
+          <string>185</string>
+          <key>tH</key>
+          <string>140</string>
+        </dict>
+        <key>m01</key>
+        <dict>
+          <key>HH</key>
+          <string>58</string>
+          <key>HV</key>
+          <string>64</string>
+          <key>OH</key>
+          <string>58</string>
+          <key>OV</key>
+          <string>64</string>
+          <key>nV</key>
+          <string>60</string>
+          <key>nd</key>
+          <string>57</string>
+          <key>oH</key>
+          <string>55</string>
+          <key>oV</key>
+          <string>60</string>
+          <key>tH</key>
+          <string>55</string>
+        </dict>
+      </dict>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>Bowl</string>
+        <string>arch</string>
+      </array>
+    </dict>
+  </lib>
+</designspace>

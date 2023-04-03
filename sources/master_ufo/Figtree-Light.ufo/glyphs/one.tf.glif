@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tf" format="2">
+  <advance width="620"/>
+  <outline>
+    <contour>
+      <point x="150" y="0" type="line"/>
+      <point x="529" y="0" type="line"/>
+      <point x="529" y="57" type="line"/>
+      <point x="150" y="57" type="line"/>
+    </contour>
+    <component base="one" xOffset="85"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>one</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

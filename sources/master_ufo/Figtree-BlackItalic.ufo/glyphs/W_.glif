@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="1008"/>
+  <unicode hex="0057"/>
+  <anchor x="581" y="670" name="top"/>
+  <outline>
+    <contour>
+      <point x="580" y="0" type="line"/>
+      <point x="758" y="0" type="line"/>
+      <point x="1076" y="700" type="line"/>
+      <point x="884" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="166" y="0" type="line"/>
+      <point x="338" y="0" type="line"/>
+      <point x="268" y="700" type="line"/>
+      <point x="82" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="0" type="line"/>
+      <point x="358" y="0" type="line"/>
+      <point x="651" y="700" type="line"/>
+      <point x="484" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="566" y="0" type="line"/>
+      <point x="738" y="0" type="line"/>
+      <point x="668" y="700" type="line"/>
+      <point x="507" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+    </dict>
+  </lib>
+</glyph>

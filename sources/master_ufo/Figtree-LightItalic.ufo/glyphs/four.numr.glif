@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.numr" format="2">
+  <advance width="391"/>
+  <outline>
+    <contour>
+      <point x="107" y="397" type="line"/>
+      <point x="333" y="665" type="line"/>
+      <point x="300" y="700" type="line"/>
+      <point x="64" y="424" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="374" type="line"/>
+      <point x="391" y="374" type="line"/>
+      <point x="400" y="429" type="line"/>
+      <point x="102" y="429" type="line"/>
+      <point x="64" y="424" type="line"/>
+    </contour>
+    <contour>
+      <point x="234" y="280" type="line"/>
+      <point x="294" y="280" type="line"/>
+      <point x="365" y="700" type="line"/>
+      <point x="300" y="700" type="line"/>
+      <point x="299" y="663" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>280</integer>
+        <key>width</key>
+        <integer>60</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=four*.7</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=four*.7</string>
+    </dict>
+  </lib>
+</glyph>
