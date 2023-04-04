@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.tf.ss02" format="2">
+  <advance width="620"/>
+  <outline>
+    <contour>
+      <point x="109" y="159" type="line"/>
+      <point x="157" y="125" type="line"/>
+      <point x="512" y="529" type="line"/>
+      <point x="474" y="576" type="line"/>
+    </contour>
+    <component base="zero" xOffset="-9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>zero</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

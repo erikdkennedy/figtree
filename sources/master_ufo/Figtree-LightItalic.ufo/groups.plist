@@ -20,6 +20,7 @@
     <array>
       <string>dcaron</string>
       <string>lcaron</string>
+      <string>lcaron.ss02</string>
     </array>
     <key>public.kern1.arch-right-lowercase</key>
     <array>
@@ -41,6 +42,7 @@
     <array>
       <string>Eogonek</string>
       <string>Iogonek</string>
+      <string>Iogonek.ss02</string>
       <string>eogonek</string>
       <string>uogonek</string>
     </array>
@@ -70,9 +72,9 @@
     <key>public.kern1.round_right_uppercase</key>
     <array>
       <string>D</string>
-      <string>Eth</string>
       <string>Dcaron</string>
       <string>Dcroat</string>
+      <string>Eth</string>
       <string>O</string>
       <string>Oacute</string>
       <string>Ocircumflex</string>
@@ -170,9 +172,9 @@
       <string>ccircumflex</string>
       <string>cdotaccent</string>
       <string>d</string>
-      <string>eth</string>
       <string>dcaron</string>
       <string>dcroat</string>
+      <string>eth</string>
       <string>e</string>
       <string>eogonek</string>
       <string>g</string>
@@ -297,6 +299,11 @@
       <string>t</string>
       <string>tcaron</string>
       <string>tcommaaccent</string>
+      <string>l.ss02</string>
+      <string>lacute.ss02</string>
+      <string>lcaron.ss02</string>
+      <string>lcommaaccent.ss02</string>
+      <string>lslash.ss02</string>
     </array>
     <key>public.kern2.tall_punctuation</key>
     <array>

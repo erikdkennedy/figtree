@@ -143,11 +143,6 @@
       <key>z</key>
       <integer>-80</integer>
     </dict>
-    <key>a.ss02</key>
-    <dict>
-      <key>public.kern2.undercut-left-lowercase</key>
-      <integer>-30</integer>
-    </dict>
     <key>aogonek</key>
     <dict>
       <key>j</key>

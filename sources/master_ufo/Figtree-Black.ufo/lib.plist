@@ -197,9 +197,9 @@
       <string>Ccircumflex</string>
       <string>Cdotaccent</string>
       <string>D</string>
-      <string>Eth</string>
       <string>Dcaron</string>
       <string>Dcroat</string>
+      <string>Eth</string>
       <string>E</string>
       <string>Eacute</string>
       <string>Ecaron</string>
@@ -297,6 +297,15 @@
       <string>Zacute</string>
       <string>Zcaron</string>
       <string>Zdotaccent</string>
+      <string>I.ss02</string>
+      <string>IJ.ss02</string>
+      <string>Iacute.ss02</string>
+      <string>Icircumflex.ss02</string>
+      <string>Idieresis.ss02</string>
+      <string>Idotaccent.ss02</string>
+      <string>Igrave.ss02</string>
+      <string>Imacron.ss02</string>
+      <string>Iogonek.ss02</string>
       <string>a</string>
       <string>aacute</string>
       <string>abreve</string>
@@ -317,9 +326,9 @@
       <string>ccircumflex</string>
       <string>cdotaccent</string>
       <string>d</string>
-      <string>eth</string>
       <string>dcaron</string>
       <string>dcroat</string>
+      <string>eth</string>
       <string>e</string>
       <string>eacute</string>
       <string>ecaron</string>
@@ -345,9 +354,9 @@
       <string>idieresis</string>
       <string>idotaccent</string>
       <string>igrave</string>
-      <string>ij</string>
       <string>imacron</string>
       <string>iogonek</string>
+      <string>ij</string>
       <string>j</string>
       <string>jdotless</string>
       <string>jacute</string>
@@ -430,9 +439,11 @@
       <string>aogonek.ss01</string>
       <string>aring.ss01</string>
       <string>atilde.ss01</string>
-      <string>a.ss02</string>
-      <string>g.ss02</string>
-      <string>t.ss02</string>
+      <string>l.ss02</string>
+      <string>lacute.ss02</string>
+      <string>lcaron.ss02</string>
+      <string>lcommaaccent.ss02</string>
+      <string>lslash.ss02</string>
       <string>ordfeminine</string>
       <string>ordmasculine</string>
       <string>zero</string>
@@ -445,6 +456,7 @@
       <string>seven</string>
       <string>eight</string>
       <string>nine</string>
+      <string>zero.ss02</string>
       <string>zero.tf</string>
       <string>one.tf</string>
       <string>two.tf</string>
@@ -455,6 +467,7 @@
       <string>seven.tf</string>
       <string>eight.tf</string>
       <string>nine.tf</string>
+      <string>zero.tf.ss02</string>
       <string>zero.dnom</string>
       <string>one.dnom</string>
       <string>two.dnom</string>
@@ -503,11 +516,11 @@
       <string>sevensuperior</string>
       <string>eightsuperior</string>
       <string>ninesuperior</string>
+      <string>space</string>
+      <string>nbspace</string>
       <string>CR</string>
       <string>.notdef</string>
       <string>.null</string>
-      <string>space</string>
-      <string>nbspace</string>
       <string>period</string>
       <string>comma</string>
       <string>colon</string>
@@ -706,6 +719,8 @@
       <string>uni0137</string>
       <key>lcommaaccent</key>
       <string>uni013C</string>
+      <key>lcommaaccent.ss02</key>
+      <string>uni013C.ss02</string>
       <key>leftArrow</key>
       <string>arrowleft</string>
       <key>macroncomb</key>
@@ -774,10 +789,7 @@
     <key>public.skipExportGlyphs</key>
     <array>
       <string>Bowl</string>
-      <string>a.ss02</string>
       <string>arch</string>
-      <string>g.ss02</string>
-      <string>t.ss02</string>
     </array>
   </dict>
 </plist>

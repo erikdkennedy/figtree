@@ -239,10 +239,34 @@ sub atilde by atilde.ss01;
 
 } ss01;
 
+feature ss02 {
+featureNames {
+  name "";
+};
+# automatic
+sub I by I.ss02;
+sub IJ by IJ.ss02;
+sub Iacute by Iacute.ss02;
+sub Icircumflex by Icircumflex.ss02;
+sub Idieresis by Idieresis.ss02;
+sub Idotaccent by Idotaccent.ss02;
+sub Igrave by Igrave.ss02;
+sub Imacron by Imacron.ss02;
+sub Iogonek by Iogonek.ss02;
+sub l by l.ss02;
+sub lacute by lacute.ss02;
+sub lcaron by lcaron.ss02;
+sub lcommaaccent by lcommaaccent.ss02;
+sub lslash by lslash.ss02;
+sub zero by zero.ss02;
+sub zero.tf by zero.tf.ss02;
+
+} ss02;
+
 table GDEF {
   # automatic
   GlyphClassDef
-    [A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek G Gbreve Gcircumflex Gcommaaccent Gdotaccent I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent T Tcaron Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring W Wacute Wcircumflex Wdieresis Wgrave Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent a aacute abreve acaron acircumflex adieresis agrave amacron aogonek aring atilde ae c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek g gbreve gcircumflex gcommaaccent gdotaccent h hbar hcircumflex i idotless iacute icircumflex idieresis idotaccent igrave ij imacron iogonek j jdotless jacute jcircumflex k kcommaaccent l lacute lcaron lcommaaccent lslash n nacute ncaron ncommaaccent ntilde eng o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent t tcaron tcommaaccent u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring w wacute wcircumflex wdieresis wgrave y yacute ycircumflex ydieresis ygrave z zacute zcaron zdotaccent a.ss01 aacute.ss01 abreve.ss01 acaron.ss01 acircumflex.ss01 adieresis.ss01 agrave.ss01 amacron.ss01 aogonek.ss01 aring.ss01 atilde.ss01 ordfeminine ordmasculine cent], # Base
+    [A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek G Gbreve Gcircumflex Gcommaaccent Gdotaccent I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent T Tcaron Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring W Wacute Wcircumflex Wdieresis Wgrave Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent I.ss02 IJ.ss02 Iacute.ss02 Icircumflex.ss02 Idieresis.ss02 Idotaccent.ss02 Igrave.ss02 Imacron.ss02 Iogonek.ss02 a aacute abreve acaron acircumflex adieresis agrave amacron aogonek aring atilde ae c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek g gbreve gcircumflex gcommaaccent gdotaccent h hbar hcircumflex i idotless iacute icircumflex idieresis idotaccent igrave imacron iogonek ij j jdotless jacute jcircumflex k kcommaaccent l lacute lcaron lcommaaccent lslash n nacute ncaron ncommaaccent ntilde eng o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent t tcaron tcommaaccent u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring w wacute wcircumflex wdieresis wgrave y yacute ycircumflex ydieresis ygrave z zacute zcaron zdotaccent a.ss01 aacute.ss01 abreve.ss01 acaron.ss01 acircumflex.ss01 adieresis.ss01 agrave.ss01 amacron.ss01 aogonek.ss01 aring.ss01 atilde.ss01 l.ss02 lacute.ss02 lcaron.ss02 lcommaaccent.ss02 lslash.ss02 ordfeminine ordmasculine cent], # Base
     , # Liga
     [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb caroncomb.alt circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb commaturnedabovecomb commaaccentcomb cedillacomb ogonekcomb ogonekcomb.alt macroncomb.narrow], # Mark
     ;

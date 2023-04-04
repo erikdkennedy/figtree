@@ -98,22 +98,40 @@
     <string>H_circumflex.glif</string>
     <key>I</key>
     <string>I_.glif</string>
+    <key>I.ss02</key>
+    <string>I_.ss02.glif</string>
     <key>IJ</key>
     <string>I_J_.glif</string>
+    <key>IJ.ss02</key>
+    <string>I_J_.ss02.glif</string>
     <key>Iacute</key>
     <string>I_acute.glif</string>
+    <key>Iacute.ss02</key>
+    <string>I_acute.ss02.glif</string>
     <key>Icircumflex</key>
     <string>I_circumflex.glif</string>
+    <key>Icircumflex.ss02</key>
+    <string>I_circumflex.ss02.glif</string>
     <key>Idieresis</key>
     <string>I_dieresis.glif</string>
+    <key>Idieresis.ss02</key>
+    <string>I_dieresis.ss02.glif</string>
     <key>Idotaccent</key>
     <string>I_dotaccent.glif</string>
+    <key>Idotaccent.ss02</key>
+    <string>I_dotaccent.ss02.glif</string>
     <key>Igrave</key>
     <string>I_grave.glif</string>
+    <key>Igrave.ss02</key>
+    <string>I_grave.ss02.glif</string>
     <key>Imacron</key>
     <string>I_macron.glif</string>
+    <key>Imacron.ss02</key>
+    <string>I_macron.ss02.glif</string>
     <key>Iogonek</key>
     <string>I_ogonek.glif</string>
+    <key>Iogonek.ss02</key>
+    <string>I_ogonek.ss02.glif</string>
     <key>J</key>
     <string>J_.glif</string>
     <key>Jacute</key>
@@ -254,8 +272,6 @@
     <string>a.glif</string>
     <key>a.ss01</key>
     <string>a.ss01.glif</string>
-    <key>a.ss02</key>
-    <string>a.ss02.glif</string>
     <key>aacute</key>
     <string>aacute.glif</string>
     <key>aacute.ss01</key>
@@ -486,8 +502,6 @@
     <string>fraction.glif</string>
     <key>g</key>
     <string>g.glif</string>
-    <key>g.ss02</key>
-    <string>g.ss02.glif</string>
     <key>gbreve</key>
     <string>gbreve.glif</string>
     <key>gcircumflex</key>
@@ -560,12 +574,20 @@
     <string>kcommaaccent.glif</string>
     <key>l</key>
     <string>l.glif</string>
+    <key>l.ss02</key>
+    <string>l.ss02.glif</string>
     <key>lacute</key>
     <string>lacute.glif</string>
+    <key>lacute.ss02</key>
+    <string>lacute.ss02.glif</string>
     <key>lcaron</key>
     <string>lcaron.glif</string>
+    <key>lcaron.ss02</key>
+    <string>lcaron.ss02.glif</string>
     <key>lcommaaccent</key>
     <string>lcommaaccent.glif</string>
+    <key>lcommaaccent.ss02</key>
+    <string>lcommaaccent.ss02.glif</string>
     <key>leftArrow</key>
     <string>leftA_rrow.glif</string>
     <key>less</key>
@@ -576,6 +598,8 @@
     <string>logicalnot.glif</string>
     <key>lslash</key>
     <string>lslash.glif</string>
+    <key>lslash.ss02</key>
+    <string>lslash.ss02.glif</string>
     <key>m</key>
     <string>m.glif</string>
     <key>macron</key>
@@ -784,8 +808,6 @@
     <string>sterling.glif</string>
     <key>t</key>
     <string>t.glif</string>
-    <key>t.ss02</key>
-    <string>t.ss02.glif</string>
     <key>tcaron</key>
     <string>tcaron.glif</string>
     <key>tcommaaccent</key>
@@ -890,8 +912,12 @@
     <string>zero.dnom.glif</string>
     <key>zero.numr</key>
     <string>zero.numr.glif</string>
+    <key>zero.ss02</key>
+    <string>zero.ss02.glif</string>
     <key>zero.tf</key>
     <string>zero.tf.glif</string>
+    <key>zero.tf.ss02</key>
+    <string>zero.tf.ss02.glif</string>
     <key>zeroinferior</key>
     <string>zeroinferior.glif</string>
     <key>zerosuperior</key>

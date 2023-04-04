@@ -127,10 +127,7 @@
       <key>public.skipExportGlyphs</key>
       <array>
         <string>Bowl</string>
-        <string>a.ss02</string>
         <string>arch</string>
-        <string>g.ss02</string>
-        <string>t.ss02</string>
       </array>
     </dict>
   </lib>
