@@ -322,7 +322,7 @@ sub zero.tf by zero.tf.ss02;
 labels = (
 {
 language = dflt;
-value = "";
+value = Disambiguation;
 }
 );
 tag = ss02;
