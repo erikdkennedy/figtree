@@ -241,7 +241,7 @@ sub atilde by atilde.ss01;
 
 feature ss02 {
 featureNames {
-  name "";
+  name "Disambiguation";
 };
 # automatic
 sub I by I.ss02;
