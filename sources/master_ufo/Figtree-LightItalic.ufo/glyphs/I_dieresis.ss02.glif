@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresis.ss02" format="2">
+  <advance width="364"/>
+  <anchor x="182" y="670" name="_top"/>
+  <anchor x="182" y="880" name="top"/>
+  <anchor x="182" y="0" name="bottom"/>
+  <anchor x="214" y="0" name="ogonek"/>
+  <anchor x="126" y="700" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="342" y="800" type="curve" smooth="yes"/>
+      <point x="364" y="800"/>
+      <point x="382" y="818"/>
+      <point x="382" y="840" type="curve" smooth="yes"/>
+      <point x="382" y="862"/>
+      <point x="364" y="880"/>
+      <point x="342" y="880" type="curve" smooth="yes"/>
+      <point x="320" y="880"/>
+      <point x="302" y="862"/>
+      <point x="302" y="840" type="curve" smooth="yes"/>
+      <point x="302" y="818"/>
+      <point x="320" y="800"/>
+    </contour>
+    <contour>
+      <point x="221" y="800" type="curve" smooth="yes"/>
+      <point x="243" y="800"/>
+      <point x="261" y="818"/>
+      <point x="261" y="840" type="curve" smooth="yes"/>
+      <point x="261" y="862"/>
+      <point x="243" y="880"/>
+      <point x="221" y="880" type="curve" smooth="yes"/>
+      <point x="199" y="880"/>
+      <point x="181" y="862"/>
+      <point x="181" y="840" type="curve" smooth="yes"/>
+      <point x="181" y="818"/>
+      <point x="199" y="800"/>
+    </contour>
+    <component base="I.ss02"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=I.ss02</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=I.ss02</string>
+    </dict>
+  </lib>
+</glyph>

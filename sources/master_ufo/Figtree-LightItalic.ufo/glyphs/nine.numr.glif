@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.numr" format="2">
+  <advance width="353"/>
+  <outline>
+    <contour>
+      <point x="162" y="273" type="curve" smooth="yes"/>
+      <point x="269" y="273"/>
+      <point x="339" y="365"/>
+      <point x="362" y="504" type="curve" smooth="yes"/>
+      <point x="380" y="613"/>
+      <point x="355" y="707"/>
+      <point x="238" y="707" type="curve" smooth="yes"/>
+      <point x="154" y="707"/>
+      <point x="88" y="653"/>
+      <point x="75" y="576" type="curve" smooth="yes"/>
+      <point x="61" y="494"/>
+      <point x="110" y="434"/>
+      <point x="193" y="434" type="curve" smooth="yes"/>
+      <point x="246" y="434"/>
+      <point x="293" y="462"/>
+      <point x="320" y="509" type="curve"/>
+      <point x="308" y="523" type="line"/>
+      <point x="290" y="392"/>
+      <point x="236" y="328"/>
+      <point x="159" y="328" type="curve" smooth="yes"/>
+      <point x="137" y="328"/>
+      <point x="106" y="336"/>
+      <point x="84" y="354" type="curve"/>
+      <point x="46" y="311" type="line"/>
+      <point x="76" y="287"/>
+      <point x="118" y="273"/>
+    </contour>
+    <contour>
+      <point x="201" y="486" type="curve" smooth="yes"/>
+      <point x="152" y="486"/>
+      <point x="128" y="522"/>
+      <point x="136" y="568" type="curve" smooth="yes"/>
+      <point x="144" y="617"/>
+      <point x="188" y="653"/>
+      <point x="237" y="653" type="curve" smooth="yes"/>
+      <point x="285" y="653"/>
+      <point x="311" y="618"/>
+      <point x="304" y="575" type="curve" smooth="yes"/>
+      <point x="295" y="523"/>
+      <point x="252" y="486"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>60</integer>
+        <key>verticalShift</key>
+        <integer>280</integer>
+        <key>width</key>
+        <integer>60</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=nine*.7</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=nine*.7</string>
+    </dict>
+  </lib>
+</glyph>

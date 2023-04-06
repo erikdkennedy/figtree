@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u" format="2">
+  <advance width="554"/>
+  <unicode hex="0075"/>
+  <anchor x="437" y="0" name="ogonek"/>
+  <anchor x="310" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="381" y="0" type="line"/>
+      <point x="437" y="0" type="line"/>
+      <point x="521" y="500" type="line"/>
+      <point x="461" y="500" type="line"/>
+      <point x="393" y="92" type="line"/>
+    </contour>
+    <contour>
+      <point x="54" y="216" type="line"/>
+      <point x="119" y="242" type="line"/>
+      <point x="162" y="500" type="line"/>
+      <point x="102" y="500" type="line"/>
+    </contour>
+    <component base="arch" xScale="-1.0" yScale="-1.0" xOffset="458" yOffset="500"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|n</string>
+    </dict>
+  </lib>
+</glyph>

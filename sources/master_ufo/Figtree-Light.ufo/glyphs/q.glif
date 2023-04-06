@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="q" format="2">
+  <advance width="572"/>
+  <unicode hex="0071"/>
+  <outline>
+    <contour>
+      <point x="447" y="-200" type="line"/>
+      <point x="507" y="-200" type="line"/>
+      <point x="507" y="500" type="line"/>
+      <point x="450" y="500" type="line"/>
+      <point x="447" y="407" type="line"/>
+    </contour>
+    <component base="Bowl"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=n+5</string>
+    </dict>
+  </lib>
+</glyph>
