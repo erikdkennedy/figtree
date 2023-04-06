@@ -2,23 +2,6 @@
 .appVersion = "3182";
 .formatVersion = 3;
 DisplayStrings = (
-<<<<<<< HEAD
-"emnu
-ø/arch n",
-"Æe",
-"Large Handles:
-ẞæggª3/three.numr &&~~/ogonekcomb.alt 
-
-Almost Orthogonal Lines:
-e2®̂̌/ogonekcomb.alt 
-
-Short Line Segments:
-ßµ̂̌̌
-
-Bad Path Orientation:
-X8¤×
-
-=======
 "a/l.ss02/l.ss02  a/l.ss02 t ta/l.ss02/l.ss02  ye/l.ss02/l.ss02 ow Li/l.ss02/l.ss02 ian /l.ss02 and/l.ss02 ord A/l.ss02/l.ss02 egro
  B/l.ss02 ack C/l.ss02 ick Elephant 
 /I.ss02/l.ss02/l.ss02 inois /I.ss02 nterstate /I.ss02 -75  
@@ -26,7 +9,6 @@ P/I.ss02 N /I.ss02 NT K/I.ss02 LL /I.ss02 B/I.ss02 S CH/I.ss02 EF F/I.ss02 CT/I.
 AB-/zero.ss02 1-FO/zero.ss02 4
 /IJ.ss02/Iacute.ss02/Icircumflex.ss02/Idieresis.ss02/Idotaccent.ss02/Igrave.ss02/Imacron.ss02/Iogonek.ss02 
 /l.ss02/lacute.ss02/lcaron.ss02/lcommaaccent.ss02/lslash.ss02 
->>>>>>> be6cb018f2f93a9b1195f3dfd077123f718c65f8
 "
 );
 axes = (
@@ -8978,11 +8960,7 @@ unicode = 240;
 glyphname = e;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
-<<<<<<< HEAD
-lastChange = "2023-03-29 16:41:47 +0000";
-=======
 lastChange = "2023-04-04 06:13:46 +0000";
->>>>>>> be6cb018f2f93a9b1195f3dfd077123f718c65f8
 layers = (
 {
 anchors = (
@@ -9185,12 +9163,6 @@ nodes = (
 {
 closed = 1;
 nodes = (
-<<<<<<< HEAD
-(469,215,l),
-(469,318,l),
-(116,318,l),
-(116,215,l)
-=======
 (190,371,o),
 (228,395,o),
 (285,395,cs),
@@ -9243,7 +9215,6 @@ nodes = (
 (403,313,l),
 (162,313,l),
 (174,301,l)
->>>>>>> be6cb018f2f93a9b1195f3dfd077123f718c65f8
 );
 }
 );
@@ -12038,11 +12009,7 @@ unicode = 333;
 glyphname = oslash;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
-<<<<<<< HEAD
-lastChange = "2023-03-29 16:37:11 +0000";
-=======
 lastChange = "2023-04-04 03:10:28 +0000";
->>>>>>> be6cb018f2f93a9b1195f3dfd077123f718c65f8
 layers = (
 {
 layerId = m01;
@@ -15965,11 +15932,7 @@ unicode = 49;
 },
 {
 glyphname = two;
-<<<<<<< HEAD
-lastChange = "2023-03-29 16:41:38 +0000";
-=======
 lastChange = "2023-04-03 06:25:36 +0000";
->>>>>>> be6cb018f2f93a9b1195f3dfd077123f718c65f8
 layers = (
 {
 layerId = m01;
@@ -15987,7 +15950,7 @@ nodes = (
 (440,383,o),
 (476,447,o),
 (476,515,cs),
-(476,627,o),
+(475,627,o),
 (389,712,o),
 (255,712,cs),
 (140,712,o),
@@ -22980,7 +22943,7 @@ unicode = 169;
 },
 {
 glyphname = registered;
-lastChange = "2023-03-29 16:42:00 +0000";
+lastChange = "2022-09-05 14:28:20 +0000";
 layers = (
 {
 layerId = m01;
@@ -23105,8 +23068,8 @@ nodes = (
 (428,446,o),
 (428,484,cs),
 (428,542,o),
-(382,583,o),
-(316,583,cs),
+(382,584,o),
+(316,584,cs),
 (195,583,l),
 (195,292,l)
 );
