@@ -1,6 +1,24 @@
 {
 .appVersion = "3151";
 .formatVersion = 3;
+DisplayStrings = (
+"emnu
+ø/arch n",
+"Æe",
+"Large Handles:
+ẞæggª3/three.numr &&~~/ogonekcomb.alt 
+
+Almost Orthogonal Lines:
+e2®̂̌/ogonekcomb.alt 
+
+Short Line Segments:
+ßµ̂̌̌
+
+Bad Path Orientation:
+X8¤×
+
+"
+);
 axes = (
 {
 name = Weight;
@@ -8542,7 +8560,7 @@ unicode = 273;
 glyphname = e;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
-lastChange = "2023-02-22 13:43:58 +0000";
+lastChange = "2023-03-29 16:41:47 +0000";
 layers = (
 {
 anchors = (
@@ -8762,7 +8780,7 @@ closed = 1;
 nodes = (
 (469,215,l),
 (469,318,l),
-(117,318,l),
+(116,318,l),
 (116,215,l)
 );
 }
@@ -11541,7 +11559,7 @@ unicode = 333;
 glyphname = oslash;
 kernLeft = "round-left-lowercase";
 kernRight = "round-right-lowercase";
-lastChange = "2022-09-05 14:27:59 +0000";
+lastChange = "2023-03-29 16:37:11 +0000";
 layers = (
 {
 layerId = m01;
@@ -15780,7 +15798,7 @@ unicode = 49;
 },
 {
 glyphname = two;
-lastChange = "2022-09-05 14:28:20 +0000";
+lastChange = "2023-03-29 16:41:38 +0000";
 layers = (
 {
 layerId = m01;
@@ -15795,7 +15813,7 @@ nodes = (
 (440,383,o),
 (476,447,o),
 (476,515,cs),
-(475,627,o),
+(476,627,o),
 (389,712,o),
 (255,712,cs),
 (140,712,o),
@@ -22581,7 +22599,7 @@ unicode = 169;
 },
 {
 glyphname = registered;
-lastChange = "2022-09-05 14:28:20 +0000";
+lastChange = "2023-03-29 16:42:00 +0000";
 layers = (
 {
 layerId = m01;
@@ -22706,8 +22724,8 @@ nodes = (
 (428,446,o),
 (428,484,cs),
 (428,542,o),
-(382,584,o),
-(316,584,cs),
+(382,583,o),
+(316,583,cs),
 (195,583,l),
 (195,292,l)
 );
