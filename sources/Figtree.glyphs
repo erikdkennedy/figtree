@@ -1,15 +1,9 @@
 {
-.appVersion = "3182";
+.appVersion = "3185";
 .formatVersion = 3;
 DisplayStrings = (
-"a/l.ss02/l.ss02  a/l.ss02 t ta/l.ss02/l.ss02  ye/l.ss02/l.ss02 ow Li/l.ss02/l.ss02 ian /l.ss02 and/l.ss02 ord A/l.ss02/l.ss02 egro
- B/l.ss02 ack C/l.ss02 ick Elephant 
-/I.ss02/l.ss02/l.ss02 inois /I.ss02 nterstate /I.ss02 -75  
-P/I.ss02 N /I.ss02 NT K/I.ss02 LL /I.ss02 B/I.ss02 S CH/I.ss02 EF F/I.ss02 CT/I.ss02 ON G/I.ss02 NJ/I.ss02 NHA L/I.ss02 L/I.ss02 ANA 
-AB-/zero.ss02 1-FO/zero.ss02 4
-/IJ.ss02/Iacute.ss02/Icircumflex.ss02/Idieresis.ss02/Idotaccent.ss02/Igrave.ss02/Imacron.ss02/Iogonek.ss02 
-/l.ss02/lacute.ss02/lcaron.ss02/lcommaaccent.ss02/lslash.ss02 
-"
+"₹500 ₹43
+₹71.89 ₹R"
 );
 axes = (
 {
@@ -24197,6 +24191,128 @@ width = 725;
 );
 metricRight = C;
 unicode = 8364;
+},
+{
+glyphname = rupeeIndian;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(238,275,ls),
+(372,275,o),
+(476,363,o),
+(476,487,cs),
+(476,612,o),
+(364,700,o),
+(232,700,c),
+(100,700,l),
+(100,641,l),
+(252,641,ls),
+(346,641,o),
+(413,578,o),
+(413,488,cs),
+(413,397,o),
+(337,334,o),
+(248,334,cs),
+(100,334,l),
+(100,278,l),
+(144,275,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(491,0,l),
+(144,321,l),
+(100,278,l),
+(399,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(536,458,l),
+(540,516,l),
+(100,516,l),
+(100,458,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(536,641,l),
+(540,700,l),
+(100,700,l),
+(100,641,l)
+);
+}
+);
+width = 630;
+},
+{
+layerId = "747A0BA5-337F-45E8-9896-B2CAF0968805";
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,181,ls),
+(351,181,o),
+(463,285,o),
+(463,432,cs),
+(463,589,o),
+(351,700,o),
+(193,700,cs),
+(60,700,l),
+(60,548,l),
+(183,548,ls),
+(233,548,o),
+(268,499,o),
+(268,432,cs),
+(268,374,o),
+(233,333,o),
+(183,333,cs),
+(60,333,l),
+(60,208,l),
+(103,181,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(482,0,l),
+(188,312,l),
+(60,208,l),
+(253,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(530,377,l),
+(530,505,l),
+(60,505,l),
+(60,377,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(530,572,l),
+(530,700,l),
+(60,700,l),
+(60,572,l)
+);
+}
+);
+width = 580;
+}
+);
+metricLeft = R;
+metricRight = E;
+unicode = 8377;
 },
 {
 glyphname = sterling;
