@@ -5,6 +5,7 @@ axisOrder:
       - wght
       - ital
 familyName: Figtree
+cleanUp: true
 stat:
       Figtree[wght].ttf:
       - name: Weight
