@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 .appVersion = "3201";
 .formatVersion = 3;
 DisplayStrings = (
@@ -29,6 +30,13 @@ Mirrored components:
 
 Shifted components:
 ÁĂǍÂÄÀĀĄÅÃĆČÇĈĊĎÐÉĚÊËĖÈĒĘĞĜĢĠĤĲÍÎÏİÌĪĮ/Jacute ĴĶĹĽĻŁŃŇŅÑÓÔÖÒŐŌØÕŒŔŘŖŚŠŞŜȘŤȚÚŬÛÜÙŰŪŲŮẂŴẄẀÝŶŸỲŹŽŻ/IJ.ss02/Icircumflex.ss02/Idotaccent.ss02/Igrave.ss02/Imacron.ss02/Iogonek.ss02 aáăǎâäàāąåãæćčçĉċdďéěêëėèēęğĝģġhĥiíî/idotaccent ìīįĳj/jacute ĵķĺľļłnńňņñŋóôöòőōøõœqŕřŗśšşŝșťțúŭûüùűūųůẃŵẅẁýŷÿỳźžż/a.ss01/aacute.ss01/abreve.ss01/acaron.ss01/acircumflex.ss01/adieresis.ss01/agrave.ss01/amacron.ss01/aogonek.ss01/aring.ss01/atilde.ss01/lacute.ss02/lcaron.ss02/lcommaaccent.ss02/lslash.ss02/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf/zero.tf.ss02/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom ½¼¾⅛⅜⅝⅞₀₁₂₃₄₅₆₇₈₉⁰¹²³⁴⁵⁶⁷⁸⁹;…·/periodcentered.loclCAT/periodcentered.loclCAT.case ’«\"¢≠`"
+=======
+.appVersion = "3185";
+.formatVersion = 3;
+DisplayStrings = (
+"₹500 ₹43
+₹71.89 ₹R"
+>>>>>>> 937cfe82ffa598f4965350aa9edfdf133f483d90
 );
 axes = (
 {
@@ -24571,6 +24579,128 @@ width = 727;
 );
 metricRight = C;
 unicode = 8364;
+},
+{
+glyphname = rupeeIndian;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(244,275,ls),
+(378,275,o),
+(495,361,o),
+(515,483,cs),
+(536,610,o),
+(437,700,o),
+(305,700,c),
+(175,700,l),
+(165,641,l),
+(319,641,ls),
+(413,641,o),
+(468,580,o),
+(453,492,cs),
+(438,399,o),
+(349,334,o),
+(260,334,cs),
+(114,334,l),
+(105,278,l),
+(148,275,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(448,0,l),
+(155,321,l),
+(105,278,l),
+(358,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(571,458,l),
+(585,516,l),
+(145,516,l),
+(135,458,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(602,641,l),
+(615,700,l),
+(175,700,l),
+(165,641,l)
+);
+}
+);
+width = 630;
+},
+{
+layerId = "AEB41AA6-A430-455D-A6E9-A3012AD74722";
+shapes = (
+{
+closed = 1;
+nodes = (
+(175,181,ls),
+(346,181,o),
+(468,280,o),
+(492,421,cs),
+(519,584,o),
+(420,700,o),
+(262,700,cs),
+(135,700,l),
+(110,548,l),
+(239,548,ls),
+(289,548,o),
+(311,504,o),
+(300,443,cs),
+(290,379,o),
+(241,333,o),
+(191,333,cs),
+(74,333,l),
+(54,208,l),
+(93,181,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(439,0,l),
+(195,312,l),
+(54,208,l),
+(214,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(551,377,l),
+(573,505,l),
+(103,505,l),
+(81,377,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(584,572,l),
+(605,700,l),
+(135,700,l),
+(114,572,l)
+);
+}
+);
+width = 580;
+}
+);
+metricLeft = R;
+metricRight = E;
+unicode = 8377;
 },
 {
 glyphname = sterling;
